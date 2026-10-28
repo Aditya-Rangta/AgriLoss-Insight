@@ -1,0 +1,1501 @@
+district,variety,month,packaging,transport,road_condition,storage_type,distance_km,delay_hours,storage_days,rainfall_mm,loss_percent,loss_level
+Mandi,Golden Delicious,Nov,Plastic Crate,Truck,Average,Cold Store,540.0,1.7,16.0,63.0,14.2,Medium
+Kullu,Fuji,Sep,Wooden Box,Truck,Average,CA Store,384.0,10.6,1.0,55.0,9.85,Low
+Chamba,Red Delicious,Sep,Cardboard Carton,Pickup,Good,Ambient,183.0,2.5,11.0,59.0,10.39,Low
+Kinnaur,Red Delicious,Aug,Plastic Crate,Truck,Average,Cold Store,98.0,2.1,15.0,46.0,4.2,Low
+Shimla,Gala,Aug,Cardboard Carton,Truck,Average,CA Store,354.0,1.3,14.0,19.0,9.12,Low
+Sirmaur,Red Delicious,Oct,Plastic Crate,Truck,Average,Cold Store,273.0,7.9,40.0,2.0,14.9,Medium
+Mandi,Golden Delicious,Aug,Wooden Box,Truck,Poor,Ambient,94.0,4.7,40.0,32.0,18.44,Medium
+Mandi,Red Delicious,Oct,Cardboard Carton,Truck,Poor,Ambient,336.0,10.3,58.0,94.0,17.1,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,245.0,3.1,14.0,69.0,15.18,Medium
+Kullu,Golden Delicious,Aug,Plastic Crate,Truck,Average,Ambient,349.0,1.8,49.0,57.0,17.82,Medium
+Kullu,Royal Delicious,Sep,Cardboard Carton,Pickup,Average,Ambient,337.0,4.5,49.0,18.0,14.73,Medium
+Sirmaur,Royal Delicious,Oct,Gunny/Loose,Pickup,Average,Ambient,201.0,11.7,22.0,45.0,22.71,High
+Kinnaur,Golden Delicious,Nov,Plastic Crate,Tempo,Good,CA Store,362.0,1.0,32.0,89.0,14.13,Medium
+Chamba,Golden Delicious,Sep,Plastic Crate,Truck,Average,Ambient,215.0,5.9,44.0,80.0,16.91,Medium
+Kullu,Gala,Nov,Cardboard Carton,Truck,Average,CA Store,224.0,6.4,24.0,41.0,6.16,Low
+Shimla,Royal Delicious,Oct,Plastic Crate,Truck,Average,CA Store,211.0,13.1,23.0,0.0,6.54,Low
+Kullu,Royal Delicious,Oct,Gunny/Loose,Truck,Poor,Cold Store,427.0,2.3,16.0,33.0,16.06,Medium
+Shimla,Fuji,Sep,Cardboard Carton,Truck,Average,Ambient,244.0,0.9,1.0,41.0,10.3,Low
+Chamba,Royal Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,458.0,3.4,26.0,24.0,15.93,Medium
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Truck,Good,Ambient,512.0,8.7,14.0,43.0,15.38,Medium
+Mandi,Royal Delicious,Sep,Cardboard Carton,Truck,Good,Ambient,184.0,4.9,9.0,93.0,13.37,Medium
+Kullu,Red Delicious,Nov,Plastic Crate,Truck,Average,Ambient,30.0,6.9,31.0,59.0,14.23,Medium
+Sirmaur,Gala,Nov,Wooden Box,Pickup,Average,CA Store,416.0,1.9,3.0,100.0,13.21,Medium
+Chamba,Gala,Sep,Wooden Box,Tempo,Good,Ambient,236.0,3.9,37.0,0.0,18.18,Medium
+Mandi,Golden Delicious,Oct,Cardboard Carton,Pickup,Good,Ambient,167.0,5.0,32.0,48.0,13.5,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Pickup,Good,Ambient,203.0,1.1,19.0,0.0,8.58,Low
+Kullu,Red Delicious,Oct,Cardboard Carton,Pickup,Poor,Cold Store,226.0,5.0,24.0,43.0,10.98,Low
+Shimla,Red Delicious,Oct,Gunny/Loose,Pickup,Poor,CA Store,449.0,3.6,7.0,18.0,15.18,Medium
+Shimla,Royal Delicious,Aug,Wooden Box,Truck,Average,Ambient,301.0,25.9,36.0,111.0,21.59,High
+Kinnaur,Royal Delicious,Aug,Cardboard Carton,Pickup,Good,Cold Store,447.0,4.7,28.0,76.0,11.34,Low
+Mandi,Royal Delicious,Sep,Plastic Crate,Pickup,Good,Cold Store,344.0,13.6,29.0,101.0,17.87,Medium
+Sirmaur,Royal Delicious,Nov,Cardboard Carton,Truck,Good,Cold Store,240.0,6.8,33.0,43.0,10.87,Low
+Shimla,Red Delicious,Sep,Cardboard Carton,Pickup,Average,CA Store,229.0,4.3,15.0,19.0,8.43,Low
+Kullu,Golden Delicious,Nov,Cardboard Carton,Truck,Good,CA Store,353.0,12.2,2.0,18.0,10.73,Low
+Kullu,Royal Delicious,Sep,Gunny/Loose,Pickup,Average,Ambient,387.0,1.6,39.0,71.0,24.97,High
+Shimla,Red Delicious,Sep,Plastic Crate,Truck,Poor,Ambient,410.0,3.3,35.0,132.0,18.14,Medium
+Shimla,Gala,Nov,Wooden Box,Pickup,Average,Ambient,246.0,9.0,17.0,76.0,17.54,Medium
+Kullu,Golden Delicious,Oct,Cardboard Carton,Tempo,Poor,Cold Store,303.0,0.4,31.0,45.0,16.97,Medium
+Shimla,Gala,Sep,Cardboard Carton,Truck,Good,Cold Store,356.0,4.6,44.0,52.0,11.68,Low
+Kinnaur,Red Delicious,Aug,Wooden Box,Truck,Good,Cold Store,230.0,4.6,42.0,59.0,8.81,Low
+Kullu,Gala,Aug,Cardboard Carton,Truck,Poor,Cold Store,132.0,5.8,17.0,141.0,14.39,Medium
+Chamba,Royal Delicious,Aug,Gunny/Loose,Truck,Average,CA Store,175.0,4.0,3.0,109.0,11.45,Low
+Kinnaur,Red Delicious,Sep,Plastic Crate,Tempo,Average,Ambient,249.0,8.8,5.0,70.0,15.84,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,Ambient,366.0,2.5,20.0,64.0,15.32,Medium
+Chamba,Red Delicious,Sep,Plastic Crate,Truck,Average,Cold Store,444.0,9.6,47.0,72.0,16.42,Medium
+Mandi,Red Delicious,Aug,Gunny/Loose,Truck,Average,Cold Store,104.0,1.8,14.0,80.0,12.09,Medium
+Kullu,Royal Delicious,Sep,Wooden Box,Tempo,Average,Cold Store,202.0,6.1,16.0,43.0,15.75,Medium
+Shimla,Gala,Sep,Wooden Box,Truck,Good,CA Store,233.0,11.2,16.0,26.0,9.96,Low
+Kinnaur,Royal Delicious,Nov,Gunny/Loose,Pickup,Good,Cold Store,383.0,2.3,17.0,101.0,15.16,Medium
+Shimla,Royal Delicious,Sep,Cardboard Carton,Truck,Good,Cold Store,211.0,2.8,25.0,61.0,10.36,Low
+Shimla,Royal Delicious,Aug,Gunny/Loose,Truck,Poor,Cold Store,224.0,9.9,6.0,98.0,20.38,High
+Shimla,Red Delicious,Oct,Cardboard Carton,Pickup,Average,Cold Store,96.0,5.5,41.0,126.0,11.44,Low
+Mandi,Royal Delicious,Nov,Wooden Box,Truck,Good,Ambient,343.0,0.9,23.0,81.0,11.58,Low
+Kinnaur,Red Delicious,Oct,Plastic Crate,Pickup,Good,Cold Store,259.0,5.6,62.0,74.0,10.82,Low
+Kinnaur,Royal Delicious,Oct,Wooden Box,Truck,Average,CA Store,195.0,7.7,7.0,188.0,10.04,Low
+Mandi,Gala,Nov,Wooden Box,Pickup,Poor,CA Store,246.0,10.2,49.0,68.0,17.4,Medium
+Kullu,Fuji,Oct,Wooden Box,Pickup,Good,CA Store,427.0,6.0,46.0,16.0,10.33,Low
+Kullu,Red Delicious,Nov,Cardboard Carton,Pickup,Average,Ambient,149.0,7.0,19.0,49.0,17.37,Medium
+Shimla,Golden Delicious,Aug,Cardboard Carton,Truck,Poor,Ambient,171.0,14.5,19.0,122.0,18.37,Medium
+Shimla,Gala,Oct,Cardboard Carton,Pickup,Poor,Ambient,443.0,9.2,11.0,8.0,18.42,Medium
+Kinnaur,Fuji,Nov,Wooden Box,Tempo,Poor,Ambient,290.0,3.9,11.0,30.0,18.48,Medium
+Kullu,Golden Delicious,Nov,Cardboard Carton,Truck,Good,Cold Store,367.0,4.3,25.0,104.0,13.28,Medium
+Kullu,Gala,Sep,Cardboard Carton,Truck,Good,Cold Store,332.0,10.9,25.0,49.0,7.35,Low
+Mandi,Fuji,Oct,Gunny/Loose,Tempo,Average,Cold Store,275.0,5.9,1.0,56.0,12.06,Medium
+Kinnaur,Gala,Sep,Cardboard Carton,Truck,Good,Cold Store,235.0,5.3,59.0,103.0,11.66,Low
+Kullu,Red Delicious,Oct,Cardboard Carton,Pickup,Poor,Ambient,388.0,3.8,21.0,31.0,20.37,High
+Kullu,Royal Delicious,Sep,Cardboard Carton,Pickup,Good,Cold Store,431.0,10.6,26.0,1.0,16.48,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,421.0,2.4,16.0,4.0,8.94,Low
+Shimla,Red Delicious,Oct,Plastic Crate,Pickup,Poor,Cold Store,126.0,3.3,21.0,83.0,11.34,Low
+Kullu,Red Delicious,Sep,Cardboard Carton,Pickup,Poor,CA Store,450.0,10.6,20.0,70.0,13.84,Medium
+Shimla,Red Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,233.0,10.5,25.0,32.0,16.63,Medium
+Kullu,Red Delicious,Sep,Gunny/Loose,Tempo,Poor,CA Store,182.0,20.5,25.0,14.0,23.95,High
+Chamba,Red Delicious,Oct,Plastic Crate,Truck,Good,CA Store,258.0,4.6,37.0,49.0,10.35,Low
+Shimla,Gala,Oct,Plastic Crate,Truck,Average,Cold Store,388.0,3.8,28.0,105.0,14.23,Medium
+Shimla,Royal Delicious,Oct,Gunny/Loose,Tempo,Good,Ambient,350.0,4.1,36.0,27.0,19.3,Medium
+Shimla,Royal Delicious,Aug,Gunny/Loose,Truck,Poor,Cold Store,247.0,1.0,25.0,33.0,15.24,Medium
+Shimla,Gala,Oct,Cardboard Carton,Tempo,Poor,Ambient,389.0,0.5,28.0,12.0,21.74,High
+Kinnaur,Gala,Oct,Wooden Box,Truck,Good,Cold Store,298.0,6.0,21.0,45.0,10.82,Low
+Kullu,Fuji,Aug,Wooden Box,Truck,Good,CA Store,206.0,3.6,40.0,74.0,4.08,Low
+Mandi,Gala,Sep,Cardboard Carton,Truck,Average,Ambient,188.0,2.5,30.0,145.0,15.31,Medium
+Kinnaur,Gala,Sep,Cardboard Carton,Pickup,Good,Cold Store,333.0,5.2,23.0,69.0,11.29,Low
+Kullu,Royal Delicious,Sep,Cardboard Carton,Pickup,Poor,CA Store,269.0,6.1,22.0,58.0,8.48,Low
+Mandi,Red Delicious,Aug,Plastic Crate,Tempo,Good,Ambient,101.0,4.4,23.0,95.0,14.57,Medium
+Shimla,Royal Delicious,Sep,Plastic Crate,Tempo,Poor,CA Store,390.0,4.5,25.0,88.0,16.58,Medium
+Shimla,Golden Delicious,Aug,Plastic Crate,Pickup,Average,CA Store,218.0,3.5,24.0,37.0,14.3,Medium
+Shimla,Fuji,Aug,Cardboard Carton,Pickup,Average,Ambient,487.0,8.2,17.0,152.0,17.44,Medium
+Mandi,Royal Delicious,Sep,Cardboard Carton,Pickup,Good,Cold Store,98.0,3.1,36.0,59.0,9.2,Low
+Kullu,Red Delicious,Oct,Wooden Box,Tempo,Poor,Cold Store,257.0,2.1,37.0,69.0,16.98,Medium
+Shimla,Royal Delicious,Oct,Wooden Box,Pickup,Average,Cold Store,189.0,3.4,52.0,82.0,14.24,Medium
+Kullu,Royal Delicious,Sep,Gunny/Loose,Tempo,Average,Ambient,153.0,5.8,16.0,74.0,18.63,Medium
+Shimla,Royal Delicious,Oct,Gunny/Loose,Truck,Average,CA Store,217.0,8.5,35.0,121.0,14.12,Medium
+Kinnaur,Royal Delicious,Oct,Gunny/Loose,Truck,Poor,CA Store,510.0,16.4,1.0,36.0,21.32,High
+Kullu,Fuji,Aug,Gunny/Loose,Pickup,Poor,Ambient,299.0,5.2,37.0,91.0,23.76,High
+Kullu,Red Delicious,Sep,Gunny/Loose,Truck,Poor,Ambient,177.0,13.7,3.0,67.0,21.29,High
+Shimla,Gala,Sep,Wooden Box,Truck,Average,Ambient,42.0,2.9,10.0,99.0,16.58,Medium
+Kinnaur,Golden Delicious,Oct,Cardboard Carton,Tempo,Poor,Cold Store,56.0,2.5,30.0,51.0,11.77,Low
+Kullu,Royal Delicious,Sep,Cardboard Carton,Truck,Good,CA Store,210.0,6.8,16.0,46.0,2.83,Low
+Shimla,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,198.0,7.5,14.0,89.0,10.03,Low
+Shimla,Gala,Oct,Cardboard Carton,Truck,Average,Ambient,251.0,5.7,18.0,74.0,16.85,Medium
+Sirmaur,Royal Delicious,Nov,Cardboard Carton,Truck,Average,CA Store,30.0,26.3,36.0,27.0,14.09,Medium
+Sirmaur,Fuji,Sep,Gunny/Loose,Pickup,Poor,Ambient,268.0,3.0,11.0,114.0,22.26,High
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Tempo,Poor,Cold Store,414.0,12.0,24.0,89.0,22.14,High
+Shimla,Golden Delicious,Sep,Gunny/Loose,Tempo,Average,Ambient,491.0,2.5,19.0,57.0,22.63,High
+Sirmaur,Gala,Oct,Plastic Crate,Pickup,Average,Ambient,34.0,8.0,37.0,41.0,15.33,Medium
+Mandi,Royal Delicious,Oct,Wooden Box,Pickup,Poor,Cold Store,176.0,5.1,38.0,75.0,17.89,Medium
+Kinnaur,Royal Delicious,Oct,Plastic Crate,Truck,Poor,Ambient,169.0,6.0,1.0,86.0,12.26,Medium
+Kullu,Fuji,Sep,Cardboard Carton,Tempo,Poor,Ambient,299.0,6.8,41.0,0.0,18.41,Medium
+Shimla,Royal Delicious,Sep,Wooden Box,Truck,Good,CA Store,121.0,5.2,16.0,75.0,9.53,Low
+Shimla,Red Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,499.0,4.5,29.0,86.0,15.66,Medium
+Sirmaur,Red Delicious,Sep,Gunny/Loose,Tempo,Poor,Ambient,286.0,0.8,11.0,0.0,21.58,High
+Kullu,Royal Delicious,Nov,Cardboard Carton,Tempo,Poor,CA Store,264.0,9.5,31.0,68.0,16.27,Medium
+Shimla,Gala,Sep,Cardboard Carton,Truck,Average,Cold Store,487.0,1.5,63.0,88.0,13.2,Medium
+Shimla,Gala,Sep,Plastic Crate,Pickup,Average,Cold Store,278.0,3.6,27.0,83.0,16.15,Medium
+Kinnaur,Red Delicious,Sep,Plastic Crate,Truck,Average,Ambient,332.0,6.3,18.0,92.0,14.33,Medium
+Shimla,Gala,Sep,Wooden Box,Truck,Average,Cold Store,182.0,1.8,22.0,47.0,8.07,Low
+Chamba,Royal Delicious,Oct,Wooden Box,Truck,Poor,Ambient,102.0,4.5,3.0,18.0,15.08,Medium
+Mandi,Royal Delicious,Sep,Cardboard Carton,Truck,Good,Cold Store,201.0,8.7,47.0,0.0,8.32,Low
+Kinnaur,Red Delicious,Oct,Plastic Crate,Pickup,Average,CA Store,564.0,3.5,30.0,104.0,14.79,Medium
+Kullu,Fuji,Oct,Cardboard Carton,Truck,Average,Ambient,362.0,4.5,9.0,88.0,15.49,Medium
+Kinnaur,Royal Delicious,Nov,Cardboard Carton,Pickup,Poor,CA Store,316.0,2.2,10.0,107.0,15.26,Medium
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Truck,Average,CA Store,153.0,3.9,25.0,31.0,7.44,Low
+Kinnaur,Red Delicious,Nov,Cardboard Carton,Tempo,Average,Cold Store,398.0,1.6,39.0,92.0,12.39,Medium
+Shimla,Gala,Nov,Cardboard Carton,Pickup,Good,Ambient,103.0,5.7,8.0,0.0,12.98,Medium
+Kullu,Royal Delicious,Sep,Wooden Box,Tempo,Good,Cold Store,76.0,1.2,42.0,25.0,7.27,Low
+Shimla,Red Delicious,Nov,Cardboard Carton,Truck,Average,CA Store,207.0,2.9,24.0,65.0,8.83,Low
+Kullu,Golden Delicious,Nov,Cardboard Carton,Pickup,Good,Cold Store,534.0,5.1,11.0,87.0,14.61,Medium
+Shimla,Red Delicious,Sep,Wooden Box,Tempo,Poor,Cold Store,527.0,4.2,18.0,127.0,20.04,High
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,CA Store,221.0,6.5,51.0,50.0,8.42,Low
+Shimla,Royal Delicious,Sep,Plastic Crate,Truck,Good,Cold Store,192.0,4.5,4.0,25.0,2.38,Low
+Kinnaur,Red Delicious,Oct,Gunny/Loose,Truck,Poor,CA Store,67.0,0.8,14.0,23.0,7.24,Low
+Shimla,Red Delicious,Aug,Cardboard Carton,Truck,Average,Cold Store,290.0,1.8,39.0,32.0,12.69,Medium
+Sirmaur,Gala,Oct,Gunny/Loose,Truck,Average,Ambient,301.0,4.9,28.0,149.0,20.91,High
+Kinnaur,Golden Delicious,Sep,Cardboard Carton,Truck,Poor,Ambient,383.0,10.4,13.0,90.0,23.15,High
+Shimla,Golden Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,398.0,9.1,39.0,105.0,15.23,Medium
+Kinnaur,Fuji,Aug,Plastic Crate,Pickup,Good,Cold Store,254.0,25.8,40.0,50.0,16.9,Medium
+Shimla,Red Delicious,Oct,Plastic Crate,Truck,Good,Cold Store,352.0,3.2,30.0,60.0,9.75,Low
+Sirmaur,Red Delicious,Sep,Plastic Crate,Truck,Average,Ambient,189.0,8.5,16.0,88.0,18.89,Medium
+Kullu,Fuji,Oct,Cardboard Carton,Pickup,Poor,Cold Store,350.0,8.1,18.0,40.0,14.9,Medium
+Mandi,Royal Delicious,Sep,Plastic Crate,Truck,Average,Cold Store,214.0,14.0,29.0,48.0,14.45,Medium
+Shimla,Golden Delicious,Aug,Cardboard Carton,Truck,Average,Cold Store,340.0,11.5,5.0,33.0,16.11,Medium
+Kullu,Gala,Sep,Cardboard Carton,Truck,Good,Cold Store,329.0,6.1,45.0,42.0,10.41,Low
+Kullu,Royal Delicious,Nov,Cardboard Carton,Truck,Poor,Cold Store,289.0,7.6,51.0,62.0,17.05,Medium
+Sirmaur,Red Delicious,Sep,Gunny/Loose,Truck,Average,CA Store,383.0,6.6,21.0,27.0,16.3,Medium
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,76.0,4.8,30.0,71.0,14.79,Medium
+Kullu,Royal Delicious,Aug,Plastic Crate,Truck,Average,Ambient,142.0,7.2,43.0,71.0,15.78,Medium
+Shimla,Red Delicious,Oct,Wooden Box,Tempo,Good,Ambient,245.0,5.6,54.0,53.0,16.79,Medium
+Shimla,Royal Delicious,Sep,Plastic Crate,Tempo,Good,Ambient,92.0,5.4,48.0,27.0,12.99,Medium
+Kullu,Gala,Sep,Plastic Crate,Truck,Average,Cold Store,227.0,14.5,1.0,64.0,12.31,Medium
+Kullu,Fuji,Sep,Gunny/Loose,Truck,Average,Ambient,231.0,6.1,20.0,40.0,16.37,Medium
+Shimla,Gala,Aug,Cardboard Carton,Truck,Average,Ambient,450.0,5.2,33.0,62.0,19.34,Medium
+Chamba,Royal Delicious,Sep,Cardboard Carton,Tempo,Poor,Ambient,299.0,4.3,18.0,104.0,19.12,Medium
+Chamba,Royal Delicious,Sep,Wooden Box,Tempo,Good,Ambient,414.0,4.0,52.0,10.0,19.53,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,319.0,1.7,49.0,147.0,13.79,Medium
+Kullu,Royal Delicious,Nov,Cardboard Carton,Truck,Good,Cold Store,210.0,4.8,13.0,57.0,5.37,Low
+Shimla,Fuji,Sep,Cardboard Carton,Truck,Good,Cold Store,297.0,10.7,23.0,76.0,8.3,Low
+Kinnaur,Red Delicious,Nov,Cardboard Carton,Tempo,Poor,CA Store,375.0,3.1,14.0,30.0,11.43,Low
+Shimla,Royal Delicious,Sep,Cardboard Carton,Tempo,Poor,Cold Store,435.0,0.4,22.0,106.0,14.03,Medium
+Kinnaur,Gala,Aug,Cardboard Carton,Truck,Poor,CA Store,263.0,7.0,22.0,55.0,10.55,Low
+Mandi,Red Delicious,Sep,Gunny/Loose,Pickup,Good,CA Store,66.0,5.8,39.0,44.0,14.54,Medium
+Mandi,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,57.0,14.3,12.0,37.0,11.46,Low
+Shimla,Royal Delicious,Sep,Gunny/Loose,Pickup,Average,Ambient,238.0,2.9,1.0,49.0,22.45,High
+Sirmaur,Golden Delicious,Nov,Gunny/Loose,Tempo,Poor,Ambient,30.0,1.5,1.0,77.0,21.05,High
+Shimla,Gala,Oct,Cardboard Carton,Truck,Average,Cold Store,513.0,4.2,10.0,67.0,15.44,Medium
+Shimla,Royal Delicious,Oct,Plastic Crate,Truck,Poor,Ambient,358.0,3.6,15.0,58.0,19.5,Medium
+Kullu,Fuji,Sep,Wooden Box,Pickup,Good,Ambient,197.0,1.0,28.0,32.0,13.49,Medium
+Kullu,Gala,Sep,Plastic Crate,Truck,Average,Ambient,136.0,5.3,9.0,29.0,17.14,Medium
+Chamba,Gala,Oct,Cardboard Carton,Tempo,Poor,Ambient,414.0,3.4,7.0,42.0,17.68,Medium
+Mandi,Royal Delicious,Aug,Cardboard Carton,Truck,Average,Cold Store,135.0,12.6,11.0,78.0,10.83,Low
+Shimla,Royal Delicious,Sep,Cardboard Carton,Tempo,Average,Cold Store,148.0,5.4,8.0,86.0,9.08,Low
+Sirmaur,Gala,Sep,Wooden Box,Truck,Average,Ambient,180.0,2.6,17.0,92.0,12.37,Medium
+Shimla,Royal Delicious,Sep,Gunny/Loose,Truck,Poor,Ambient,295.0,4.9,16.0,60.0,20.43,High
+Kullu,Golden Delicious,Oct,Plastic Crate,Truck,Good,Cold Store,361.0,5.7,35.0,75.0,17.12,Medium
+Shimla,Gala,Aug,Plastic Crate,Truck,Poor,Cold Store,435.0,7.5,10.0,53.0,15.86,Medium
+Sirmaur,Royal Delicious,Sep,Gunny/Loose,Truck,Average,Cold Store,416.0,5.0,20.0,0.0,19.71,Medium
+Shimla,Gala,Nov,Plastic Crate,Pickup,Average,Cold Store,280.0,18.1,17.0,51.0,21.54,High
+Shimla,Fuji,Nov,Cardboard Carton,Truck,Average,Ambient,413.0,1.7,37.0,45.0,20.79,High
+Kullu,Golden Delicious,Sep,Gunny/Loose,Truck,Good,Ambient,193.0,3.4,23.0,18.0,21.33,High
+Sirmaur,Red Delicious,Sep,Cardboard Carton,Truck,Poor,Cold Store,43.0,2.6,41.0,37.0,13.43,Medium
+Chamba,Gala,Oct,Cardboard Carton,Truck,Poor,Cold Store,193.0,3.8,8.0,65.0,12.0,Low
+Mandi,Red Delicious,Aug,Wooden Box,Tempo,Poor,Cold Store,175.0,6.2,24.0,15.0,14.23,Medium
+Chamba,Golden Delicious,Sep,Gunny/Loose,Tempo,Poor,CA Store,198.0,5.9,16.0,32.0,18.47,Medium
+Chamba,Gala,Aug,Cardboard Carton,Truck,Average,Cold Store,155.0,7.3,7.0,122.0,11.21,Low
+Kullu,Golden Delicious,Sep,Wooden Box,Pickup,Average,Ambient,220.0,5.3,24.0,0.0,17.49,Medium
+Shimla,Royal Delicious,Nov,Cardboard Carton,Pickup,Poor,Ambient,361.0,5.6,51.0,53.0,21.91,High
+Mandi,Royal Delicious,Oct,Cardboard Carton,Tempo,Good,Cold Store,503.0,5.4,12.0,13.0,11.35,Low
+Kinnaur,Royal Delicious,Nov,Cardboard Carton,Truck,Poor,Ambient,56.0,3.5,23.0,30.0,10.39,Low
+Kullu,Red Delicious,Oct,Plastic Crate,Truck,Average,Ambient,113.0,3.3,5.0,52.0,12.33,Medium
+Shimla,Red Delicious,Oct,Gunny/Loose,Truck,Average,Cold Store,177.0,2.5,3.0,20.0,9.66,Low
+Mandi,Red Delicious,Oct,Cardboard Carton,Tempo,Average,Ambient,380.0,7.6,13.0,83.0,17.35,Medium
+Shimla,Red Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,253.0,0.6,18.0,114.0,14.14,Medium
+Sirmaur,Gala,Sep,Cardboard Carton,Truck,Good,Ambient,186.0,5.5,19.0,94.0,13.24,Medium
+Shimla,Fuji,Sep,Cardboard Carton,Truck,Average,CA Store,373.0,8.6,22.0,101.0,13.33,Medium
+Shimla,Royal Delicious,Oct,Wooden Box,Pickup,Average,Cold Store,404.0,10.2,1.0,5.0,13.73,Medium
+Chamba,Golden Delicious,Sep,Plastic Crate,Tempo,Good,Cold Store,278.0,0.4,16.0,50.0,13.4,Medium
+Shimla,Golden Delicious,Sep,Wooden Box,Truck,Good,CA Store,174.0,3.6,33.0,79.0,9.99,Low
+Shimla,Red Delicious,Aug,Cardboard Carton,Pickup,Average,Cold Store,315.0,2.7,5.0,95.0,10.2,Low
+Kinnaur,Royal Delicious,Oct,Wooden Box,Truck,Average,Ambient,250.0,3.3,20.0,130.0,17.07,Medium
+Chamba,Gala,Sep,Cardboard Carton,Truck,Poor,CA Store,249.0,11.7,29.0,103.0,12.51,Medium
+Shimla,Fuji,Sep,Cardboard Carton,Pickup,Good,Cold Store,213.0,2.7,13.0,96.0,8.25,Low
+Shimla,Golden Delicious,Sep,Gunny/Loose,Pickup,Average,Ambient,400.0,8.6,30.0,165.0,29.31,High
+Mandi,Fuji,Sep,Plastic Crate,Tempo,Good,Cold Store,312.0,5.5,2.0,64.0,12.33,Medium
+Sirmaur,Fuji,Nov,Gunny/Loose,Truck,Average,Cold Store,415.0,3.2,38.0,48.0,13.26,Medium
+Kullu,Red Delicious,Sep,Gunny/Loose,Truck,Average,Ambient,454.0,3.0,30.0,67.0,18.3,Medium
+Shimla,Golden Delicious,Sep,Wooden Box,Truck,Average,Cold Store,340.0,6.0,26.0,23.0,12.87,Medium
+Shimla,Red Delicious,Aug,Gunny/Loose,Truck,Average,CA Store,214.0,4.7,42.0,63.0,16.34,Medium
+Shimla,Fuji,Oct,Cardboard Carton,Truck,Average,Ambient,415.0,0.9,20.0,0.0,13.24,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Good,Cold Store,341.0,2.1,16.0,39.0,6.36,Low
+Kinnaur,Red Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,618.0,6.1,46.0,55.0,12.55,Medium
+Shimla,Gala,Sep,Cardboard Carton,Truck,Average,CA Store,320.0,1.6,53.0,98.0,10.14,Low
+Kullu,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,371.0,9.5,15.0,104.0,16.6,Medium
+Kinnaur,Gala,Nov,Cardboard Carton,Pickup,Average,CA Store,318.0,1.2,23.0,21.0,11.18,Low
+Kinnaur,Red Delicious,Sep,Plastic Crate,Truck,Poor,Ambient,267.0,4.0,41.0,143.0,21.34,High
+Shimla,Fuji,Aug,Plastic Crate,Pickup,Average,Cold Store,246.0,7.8,24.0,66.0,9.9,Low
+Mandi,Gala,Aug,Wooden Box,Tempo,Good,Ambient,318.0,2.0,34.0,70.0,19.62,Medium
+Kinnaur,Royal Delicious,Aug,Cardboard Carton,Pickup,Good,Cold Store,348.0,1.5,37.0,0.0,10.35,Low
+Mandi,Gala,Oct,Plastic Crate,Truck,Good,Cold Store,430.0,6.8,17.0,35.0,10.03,Low
+Shimla,Royal Delicious,Nov,Cardboard Carton,Truck,Average,Cold Store,320.0,8.8,31.0,102.0,13.34,Medium
+Shimla,Golden Delicious,Nov,Cardboard Carton,Pickup,Poor,Ambient,220.0,4.2,25.0,67.0,19.38,Medium
+Sirmaur,Golden Delicious,Oct,Cardboard Carton,Pickup,Poor,Cold Store,238.0,3.5,7.0,64.0,13.54,Medium
+Kullu,Gala,Sep,Cardboard Carton,Truck,Average,Cold Store,108.0,1.1,10.0,69.0,4.14,Low
+Shimla,Royal Delicious,Nov,Cardboard Carton,Truck,Good,Cold Store,496.0,5.2,15.0,2.0,10.32,Low
+Kullu,Royal Delicious,Sep,Plastic Crate,Pickup,Poor,Cold Store,210.0,0.8,39.0,56.0,13.94,Medium
+Kinnaur,Golden Delicious,Sep,Plastic Crate,Truck,Good,Ambient,406.0,11.8,39.0,116.0,24.73,High
+Sirmaur,Red Delicious,Oct,Plastic Crate,Pickup,Average,CA Store,316.0,4.4,36.0,103.0,10.65,Low
+Shimla,Red Delicious,Aug,Cardboard Carton,Truck,Poor,Cold Store,319.0,2.2,32.0,55.0,10.71,Low
+Sirmaur,Royal Delicious,Oct,Plastic Crate,Truck,Average,CA Store,265.0,2.9,31.0,123.0,10.09,Low
+Shimla,Royal Delicious,Nov,Plastic Crate,Tempo,Good,Cold Store,178.0,5.5,29.0,10.0,10.59,Low
+Kullu,Gala,Oct,Cardboard Carton,Truck,Good,Cold Store,154.0,3.4,31.0,21.0,7.7,Low
+Kinnaur,Royal Delicious,Oct,Wooden Box,Pickup,Average,Cold Store,505.0,4.8,32.0,135.0,18.75,Medium
+Shimla,Red Delicious,Sep,Wooden Box,Truck,Good,Cold Store,295.0,1.9,4.0,83.0,6.31,Low
+Shimla,Fuji,Aug,Cardboard Carton,Truck,Average,Ambient,426.0,10.4,13.0,48.0,17.66,Medium
+Kullu,Royal Delicious,Oct,Cardboard Carton,Tempo,Average,Cold Store,460.0,3.0,10.0,58.0,11.75,Low
+Sirmaur,Golden Delicious,Oct,Wooden Box,Truck,Average,Ambient,227.0,0.5,42.0,28.0,15.77,Medium
+Kinnaur,Royal Delicious,Nov,Cardboard Carton,Truck,Good,Cold Store,335.0,3.6,50.0,71.0,14.12,Medium
+Sirmaur,Gala,Aug,Cardboard Carton,Tempo,Poor,Cold Store,286.0,2.6,1.0,68.0,10.96,Low
+Mandi,Golden Delicious,Sep,Cardboard Carton,Pickup,Average,CA Store,130.0,9.9,48.0,61.0,12.09,Medium
+Kullu,Gala,Sep,Gunny/Loose,Pickup,Average,Cold Store,256.0,2.2,26.0,14.0,12.87,Medium
+Mandi,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,356.0,3.3,40.0,71.0,16.65,Medium
+Shimla,Red Delicious,Oct,Cardboard Carton,Truck,Good,Ambient,215.0,5.6,33.0,39.0,14.57,Medium
+Shimla,Gala,Nov,Cardboard Carton,Pickup,Average,Ambient,238.0,7.4,47.0,21.0,18.06,Medium
+Chamba,Royal Delicious,Sep,Gunny/Loose,Truck,Average,Ambient,257.0,12.4,28.0,111.0,23.31,High
+Mandi,Royal Delicious,Sep,Wooden Box,Truck,Average,Cold Store,554.0,2.4,5.0,147.0,17.83,Medium
+Shimla,Royal Delicious,Aug,Gunny/Loose,Pickup,Poor,CA Store,42.0,11.4,23.0,138.0,18.57,Medium
+Kullu,Fuji,Sep,Cardboard Carton,Truck,Poor,Ambient,345.0,9.7,33.0,86.0,21.04,High
+Kinnaur,Golden Delicious,Sep,Cardboard Carton,Truck,Poor,Cold Store,247.0,2.6,22.0,49.0,13.88,Medium
+Chamba,Golden Delicious,Oct,Wooden Box,Truck,Average,CA Store,197.0,2.3,35.0,57.0,4.81,Low
+Kinnaur,Golden Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,244.0,6.5,24.0,76.0,16.77,Medium
+Kullu,Red Delicious,Sep,Plastic Crate,Pickup,Average,Ambient,367.0,4.7,16.0,43.0,14.35,Medium
+Kullu,Red Delicious,Oct,Gunny/Loose,Tempo,Good,Ambient,374.0,6.5,9.0,113.0,20.31,High
+Kullu,Red Delicious,Oct,Wooden Box,Truck,Poor,Cold Store,304.0,3.7,19.0,0.0,14.84,Medium
+Kinnaur,Golden Delicious,Sep,Gunny/Loose,Truck,Poor,Ambient,422.0,5.1,28.0,48.0,24.46,High
+Chamba,Royal Delicious,Sep,Wooden Box,Pickup,Good,Cold Store,445.0,4.4,1.0,92.0,16.56,Medium
+Kullu,Gala,Oct,Cardboard Carton,Truck,Poor,Cold Store,386.0,6.4,13.0,26.0,11.23,Low
+Shimla,Gala,Oct,Wooden Box,Truck,Poor,Cold Store,209.0,2.3,1.0,50.0,9.7,Low
+Shimla,Royal Delicious,Oct,Cardboard Carton,Tempo,Average,Ambient,344.0,5.4,16.0,84.0,19.52,Medium
+Mandi,Red Delicious,Sep,Plastic Crate,Pickup,Poor,Ambient,345.0,12.2,43.0,121.0,23.1,High
+Mandi,Royal Delicious,Oct,Cardboard Carton,Truck,Good,Ambient,174.0,11.7,7.0,8.0,13.31,Medium
+Shimla,Fuji,Nov,Cardboard Carton,Tempo,Good,CA Store,76.0,5.9,36.0,5.0,5.65,Low
+Shimla,Fuji,Sep,Wooden Box,Truck,Average,Cold Store,30.0,2.2,68.0,22.0,8.18,Low
+Kinnaur,Fuji,Sep,Cardboard Carton,Tempo,Average,Cold Store,289.0,16.2,47.0,0.0,14.88,Medium
+Shimla,Royal Delicious,Nov,Cardboard Carton,Pickup,Average,Ambient,319.0,6.4,27.0,1.0,16.3,Medium
+Chamba,Royal Delicious,Aug,Plastic Crate,Pickup,Poor,CA Store,126.0,15.1,38.0,21.0,15.7,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Tempo,Good,CA Store,416.0,6.6,4.0,109.0,14.91,Medium
+Shimla,Royal Delicious,Nov,Wooden Box,Pickup,Good,Ambient,300.0,0.3,1.0,48.0,12.81,Medium
+Sirmaur,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,455.0,16.1,25.0,61.0,15.78,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Good,Ambient,328.0,8.7,31.0,22.0,13.93,Medium
+Shimla,Fuji,Sep,Cardboard Carton,Pickup,Average,CA Store,141.0,5.0,41.0,85.0,11.63,Low
+Shimla,Royal Delicious,Nov,Plastic Crate,Pickup,Average,Ambient,340.0,0.9,16.0,135.0,18.58,Medium
+Shimla,Royal Delicious,Nov,Gunny/Loose,Truck,Poor,CA Store,367.0,9.4,28.0,24.0,14.28,Medium
+Shimla,Gala,Nov,Cardboard Carton,Pickup,Average,CA Store,209.0,6.6,27.0,129.0,8.36,Low
+Shimla,Red Delicious,Aug,Gunny/Loose,Pickup,Good,Cold Store,93.0,19.2,23.0,75.0,15.83,Medium
+Shimla,Gala,Oct,Wooden Box,Truck,Good,Cold Store,293.0,14.2,24.0,61.0,15.37,Medium
+Shimla,Golden Delicious,Nov,Wooden Box,Truck,Good,Ambient,150.0,14.9,12.0,76.0,18.07,Medium
+Kinnaur,Gala,Oct,Plastic Crate,Truck,Poor,CA Store,426.0,5.7,29.0,76.0,16.41,Medium
+Kinnaur,Golden Delicious,Oct,Plastic Crate,Truck,Average,CA Store,227.0,5.6,28.0,134.0,12.21,Medium
+Kullu,Red Delicious,Aug,Plastic Crate,Truck,Average,Ambient,504.0,6.6,18.0,81.0,21.47,High
+Shimla,Golden Delicious,Nov,Wooden Box,Truck,Good,Cold Store,30.0,2.8,35.0,82.0,10.77,Low
+Kullu,Red Delicious,Aug,Wooden Box,Truck,Poor,Ambient,298.0,5.1,40.0,43.0,18.88,Medium
+Chamba,Royal Delicious,Sep,Cardboard Carton,Truck,Good,Ambient,466.0,4.3,35.0,94.0,19.02,Medium
+Chamba,Red Delicious,Nov,Cardboard Carton,Pickup,Average,CA Store,164.0,11.2,9.0,22.0,5.48,Low
+Shimla,Royal Delicious,Nov,Plastic Crate,Truck,Poor,Ambient,259.0,12.8,26.0,64.0,20.3,High
+Shimla,Gala,Nov,Cardboard Carton,Tempo,Good,Cold Store,228.0,8.0,11.0,175.0,14.36,Medium
+Shimla,Royal Delicious,Sep,Cardboard Carton,Tempo,Average,Cold Store,191.0,2.4,26.0,0.0,10.64,Low
+Shimla,Royal Delicious,Sep,Cardboard Carton,Pickup,Good,CA Store,312.0,16.8,11.0,69.0,9.12,Low
+Kinnaur,Royal Delicious,Sep,Cardboard Carton,Tempo,Average,Ambient,112.0,9.4,44.0,71.0,17.23,Medium
+Kullu,Gala,Aug,Wooden Box,Tempo,Poor,Ambient,266.0,6.3,37.0,51.0,23.07,High
+Shimla,Royal Delicious,Nov,Wooden Box,Truck,Average,Cold Store,347.0,7.4,42.0,52.0,15.35,Medium
+Kullu,Golden Delicious,Oct,Cardboard Carton,Pickup,Poor,Ambient,252.0,1.4,41.0,64.0,21.22,High
+Kullu,Gala,Sep,Cardboard Carton,Truck,Average,Cold Store,150.0,4.3,21.0,50.0,10.88,Low
+Shimla,Royal Delicious,Aug,Cardboard Carton,Pickup,Good,Ambient,414.0,11.9,19.0,69.0,18.34,Medium
+Chamba,Gala,Sep,Cardboard Carton,Truck,Average,Ambient,375.0,1.3,51.0,40.0,18.15,Medium
+Shimla,Royal Delicious,Nov,Plastic Crate,Truck,Average,Ambient,145.0,1.3,23.0,141.0,14.06,Medium
+Sirmaur,Royal Delicious,Oct,Wooden Box,Truck,Good,Ambient,112.0,9.4,5.0,50.0,13.68,Medium
+Shimla,Golden Delicious,Aug,Wooden Box,Tempo,Average,Ambient,156.0,7.1,40.0,83.0,22.11,High
+Chamba,Fuji,Sep,Wooden Box,Truck,Average,CA Store,351.0,1.3,27.0,33.0,8.59,Low
+Sirmaur,Royal Delicious,Sep,Gunny/Loose,Truck,Average,Ambient,316.0,4.0,48.0,97.0,22.76,High
+Sirmaur,Red Delicious,Aug,Plastic Crate,Truck,Good,Ambient,383.0,6.3,29.0,89.0,18.25,Medium
+Mandi,Royal Delicious,Nov,Wooden Box,Truck,Poor,Ambient,238.0,5.8,25.0,77.0,20.1,High
+Mandi,Red Delicious,Oct,Wooden Box,Tempo,Average,Cold Store,160.0,6.7,48.0,19.0,15.51,Medium
+Kinnaur,Golden Delicious,Aug,Cardboard Carton,Pickup,Good,Ambient,399.0,3.8,2.0,30.0,19.97,Medium
+Mandi,Golden Delicious,Oct,Gunny/Loose,Truck,Good,Cold Store,208.0,6.0,16.0,127.0,17.34,Medium
+Shimla,Golden Delicious,Sep,Cardboard Carton,Truck,Poor,Cold Store,304.0,7.9,12.0,29.0,13.17,Medium
+Kullu,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,79.0,7.5,1.0,86.0,9.37,Low
+Kullu,Golden Delicious,Oct,Gunny/Loose,Truck,Average,Cold Store,206.0,3.9,38.0,22.0,16.61,Medium
+Chamba,Golden Delicious,Aug,Plastic Crate,Tempo,Good,Ambient,411.0,8.5,17.0,100.0,22.28,High
+Kullu,Golden Delicious,Sep,Cardboard Carton,Pickup,Average,CA Store,187.0,2.2,39.0,33.0,12.61,Medium
+Kullu,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,Ambient,386.0,2.9,31.0,21.0,13.75,Medium
+Kinnaur,Red Delicious,Nov,Cardboard Carton,Pickup,Average,Ambient,30.0,9.4,34.0,32.0,17.02,Medium
+Shimla,Red Delicious,Sep,Wooden Box,Truck,Poor,Cold Store,207.0,8.4,18.0,38.0,16.78,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Pickup,Good,Ambient,258.0,4.2,14.0,76.0,14.92,Medium
+Kullu,Royal Delicious,Sep,Gunny/Loose,Pickup,Good,Cold Store,507.0,2.9,26.0,63.0,18.34,Medium
+Kullu,Red Delicious,Oct,Gunny/Loose,Pickup,Average,Ambient,128.0,3.2,39.0,16.0,17.44,Medium
+Shimla,Golden Delicious,Sep,Wooden Box,Pickup,Average,Ambient,367.0,7.7,24.0,59.0,20.99,High
+Kullu,Royal Delicious,Oct,Wooden Box,Tempo,Good,Cold Store,417.0,6.7,14.0,14.0,14.72,Medium
+Kullu,Gala,Sep,Cardboard Carton,Truck,Average,Ambient,186.0,2.7,7.0,86.0,15.01,Medium
+Shimla,Red Delicious,Nov,Cardboard Carton,Truck,Average,Cold Store,231.0,8.3,28.0,93.0,12.88,Medium
+Kullu,Gala,Nov,Plastic Crate,Truck,Average,Cold Store,298.0,4.0,17.0,59.0,13.06,Medium
+Kinnaur,Red Delicious,Sep,Cardboard Carton,Pickup,Average,Ambient,87.0,2.3,24.0,71.0,14.27,Medium
+Shimla,Red Delicious,Oct,Cardboard Carton,Pickup,Poor,Cold Store,221.0,3.5,21.0,130.0,14.6,Medium
+Sirmaur,Golden Delicious,Aug,Cardboard Carton,Pickup,Average,Ambient,446.0,5.4,18.0,54.0,17.17,Medium
+Sirmaur,Fuji,Oct,Cardboard Carton,Pickup,Average,Cold Store,348.0,8.1,29.0,22.0,13.57,Medium
+Kullu,Red Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,260.0,7.7,33.0,83.0,15.34,Medium
+Shimla,Red Delicious,Aug,Plastic Crate,Pickup,Average,Ambient,295.0,4.6,54.0,15.0,16.9,Medium
+Kullu,Golden Delicious,Oct,Plastic Crate,Pickup,Good,CA Store,356.0,5.8,36.0,52.0,15.44,Medium
+Chamba,Golden Delicious,Sep,Wooden Box,Truck,Poor,Ambient,380.0,4.3,49.0,36.0,19.9,Medium
+Kinnaur,Royal Delicious,Oct,Plastic Crate,Truck,Good,Cold Store,208.0,2.7,13.0,32.0,6.97,Low
+Mandi,Red Delicious,Oct,Cardboard Carton,Truck,Poor,Ambient,480.0,4.8,1.0,50.0,16.21,Medium
+Kullu,Red Delicious,Aug,Plastic Crate,Truck,Good,Ambient,451.0,0.9,25.0,96.0,17.96,Medium
+Kinnaur,Fuji,Aug,Wooden Box,Pickup,Poor,Cold Store,368.0,13.0,38.0,104.0,22.73,High
+Shimla,Red Delicious,Oct,Cardboard Carton,Tempo,Good,Cold Store,170.0,5.7,36.0,97.0,10.58,Low
+Mandi,Red Delicious,Oct,Gunny/Loose,Pickup,Poor,Cold Store,147.0,6.9,43.0,73.0,20.63,High
+Shimla,Fuji,Aug,Cardboard Carton,Truck,Average,Ambient,238.0,2.8,1.0,50.0,14.69,Medium
+Kinnaur,Red Delicious,Sep,Cardboard Carton,Pickup,Good,Cold Store,288.0,5.7,44.0,0.0,9.59,Low
+Chamba,Royal Delicious,Oct,Cardboard Carton,Pickup,Average,Cold Store,50.0,6.4,30.0,75.0,10.1,Low
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,344.0,4.2,2.0,0.0,14.67,Medium
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Tempo,Average,Cold Store,447.0,4.3,36.0,0.0,11.98,Low
+Shimla,Royal Delicious,Sep,Wooden Box,Truck,Good,Cold Store,355.0,1.6,28.0,54.0,10.52,Low
+Mandi,Red Delicious,Oct,Gunny/Loose,Truck,Average,Cold Store,192.0,15.8,31.0,71.0,22.59,High
+Shimla,Gala,Oct,Cardboard Carton,Truck,Average,Cold Store,177.0,2.8,40.0,42.0,8.94,Low
+Sirmaur,Golden Delicious,Sep,Wooden Box,Truck,Average,Ambient,319.0,3.1,31.0,121.0,21.09,High
+Shimla,Royal Delicious,Aug,Cardboard Carton,Tempo,Poor,Ambient,260.0,13.5,3.0,78.0,22.1,High
+Sirmaur,Red Delicious,Aug,Plastic Crate,Truck,Good,Ambient,338.0,7.1,23.0,50.0,14.66,Medium
+Mandi,Royal Delicious,Oct,Cardboard Carton,Truck,Good,Ambient,358.0,8.2,1.0,115.0,15.96,Medium
+Kinnaur,Fuji,Sep,Cardboard Carton,Truck,Average,Cold Store,422.0,1.5,35.0,123.0,15.3,Medium
+Mandi,Royal Delicious,Oct,Wooden Box,Truck,Good,Cold Store,133.0,5.6,46.0,81.0,11.58,Low
+Mandi,Golden Delicious,Oct,Plastic Crate,Truck,Good,Ambient,309.0,1.5,6.0,29.0,14.83,Medium
+Sirmaur,Royal Delicious,Sep,Plastic Crate,Truck,Average,Ambient,233.0,2.5,15.0,38.0,16.68,Medium
+Shimla,Golden Delicious,Oct,Wooden Box,Pickup,Good,Ambient,267.0,17.3,12.0,2.0,19.32,Medium
+Kinnaur,Red Delicious,Oct,Plastic Crate,Truck,Good,Cold Store,392.0,2.1,18.0,58.0,7.21,Low
+Shimla,Gala,Aug,Cardboard Carton,Pickup,Average,Ambient,407.0,7.9,31.0,18.0,22.6,High
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,462.0,2.3,18.0,47.0,15.96,Medium
+Shimla,Fuji,Oct,Cardboard Carton,Pickup,Poor,Ambient,335.0,2.5,35.0,70.0,19.33,Medium
+Kullu,Red Delicious,Sep,Cardboard Carton,Tempo,Average,Ambient,266.0,24.3,41.0,0.0,21.22,High
+Kinnaur,Gala,Oct,Cardboard Carton,Truck,Average,Cold Store,247.0,4.6,42.0,9.0,11.63,Low
+Kullu,Gala,Oct,Wooden Box,Truck,Good,Cold Store,54.0,1.4,8.0,40.0,4.14,Low
+Kullu,Fuji,Sep,Cardboard Carton,Tempo,Poor,Cold Store,454.0,8.1,46.0,58.0,17.87,Medium
+Mandi,Royal Delicious,Nov,Wooden Box,Truck,Good,Cold Store,238.0,11.3,47.0,40.0,11.67,Low
+Mandi,Royal Delicious,Oct,Wooden Box,Pickup,Good,Ambient,346.0,8.6,48.0,49.0,17.29,Medium
+Kullu,Royal Delicious,Oct,Plastic Crate,Truck,Poor,Cold Store,368.0,4.3,23.0,32.0,12.9,Medium
+Kinnaur,Royal Delicious,Aug,Plastic Crate,Truck,Average,Cold Store,118.0,4.5,14.0,2.0,2.94,Low
+Sirmaur,Red Delicious,Sep,Cardboard Carton,Pickup,Average,Cold Store,160.0,3.3,10.0,39.0,5.54,Low
+Shimla,Fuji,Sep,Cardboard Carton,Tempo,Good,Ambient,481.0,1.9,8.0,51.0,16.42,Medium
+Shimla,Fuji,Oct,Wooden Box,Truck,Good,Cold Store,318.0,6.3,25.0,48.0,10.93,Low
+Shimla,Red Delicious,Oct,Wooden Box,Pickup,Average,CA Store,205.0,4.2,38.0,64.0,8.46,Low
+Kinnaur,Golden Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,264.0,1.5,45.0,77.0,18.58,Medium
+Kullu,Gala,Sep,Cardboard Carton,Truck,Average,Cold Store,421.0,4.7,18.0,87.0,11.58,Low
+Mandi,Fuji,Oct,Plastic Crate,Truck,Good,Cold Store,401.0,2.8,24.0,35.0,10.44,Low
+Kinnaur,Royal Delicious,Oct,Wooden Box,Truck,Good,Cold Store,89.0,6.1,23.0,0.0,7.12,Low
+Shimla,Red Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,492.0,5.7,15.0,111.0,17.22,Medium
+Chamba,Gala,Oct,Cardboard Carton,Pickup,Average,Ambient,406.0,3.7,36.0,75.0,18.78,Medium
+Mandi,Royal Delicious,Nov,Gunny/Loose,Truck,Good,Ambient,260.0,4.9,30.0,22.0,22.89,High
+Shimla,Red Delicious,Aug,Cardboard Carton,Truck,Good,CA Store,125.0,5.2,27.0,71.0,4.07,Low
+Kullu,Fuji,Oct,Gunny/Loose,Pickup,Good,Ambient,417.0,9.4,30.0,103.0,23.31,High
+Shimla,Fuji,Nov,Cardboard Carton,Pickup,Good,Ambient,342.0,4.8,34.0,129.0,17.63,Medium
+Shimla,Fuji,Oct,Wooden Box,Pickup,Average,Cold Store,90.0,3.3,34.0,70.0,7.91,Low
+Shimla,Gala,Sep,Cardboard Carton,Pickup,Good,Cold Store,250.0,4.0,12.0,102.0,7.35,Low
+Sirmaur,Royal Delicious,Nov,Cardboard Carton,Truck,Average,Cold Store,686.0,15.0,38.0,12.0,17.42,Medium
+Kullu,Royal Delicious,Sep,Gunny/Loose,Pickup,Poor,Ambient,282.0,2.3,29.0,59.0,23.84,High
+Kullu,Red Delicious,Sep,Wooden Box,Truck,Poor,Cold Store,184.0,4.2,18.0,47.0,10.83,Low
+Mandi,Red Delicious,Sep,Gunny/Loose,Truck,Poor,Cold Store,149.0,4.2,29.0,74.0,15.23,Medium
+Kullu,Red Delicious,Sep,Cardboard Carton,Truck,Good,Ambient,510.0,4.3,30.0,124.0,18.93,Medium
+Sirmaur,Golden Delicious,Sep,Gunny/Loose,Pickup,Good,Ambient,390.0,1.8,41.0,70.0,20.65,High
+Mandi,Red Delicious,Sep,Gunny/Loose,Pickup,Average,Ambient,463.0,4.0,9.0,22.0,20.67,High
+Kullu,Golden Delicious,Nov,Wooden Box,Truck,Average,Ambient,312.0,3.2,45.0,9.0,14.77,Medium
+Kullu,Royal Delicious,Sep,Cardboard Carton,Tempo,Good,Cold Store,443.0,6.1,25.0,126.0,15.36,Medium
+Sirmaur,Royal Delicious,Oct,Plastic Crate,Tempo,Average,Ambient,170.0,10.3,17.0,81.0,18.87,Medium
+Kinnaur,Royal Delicious,Nov,Wooden Box,Truck,Good,Cold Store,301.0,6.4,17.0,78.0,12.85,Medium
+Sirmaur,Royal Delicious,Oct,Gunny/Loose,Pickup,Good,CA Store,317.0,5.4,10.0,46.0,10.82,Low
+Shimla,Gala,Sep,Cardboard Carton,Truck,Average,Ambient,460.0,6.9,1.0,71.0,17.52,Medium
+Chamba,Red Delicious,Aug,Cardboard Carton,Tempo,Average,Cold Store,321.0,5.7,35.0,21.0,9.96,Low
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Truck,Average,CA Store,199.0,4.9,55.0,75.0,9.36,Low
+Shimla,Gala,Oct,Plastic Crate,Truck,Poor,Ambient,288.0,9.2,1.0,13.0,21.25,High
+Kinnaur,Red Delicious,Oct,Gunny/Loose,Truck,Good,Cold Store,62.0,3.9,11.0,46.0,8.94,Low
+Kinnaur,Royal Delicious,Sep,Cardboard Carton,Truck,Good,CA Store,30.0,1.8,36.0,34.0,1.0,Low
+Shimla,Royal Delicious,Oct,Plastic Crate,Pickup,Average,Ambient,388.0,3.1,24.0,0.0,14.88,Medium
+Kullu,Royal Delicious,Oct,Gunny/Loose,Truck,Average,Ambient,231.0,2.8,38.0,46.0,15.85,Medium
+Chamba,Golden Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,246.0,17.7,23.0,24.0,17.19,Medium
+Shimla,Royal Delicious,Nov,Cardboard Carton,Pickup,Good,Cold Store,388.0,10.7,16.0,52.0,14.08,Medium
+Kullu,Royal Delicious,Oct,Plastic Crate,Tempo,Poor,Ambient,462.0,5.4,22.0,60.0,19.14,Medium
+Kullu,Royal Delicious,Oct,Wooden Box,Pickup,Average,Ambient,349.0,2.9,1.0,131.0,18.5,Medium
+Shimla,Red Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,531.0,9.1,8.0,72.0,13.95,Medium
+Sirmaur,Royal Delicious,Oct,Plastic Crate,Truck,Average,Cold Store,345.0,5.3,39.0,73.0,12.14,Medium
+Mandi,Gala,Oct,Wooden Box,Truck,Poor,CA Store,319.0,3.9,43.0,80.0,15.4,Medium
+Shimla,Royal Delicious,Sep,Gunny/Loose,Tempo,Average,Cold Store,311.0,5.3,46.0,95.0,17.91,Medium
+Sirmaur,Golden Delicious,Oct,Gunny/Loose,Pickup,Poor,Cold Store,113.0,4.0,32.0,78.0,20.1,High
+Chamba,Red Delicious,Oct,Plastic Crate,Pickup,Good,Ambient,404.0,6.8,1.0,71.0,14.6,Medium
+Shimla,Red Delicious,Sep,Wooden Box,Tempo,Average,Ambient,30.0,1.6,15.0,88.0,13.16,Medium
+Chamba,Royal Delicious,Aug,Cardboard Carton,Truck,Poor,Cold Store,204.0,6.8,45.0,0.0,11.07,Low
+Shimla,Gala,Oct,Wooden Box,Pickup,Average,Ambient,283.0,4.0,49.0,144.0,22.5,High
+Sirmaur,Gala,Oct,Cardboard Carton,Truck,Average,Cold Store,177.0,9.2,45.0,124.0,15.16,Medium
+Kinnaur,Royal Delicious,Sep,Plastic Crate,Truck,Poor,CA Store,221.0,10.9,21.0,69.0,7.95,Low
+Kinnaur,Royal Delicious,Sep,Cardboard Carton,Truck,Good,Ambient,519.0,12.5,5.0,3.0,17.42,Medium
+Shimla,Fuji,Sep,Wooden Box,Truck,Average,Cold Store,424.0,18.6,24.0,108.0,14.97,Medium
+Chamba,Red Delicious,Nov,Cardboard Carton,Tempo,Poor,Ambient,191.0,12.2,25.0,32.0,18.77,Medium
+Shimla,Royal Delicious,Nov,Cardboard Carton,Truck,Poor,Cold Store,219.0,9.0,48.0,81.0,14.58,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Tempo,Poor,Cold Store,114.0,1.9,28.0,9.0,9.91,Low
+Shimla,Golden Delicious,Sep,Wooden Box,Pickup,Poor,Cold Store,372.0,0.4,25.0,149.0,18.84,Medium
+Mandi,Golden Delicious,Oct,Plastic Crate,Pickup,Good,Cold Store,248.0,9.9,26.0,2.0,14.02,Medium
+Shimla,Red Delicious,Oct,Cardboard Carton,Tempo,Poor,Ambient,30.0,2.5,31.0,63.0,13.5,Medium
+Sirmaur,Fuji,Nov,Gunny/Loose,Truck,Average,Ambient,293.0,27.0,34.0,0.0,24.55,High
+Kinnaur,Red Delicious,Aug,Gunny/Loose,Truck,Average,Cold Store,337.0,1.2,14.0,58.0,13.75,Medium
+Shimla,Royal Delicious,Aug,Cardboard Carton,Truck,Average,Cold Store,405.0,8.8,9.0,43.0,9.16,Low
+Shimla,Red Delicious,Oct,Plastic Crate,Truck,Poor,Ambient,270.0,5.7,46.0,105.0,18.48,Medium
+Shimla,Red Delicious,Sep,Cardboard Carton,Tempo,Average,Ambient,232.0,1.4,1.0,43.0,15.88,Medium
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,CA Store,538.0,5.7,50.0,106.0,13.56,Medium
+Mandi,Royal Delicious,Oct,Wooden Box,Truck,Good,CA Store,281.0,2.7,1.0,19.0,5.57,Low
+Shimla,Red Delicious,Aug,Cardboard Carton,Truck,Good,CA Store,374.0,4.7,16.0,49.0,6.23,Low
+Chamba,Golden Delicious,Sep,Gunny/Loose,Truck,Average,Cold Store,210.0,4.7,40.0,50.0,20.68,High
+Shimla,Royal Delicious,Oct,Gunny/Loose,Pickup,Good,Cold Store,370.0,2.8,25.0,80.0,14.69,Medium
+Mandi,Red Delicious,Oct,Plastic Crate,Truck,Average,CA Store,91.0,3.7,5.0,75.0,4.98,Low
+Sirmaur,Golden Delicious,Sep,Wooden Box,Pickup,Good,Cold Store,220.0,2.5,31.0,89.0,10.28,Low
+Mandi,Golden Delicious,Sep,Wooden Box,Pickup,Average,Cold Store,123.0,0.9,26.0,71.0,11.53,Low
+Kinnaur,Gala,Oct,Gunny/Loose,Pickup,Good,CA Store,201.0,5.4,22.0,86.0,14.66,Medium
+Chamba,Gala,Sep,Cardboard Carton,Truck,Good,Ambient,443.0,12.2,16.0,24.0,16.09,Medium
+Shimla,Golden Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,200.0,2.7,24.0,76.0,18.04,Medium
+Shimla,Royal Delicious,Oct,Wooden Box,Truck,Average,Cold Store,373.0,16.3,16.0,124.0,18.5,Medium
+Shimla,Red Delicious,Sep,Cardboard Carton,Truck,Good,Cold Store,477.0,18.5,62.0,0.0,18.0,Medium
+Kullu,Golden Delicious,Oct,Cardboard Carton,Pickup,Good,Cold Store,276.0,3.5,21.0,80.0,10.53,Low
+Mandi,Royal Delicious,Oct,Cardboard Carton,Pickup,Good,Ambient,409.0,4.2,19.0,87.0,16.55,Medium
+Kinnaur,Royal Delicious,Sep,Wooden Box,Truck,Average,Ambient,349.0,3.6,17.0,118.0,17.23,Medium
+Chamba,Royal Delicious,Oct,Cardboard Carton,Tempo,Good,Cold Store,295.0,1.9,52.0,89.0,15.0,Medium
+Shimla,Red Delicious,Nov,Cardboard Carton,Truck,Average,Ambient,378.0,4.2,1.0,64.0,14.57,Medium
+Mandi,Red Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,519.0,3.8,30.0,77.0,18.62,Medium
+Shimla,Royal Delicious,Sep,Cardboard Carton,Tempo,Average,Ambient,197.0,5.3,21.0,31.0,14.47,Medium
+Shimla,Gala,Oct,Gunny/Loose,Pickup,Average,Cold Store,155.0,5.5,4.0,44.0,13.83,Medium
+Kinnaur,Fuji,Sep,Cardboard Carton,Tempo,Good,Cold Store,148.0,1.8,13.0,7.0,6.17,Low
+Sirmaur,Royal Delicious,Oct,Plastic Crate,Pickup,Poor,Ambient,409.0,7.6,30.0,119.0,24.39,High
+Kinnaur,Fuji,Oct,Plastic Crate,Pickup,Average,Cold Store,427.0,4.2,12.0,78.0,11.18,Low
+Shimla,Royal Delicious,Sep,Cardboard Carton,Pickup,Good,Ambient,210.0,2.1,29.0,23.0,12.42,Medium
+Kinnaur,Fuji,Sep,Plastic Crate,Pickup,Poor,Ambient,30.0,4.1,51.0,71.0,16.43,Medium
+Shimla,Fuji,Nov,Plastic Crate,Truck,Average,Cold Store,192.0,5.7,28.0,106.0,11.34,Low
+Chamba,Royal Delicious,Sep,Wooden Box,Pickup,Average,Cold Store,351.0,13.7,3.0,100.0,13.24,Medium
+Kinnaur,Gala,Oct,Cardboard Carton,Truck,Poor,Cold Store,271.0,12.3,12.0,23.0,12.77,Medium
+Shimla,Fuji,Oct,Cardboard Carton,Tempo,Good,Cold Store,303.0,3.3,21.0,0.0,5.61,Low
+Shimla,Fuji,Oct,Gunny/Loose,Truck,Poor,Ambient,212.0,4.4,20.0,76.0,20.17,High
+Shimla,Fuji,Aug,Plastic Crate,Truck,Average,Ambient,412.0,2.5,27.0,25.0,13.17,Medium
+Sirmaur,Red Delicious,Sep,Gunny/Loose,Tempo,Average,Cold Store,325.0,6.3,30.0,85.0,17.81,Medium
+Kullu,Royal Delicious,Sep,Gunny/Loose,Truck,Good,Ambient,356.0,3.4,51.0,98.0,18.58,Medium
+Mandi,Gala,Oct,Cardboard Carton,Truck,Good,Cold Store,301.0,4.3,25.0,105.0,10.16,Low
+Kinnaur,Golden Delicious,Nov,Plastic Crate,Pickup,Poor,Ambient,348.0,10.1,8.0,130.0,21.26,High
+Kinnaur,Golden Delicious,Nov,Wooden Box,Truck,Good,Cold Store,340.0,1.8,42.0,109.0,15.01,Medium
+Shimla,Red Delicious,Aug,Plastic Crate,Truck,Good,Ambient,159.0,12.3,44.0,130.0,18.27,Medium
+Sirmaur,Red Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,328.0,6.8,28.0,115.0,17.32,Medium
+Shimla,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,383.0,11.9,21.0,119.0,14.59,Medium
+Kinnaur,Golden Delicious,Nov,Plastic Crate,Truck,Good,Ambient,430.0,8.4,34.0,58.0,15.18,Medium
+Kinnaur,Royal Delicious,Sep,Plastic Crate,Truck,Poor,Ambient,334.0,9.5,22.0,8.0,17.98,Medium
+Kinnaur,Golden Delicious,Sep,Wooden Box,Truck,Average,Cold Store,155.0,5.1,1.0,159.0,11.35,Low
+Sirmaur,Gala,Oct,Cardboard Carton,Truck,Poor,Ambient,175.0,2.0,33.0,63.0,16.7,Medium
+Shimla,Red Delicious,Oct,Cardboard Carton,Truck,Good,Ambient,223.0,3.1,38.0,109.0,14.58,Medium
+Kullu,Red Delicious,Sep,Gunny/Loose,Pickup,Good,Ambient,305.0,2.6,47.0,38.0,19.83,Medium
+Kullu,Royal Delicious,Oct,Cardboard Carton,Pickup,Average,Cold Store,264.0,0.7,14.0,99.0,12.62,Medium
+Kullu,Fuji,Aug,Cardboard Carton,Truck,Good,Ambient,134.0,10.1,28.0,0.0,10.41,Low
+Shimla,Golden Delicious,Aug,Wooden Box,Truck,Average,Ambient,133.0,4.7,29.0,44.0,14.85,Medium
+Shimla,Red Delicious,Aug,Cardboard Carton,Tempo,Good,Ambient,30.0,2.4,26.0,56.0,13.2,Medium
+Shimla,Royal Delicious,Sep,Wooden Box,Pickup,Poor,CA Store,30.0,18.0,27.0,79.0,15.92,Medium
+Shimla,Royal Delicious,Nov,Cardboard Carton,Truck,Poor,CA Store,263.0,23.2,26.0,103.0,17.64,Medium
+Kullu,Red Delicious,Oct,Plastic Crate,Truck,Poor,Ambient,582.0,1.6,28.0,16.0,22.76,High
+Kinnaur,Fuji,Oct,Gunny/Loose,Truck,Poor,Cold Store,514.0,4.2,36.0,86.0,21.31,High
+Kinnaur,Golden Delicious,Sep,Gunny/Loose,Tempo,Poor,Cold Store,153.0,4.0,43.0,109.0,20.68,High
+Kullu,Royal Delicious,Oct,Wooden Box,Tempo,Average,Cold Store,299.0,2.3,14.0,154.0,13.3,Medium
+Kullu,Gala,Nov,Cardboard Carton,Tempo,Average,Ambient,90.0,9.9,22.0,88.0,20.56,High
+Shimla,Red Delicious,Sep,Plastic Crate,Truck,Poor,Cold Store,109.0,0.7,19.0,42.0,9.06,Low
+Kinnaur,Gala,Nov,Plastic Crate,Truck,Poor,Ambient,124.0,15.1,17.0,9.0,19.15,Medium
+Shimla,Royal Delicious,Oct,Wooden Box,Truck,Poor,Ambient,251.0,5.3,1.0,133.0,19.93,Medium
+Shimla,Golden Delicious,Oct,Plastic Crate,Truck,Poor,Ambient,256.0,17.1,25.0,89.0,25.65,High
+Kullu,Fuji,Sep,Plastic Crate,Truck,Good,Ambient,313.0,4.9,32.0,59.0,15.15,Medium
+Kullu,Royal Delicious,Oct,Plastic Crate,Pickup,Poor,Cold Store,366.0,4.0,23.0,0.0,15.51,Medium
+Shimla,Golden Delicious,Oct,Plastic Crate,Truck,Poor,Ambient,236.0,10.5,25.0,23.0,20.92,High
+Kinnaur,Fuji,Nov,Cardboard Carton,Tempo,Average,CA Store,285.0,17.0,31.0,85.0,16.23,Medium
+Kullu,Royal Delicious,Nov,Wooden Box,Truck,Poor,Ambient,138.0,15.2,46.0,74.0,20.29,High
+Kinnaur,Royal Delicious,Sep,Wooden Box,Truck,Average,Cold Store,105.0,1.1,19.0,0.0,10.72,Low
+Kinnaur,Golden Delicious,Nov,Cardboard Carton,Tempo,Poor,Ambient,85.0,12.6,7.0,85.0,18.01,Medium
+Kinnaur,Royal Delicious,Nov,Gunny/Loose,Pickup,Good,Ambient,364.0,3.8,24.0,0.0,19.52,Medium
+Shimla,Royal Delicious,Oct,Wooden Box,Truck,Poor,Cold Store,236.0,4.5,53.0,114.0,13.16,Medium
+Mandi,Red Delicious,Aug,Cardboard Carton,Pickup,Good,Ambient,37.0,3.8,8.0,68.0,9.84,Low
+Kullu,Gala,Sep,Plastic Crate,Truck,Average,CA Store,272.0,3.1,35.0,41.0,9.08,Low
+Kullu,Royal Delicious,Aug,Plastic Crate,Truck,Good,Cold Store,118.0,4.2,42.0,100.0,9.56,Low
+Kinnaur,Royal Delicious,Aug,Plastic Crate,Truck,Average,Cold Store,496.0,2.2,1.0,74.0,12.74,Medium
+Kullu,Gala,Nov,Cardboard Carton,Truck,Good,Cold Store,205.0,12.7,31.0,113.0,11.3,Low
+Kullu,Red Delicious,Sep,Gunny/Loose,Pickup,Poor,Ambient,369.0,8.3,34.0,63.0,25.23,High
+Mandi,Gala,Oct,Cardboard Carton,Truck,Average,Ambient,422.0,6.0,21.0,66.0,20.82,High
+Chamba,Red Delicious,Oct,Wooden Box,Pickup,Poor,Cold Store,156.0,3.8,15.0,49.0,9.31,Low
+Sirmaur,Fuji,Oct,Cardboard Carton,Pickup,Good,Ambient,290.0,3.2,16.0,71.0,11.11,Low
+Kullu,Golden Delicious,Sep,Wooden Box,Truck,Good,Ambient,352.0,7.0,20.0,128.0,20.96,High
+Kullu,Royal Delicious,Oct,Plastic Crate,Truck,Poor,Ambient,295.0,6.2,20.0,40.0,17.97,Medium
+Mandi,Gala,Oct,Wooden Box,Truck,Average,CA Store,327.0,11.0,18.0,86.0,14.7,Medium
+Shimla,Red Delicious,Oct,Wooden Box,Pickup,Average,Ambient,107.0,3.3,20.0,25.0,15.48,Medium
+Chamba,Royal Delicious,Sep,Plastic Crate,Pickup,Poor,CA Store,352.0,3.0,43.0,0.0,11.14,Low
+Kullu,Royal Delicious,Oct,Plastic Crate,Pickup,Poor,Ambient,217.0,8.1,7.0,68.0,17.41,Medium
+Shimla,Golden Delicious,Aug,Cardboard Carton,Truck,Average,Ambient,325.0,9.3,1.0,75.0,16.42,Medium
+Shimla,Royal Delicious,Oct,Gunny/Loose,Truck,Poor,Ambient,400.0,22.1,43.0,56.0,29.61,High
+Chamba,Royal Delicious,Sep,Plastic Crate,Pickup,Average,CA Store,367.0,1.0,22.0,0.0,11.83,Low
+Shimla,Royal Delicious,Sep,Gunny/Loose,Truck,Average,Cold Store,325.0,13.2,19.0,72.0,15.51,Medium
+Shimla,Red Delicious,Oct,Gunny/Loose,Pickup,Average,Ambient,363.0,5.6,23.0,71.0,19.5,Medium
+Shimla,Red Delicious,Sep,Gunny/Loose,Truck,Good,CA Store,369.0,3.4,28.0,24.0,9.27,Low
+Shimla,Red Delicious,Nov,Plastic Crate,Truck,Good,Cold Store,474.0,7.1,17.0,6.0,13.75,Medium
+Shimla,Royal Delicious,Nov,Wooden Box,Pickup,Poor,Ambient,276.0,6.9,33.0,50.0,19.15,Medium
+Mandi,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,301.0,3.5,11.0,86.0,13.95,Medium
+Shimla,Golden Delicious,Sep,Wooden Box,Pickup,Average,Cold Store,401.0,1.1,20.0,77.0,11.51,Low
+Chamba,Red Delicious,Aug,Plastic Crate,Truck,Average,Cold Store,216.0,13.2,1.0,25.0,10.54,Low
+Chamba,Golden Delicious,Nov,Wooden Box,Tempo,Good,Ambient,106.0,2.8,43.0,65.0,18.44,Medium
+Kullu,Royal Delicious,Oct,Gunny/Loose,Tempo,Good,Cold Store,344.0,2.5,22.0,95.0,17.01,Medium
+Shimla,Royal Delicious,Aug,Cardboard Carton,Tempo,Poor,CA Store,253.0,3.0,35.0,13.0,11.38,Low
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Pickup,Average,Cold Store,123.0,9.0,32.0,63.0,8.36,Low
+Shimla,Red Delicious,Aug,Wooden Box,Pickup,Good,Cold Store,345.0,3.9,33.0,114.0,12.28,Medium
+Kullu,Red Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,466.0,3.1,25.0,9.0,16.4,Medium
+Sirmaur,Gala,Oct,Cardboard Carton,Truck,Average,Cold Store,68.0,6.7,31.0,106.0,8.85,Low
+Sirmaur,Red Delicious,Aug,Cardboard Carton,Truck,Average,CA Store,413.0,6.1,11.0,125.0,12.45,Medium
+Mandi,Red Delicious,Oct,Plastic Crate,Pickup,Poor,Cold Store,30.0,3.2,7.0,51.0,10.92,Low
+Shimla,Red Delicious,Sep,Wooden Box,Truck,Average,CA Store,228.0,1.1,23.0,46.0,6.63,Low
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,519.0,8.9,15.0,101.0,16.56,Medium
+Kinnaur,Red Delicious,Oct,Cardboard Carton,Tempo,Average,Ambient,237.0,6.1,46.0,53.0,17.12,Medium
+Kullu,Royal Delicious,Nov,Wooden Box,Truck,Average,Ambient,292.0,0.7,31.0,0.0,16.59,Medium
+Kinnaur,Red Delicious,Sep,Cardboard Carton,Pickup,Average,CA Store,379.0,14.5,14.0,56.0,17.51,Medium
+Shimla,Royal Delicious,Nov,Plastic Crate,Pickup,Good,Cold Store,57.0,0.7,21.0,79.0,4.67,Low
+Shimla,Gala,Sep,Plastic Crate,Truck,Poor,Cold Store,289.0,2.6,27.0,90.0,15.87,Medium
+Kullu,Fuji,Nov,Cardboard Carton,Tempo,Average,CA Store,288.0,2.8,24.0,25.0,11.25,Low
+Shimla,Royal Delicious,Sep,Wooden Box,Truck,Average,Ambient,522.0,3.2,29.0,49.0,16.87,Medium
+Shimla,Golden Delicious,Oct,Cardboard Carton,Tempo,Good,Cold Store,119.0,3.1,26.0,99.0,9.64,Low
+Chamba,Gala,Aug,Cardboard Carton,Pickup,Poor,Ambient,230.0,1.7,4.0,58.0,15.04,Medium
+Sirmaur,Royal Delicious,Nov,Gunny/Loose,Truck,Good,Ambient,159.0,5.7,1.0,0.0,14.69,Medium
+Kullu,Gala,Nov,Wooden Box,Truck,Average,Cold Store,146.0,9.9,19.0,110.0,13.15,Medium
+Chamba,Golden Delicious,Sep,Gunny/Loose,Truck,Poor,Ambient,427.0,5.7,33.0,51.0,25.39,High
+Sirmaur,Fuji,Oct,Cardboard Carton,Truck,Average,Cold Store,283.0,6.4,20.0,104.0,12.39,Medium
+Shimla,Fuji,Oct,Cardboard Carton,Truck,Poor,Cold Store,208.0,3.9,44.0,4.0,6.35,Low
+Kullu,Royal Delicious,Sep,Wooden Box,Tempo,Good,Ambient,213.0,5.5,24.0,55.0,14.33,Medium
+Kullu,Red Delicious,Oct,Wooden Box,Truck,Average,CA Store,207.0,6.7,45.0,80.0,12.52,Medium
+Shimla,Red Delicious,Oct,Gunny/Loose,Tempo,Poor,Ambient,218.0,8.3,42.0,57.0,25.87,High
+Mandi,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,116.0,2.9,41.0,13.0,10.1,Low
+Kullu,Royal Delicious,Aug,Gunny/Loose,Tempo,Average,Cold Store,246.0,2.6,7.0,0.0,15.33,Medium
+Kullu,Fuji,Nov,Gunny/Loose,Truck,Average,Ambient,233.0,0.5,25.0,121.0,20.79,High
+Shimla,Royal Delicious,Aug,Wooden Box,Truck,Poor,Cold Store,181.0,17.3,43.0,70.0,18.18,Medium
+Shimla,Red Delicious,Oct,Cardboard Carton,Pickup,Poor,Ambient,300.0,16.6,29.0,107.0,20.98,High
+Sirmaur,Gala,Aug,Wooden Box,Truck,Average,CA Store,311.0,4.8,33.0,97.0,14.75,Medium
+Shimla,Royal Delicious,Aug,Cardboard Carton,Tempo,Poor,Cold Store,208.0,5.0,4.0,84.0,16.57,Medium
+Shimla,Red Delicious,Aug,Plastic Crate,Truck,Average,Cold Store,261.0,13.8,54.0,47.0,13.13,Medium
+Shimla,Fuji,Sep,Wooden Box,Pickup,Average,Ambient,561.0,1.7,13.0,80.0,18.66,Medium
+Kullu,Red Delicious,Oct,Gunny/Loose,Pickup,Average,CA Store,556.0,2.4,1.0,117.0,19.08,Medium
+Kinnaur,Royal Delicious,Oct,Wooden Box,Pickup,Average,Ambient,143.0,14.4,20.0,63.0,19.25,Medium
+Kullu,Royal Delicious,Oct,Wooden Box,Truck,Poor,Cold Store,161.0,3.9,1.0,136.0,9.07,Low
+Shimla,Fuji,Oct,Plastic Crate,Truck,Average,Cold Store,142.0,2.1,9.0,0.0,6.58,Low
+Shimla,Royal Delicious,Aug,Wooden Box,Truck,Good,Cold Store,417.0,7.0,63.0,0.0,11.65,Low
+Chamba,Red Delicious,Aug,Gunny/Loose,Truck,Average,CA Store,228.0,2.9,19.0,100.0,10.16,Low
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,Ambient,311.0,12.7,4.0,27.0,14.96,Medium
+Kinnaur,Red Delicious,Oct,Gunny/Loose,Tempo,Poor,Cold Store,540.0,5.5,25.0,142.0,26.38,High
+Kinnaur,Fuji,Oct,Plastic Crate,Pickup,Good,Ambient,279.0,3.0,12.0,113.0,12.39,Medium
+Mandi,Red Delicious,Sep,Gunny/Loose,Pickup,Good,Ambient,372.0,3.2,38.0,124.0,22.13,High
+Shimla,Fuji,Oct,Wooden Box,Truck,Average,Cold Store,348.0,6.8,12.0,95.0,13.71,Medium
+Kullu,Royal Delicious,Aug,Plastic Crate,Truck,Good,Ambient,204.0,4.3,29.0,23.0,12.99,Medium
+Kullu,Red Delicious,Oct,Cardboard Carton,Pickup,Poor,Ambient,418.0,3.9,8.0,0.0,17.37,Medium
+Shimla,Gala,Aug,Plastic Crate,Truck,Average,Ambient,170.0,8.6,64.0,120.0,20.71,High
+Chamba,Red Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,454.0,13.9,33.0,0.0,14.74,Medium
+Kullu,Royal Delicious,Sep,Cardboard Carton,Truck,Good,Ambient,204.0,7.8,23.0,123.0,13.27,Medium
+Mandi,Gala,Oct,Cardboard Carton,Pickup,Average,Ambient,218.0,2.7,21.0,87.0,14.15,Medium
+Chamba,Red Delicious,Aug,Cardboard Carton,Tempo,Poor,Cold Store,138.0,2.0,17.0,57.0,10.64,Low
+Kullu,Red Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,160.0,8.2,14.0,78.0,13.8,Medium
+Sirmaur,Fuji,Aug,Plastic Crate,Truck,Good,Cold Store,225.0,7.7,13.0,79.0,9.78,Low
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Truck,Good,Ambient,30.0,3.7,50.0,52.0,13.4,Medium
+Chamba,Royal Delicious,Aug,Plastic Crate,Truck,Poor,Ambient,250.0,4.4,17.0,117.0,18.72,Medium
+Shimla,Royal Delicious,Aug,Cardboard Carton,Pickup,Poor,Ambient,214.0,2.9,1.0,116.0,14.83,Medium
+Kullu,Red Delicious,Oct,Plastic Crate,Truck,Good,Ambient,383.0,2.0,8.0,66.0,8.95,Low
+Kullu,Royal Delicious,Aug,Plastic Crate,Pickup,Average,Ambient,335.0,3.1,39.0,36.0,15.54,Medium
+Shimla,Golden Delicious,Sep,Cardboard Carton,Truck,Good,Ambient,188.0,0.3,21.0,112.0,10.46,Low
+Kullu,Royal Delicious,Oct,Plastic Crate,Truck,Average,Cold Store,220.0,11.2,23.0,0.0,10.05,Low
+Sirmaur,Golden Delicious,Oct,Gunny/Loose,Tempo,Good,Cold Store,249.0,1.5,43.0,78.0,17.71,Medium
+Kinnaur,Royal Delicious,Nov,Plastic Crate,Truck,Poor,Cold Store,473.0,4.9,13.0,90.0,15.81,Medium
+Shimla,Red Delicious,Sep,Cardboard Carton,Pickup,Poor,CA Store,173.0,0.6,34.0,27.0,12.24,Medium
+Shimla,Royal Delicious,Oct,Wooden Box,Truck,Good,Ambient,186.0,7.6,15.0,99.0,16.09,Medium
+Shimla,Golden Delicious,Oct,Plastic Crate,Tempo,Average,Ambient,133.0,9.2,34.0,59.0,23.31,High
+Shimla,Red Delicious,Aug,Cardboard Carton,Truck,Good,Cold Store,87.0,5.2,19.0,38.0,7.0,Low
+Sirmaur,Red Delicious,Oct,Plastic Crate,Truck,Average,Cold Store,320.0,4.7,21.0,99.0,13.99,Medium
+Kullu,Gala,Aug,Cardboard Carton,Pickup,Good,Ambient,306.0,2.9,37.0,17.0,14.16,Medium
+Shimla,Red Delicious,Nov,Plastic Crate,Truck,Good,Cold Store,447.0,11.0,36.0,95.0,12.56,Medium
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,Ambient,415.0,1.2,23.0,0.0,15.15,Medium
+Shimla,Fuji,Sep,Cardboard Carton,Tempo,Good,Ambient,592.0,3.5,18.0,71.0,17.63,Medium
+Shimla,Royal Delicious,Sep,Gunny/Loose,Pickup,Poor,Cold Store,270.0,2.6,49.0,62.0,17.58,Medium
+Kinnaur,Royal Delicious,Sep,Gunny/Loose,Pickup,Good,Cold Store,246.0,2.5,34.0,38.0,11.78,Low
+Kinnaur,Red Delicious,Sep,Gunny/Loose,Pickup,Average,Cold Store,111.0,10.8,19.0,76.0,16.92,Medium
+Sirmaur,Royal Delicious,Oct,Gunny/Loose,Tempo,Average,CA Store,371.0,4.5,15.0,57.0,14.41,Medium
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Tempo,Poor,Cold Store,295.0,2.8,40.0,102.0,12.49,Medium
+Kullu,Golden Delicious,Oct,Cardboard Carton,Pickup,Good,CA Store,365.0,6.3,27.0,82.0,9.83,Low
+Mandi,Royal Delicious,Sep,Cardboard Carton,Truck,Good,CA Store,132.0,5.9,23.0,78.0,5.89,Low
+Sirmaur,Gala,Oct,Wooden Box,Truck,Average,Cold Store,326.0,9.1,27.0,72.0,13.41,Medium
+Mandi,Fuji,Sep,Cardboard Carton,Pickup,Average,Cold Store,307.0,6.8,30.0,41.0,10.93,Low
+Sirmaur,Golden Delicious,Sep,Gunny/Loose,Tempo,Average,Ambient,298.0,4.6,24.0,48.0,24.55,High
+Mandi,Golden Delicious,Nov,Cardboard Carton,Truck,Good,CA Store,191.0,4.9,43.0,70.0,10.21,Low
+Chamba,Golden Delicious,Oct,Cardboard Carton,Truck,Good,Ambient,435.0,6.6,44.0,53.0,16.97,Medium
+Shimla,Fuji,Oct,Cardboard Carton,Truck,Poor,Cold Store,547.0,2.2,33.0,104.0,12.46,Medium
+Mandi,Royal Delicious,Nov,Cardboard Carton,Pickup,Average,CA Store,136.0,5.8,46.0,64.0,8.59,Low
+Kullu,Royal Delicious,Sep,Cardboard Carton,Tempo,Average,CA Store,374.0,13.7,25.0,75.0,16.84,Medium
+Kullu,Red Delicious,Nov,Plastic Crate,Truck,Good,Ambient,30.0,5.2,35.0,4.0,12.09,Medium
+Kinnaur,Red Delicious,Oct,Cardboard Carton,Pickup,Good,Cold Store,367.0,3.7,40.0,98.0,12.36,Medium
+Sirmaur,Royal Delicious,Oct,Wooden Box,Pickup,Poor,Cold Store,37.0,3.7,40.0,37.0,14.38,Medium
+Sirmaur,Golden Delicious,Sep,Gunny/Loose,Tempo,Average,CA Store,212.0,6.4,39.0,18.0,20.55,High
+Shimla,Royal Delicious,Aug,Wooden Box,Truck,Good,Ambient,109.0,5.6,34.0,126.0,14.02,Medium
+Mandi,Fuji,Sep,Plastic Crate,Tempo,Poor,CA Store,252.0,7.8,54.0,88.0,18.49,Medium
+Mandi,Royal Delicious,Aug,Cardboard Carton,Pickup,Average,Cold Store,389.0,3.0,17.0,99.0,12.03,Medium
+Shimla,Royal Delicious,Aug,Cardboard Carton,Pickup,Average,Ambient,39.0,4.3,23.0,78.0,15.22,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,233.0,8.7,22.0,56.0,12.48,Medium
+Shimla,Royal Delicious,Oct,Gunny/Loose,Pickup,Average,Cold Store,213.0,9.2,19.0,49.0,12.75,Medium
+Mandi,Royal Delicious,Sep,Wooden Box,Pickup,Average,Ambient,486.0,9.3,1.0,91.0,19.02,Medium
+Kullu,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,336.0,8.1,46.0,105.0,11.82,Low
+Sirmaur,Royal Delicious,Nov,Wooden Box,Truck,Average,CA Store,127.0,8.3,10.0,57.0,5.5,Low
+Kullu,Royal Delicious,Oct,Plastic Crate,Pickup,Good,Cold Store,219.0,5.8,28.0,143.0,13.98,Medium
+Sirmaur,Red Delicious,Oct,Plastic Crate,Pickup,Poor,CA Store,482.0,1.4,4.0,52.0,16.45,Medium
+Kullu,Red Delicious,Oct,Wooden Box,Truck,Average,Ambient,373.0,1.6,34.0,4.0,14.8,Medium
+Mandi,Royal Delicious,Sep,Gunny/Loose,Truck,Average,Ambient,161.0,5.2,13.0,0.0,18.61,Medium
+Shimla,Royal Delicious,Sep,Plastic Crate,Truck,Average,Ambient,245.0,5.3,8.0,0.0,16.46,Medium
+Kullu,Royal Delicious,Nov,Wooden Box,Tempo,Average,Cold Store,249.0,2.4,28.0,43.0,13.0,Medium
+Mandi,Royal Delicious,Oct,Cardboard Carton,Tempo,Average,Ambient,210.0,2.6,14.0,51.0,14.6,Medium
+Sirmaur,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,58.0,4.6,16.0,87.0,11.85,Low
+Chamba,Gala,Nov,Gunny/Loose,Truck,Poor,CA Store,192.0,19.0,28.0,59.0,22.11,High
+Shimla,Fuji,Sep,Wooden Box,Truck,Poor,Ambient,461.0,2.1,37.0,94.0,21.75,High
+Kullu,Fuji,Sep,Cardboard Carton,Truck,Poor,Ambient,230.0,3.6,13.0,62.0,15.33,Medium
+Shimla,Red Delicious,Oct,Wooden Box,Tempo,Good,Ambient,267.0,9.1,10.0,61.0,17.96,Medium
+Shimla,Red Delicious,Aug,Cardboard Carton,Pickup,Average,Cold Store,298.0,8.0,25.0,37.0,11.76,Low
+Kinnaur,Royal Delicious,Oct,Plastic Crate,Truck,Average,CA Store,568.0,6.1,33.0,117.0,12.06,Medium
+Kinnaur,Gala,Oct,Cardboard Carton,Truck,Good,Ambient,281.0,0.9,47.0,0.0,14.83,Medium
+Mandi,Gala,Oct,Plastic Crate,Truck,Poor,Ambient,422.0,4.1,9.0,72.0,17.12,Medium
+Chamba,Gala,Sep,Wooden Box,Tempo,Average,Cold Store,202.0,15.7,20.0,53.0,18.72,Medium
+Mandi,Gala,Oct,Cardboard Carton,Pickup,Good,CA Store,246.0,2.5,43.0,91.0,11.31,Low
+Mandi,Red Delicious,Aug,Cardboard Carton,Pickup,Good,Ambient,282.0,2.4,55.0,59.0,12.37,Medium
+Shimla,Gala,Nov,Plastic Crate,Truck,Good,Cold Store,179.0,13.3,10.0,60.0,10.59,Low
+Shimla,Gala,Aug,Cardboard Carton,Tempo,Average,Cold Store,254.0,4.6,14.0,49.0,16.58,Medium
+Kinnaur,Royal Delicious,Nov,Cardboard Carton,Truck,Average,Ambient,395.0,0.9,31.0,116.0,16.27,Medium
+Chamba,Fuji,Sep,Plastic Crate,Tempo,Average,CA Store,176.0,1.8,16.0,60.0,5.6,Low
+Shimla,Royal Delicious,Sep,Cardboard Carton,Tempo,Good,CA Store,280.0,3.1,14.0,139.0,11.53,Low
+Kullu,Fuji,Oct,Cardboard Carton,Truck,Good,CA Store,372.0,5.9,29.0,71.0,6.85,Low
+Kinnaur,Gala,Sep,Cardboard Carton,Tempo,Poor,Ambient,173.0,4.2,48.0,61.0,15.82,Medium
+Shimla,Royal Delicious,Sep,Gunny/Loose,Truck,Good,Cold Store,422.0,2.3,5.0,54.0,14.74,Medium
+Kullu,Golden Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,289.0,4.2,47.0,83.0,17.11,Medium
+Chamba,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,259.0,2.5,16.0,36.0,13.65,Medium
+Kinnaur,Gala,Sep,Cardboard Carton,Truck,Average,Ambient,30.0,16.3,30.0,66.0,15.76,Medium
+Shimla,Gala,Oct,Cardboard Carton,Truck,Poor,Cold Store,231.0,1.7,49.0,60.0,14.43,Medium
+Chamba,Golden Delicious,Nov,Cardboard Carton,Truck,Average,Cold Store,328.0,3.4,30.0,73.0,12.95,Medium
+Shimla,Gala,Oct,Cardboard Carton,Truck,Poor,Cold Store,507.0,3.0,21.0,74.0,10.49,Low
+Chamba,Royal Delicious,Sep,Cardboard Carton,Truck,Poor,Ambient,354.0,3.0,36.0,76.0,18.88,Medium
+Shimla,Royal Delicious,Aug,Cardboard Carton,Pickup,Good,Ambient,426.0,1.9,22.0,64.0,14.58,Medium
+Kinnaur,Red Delicious,Nov,Gunny/Loose,Truck,Good,Ambient,123.0,12.6,33.0,123.0,23.33,High
+Kullu,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,264.0,20.0,22.0,77.0,16.6,Medium
+Shimla,Red Delicious,Sep,Cardboard Carton,Tempo,Average,Cold Store,439.0,6.5,38.0,164.0,18.74,Medium
+Chamba,Royal Delicious,Oct,Gunny/Loose,Tempo,Average,Ambient,165.0,6.1,4.0,62.0,18.63,Medium
+Shimla,Red Delicious,Sep,Gunny/Loose,Truck,Good,CA Store,405.0,1.1,10.0,98.0,10.62,Low
+Shimla,Red Delicious,Oct,Plastic Crate,Truck,Good,Ambient,375.0,12.4,4.0,31.0,15.91,Medium
+Shimla,Gala,Aug,Cardboard Carton,Pickup,Average,Cold Store,316.0,2.5,24.0,116.0,12.47,Medium
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,237.0,1.0,2.0,32.0,15.11,Medium
+Mandi,Gala,Nov,Cardboard Carton,Truck,Average,Ambient,152.0,7.3,15.0,78.0,14.88,Medium
+Sirmaur,Red Delicious,Nov,Cardboard Carton,Pickup,Poor,Cold Store,511.0,10.2,8.0,49.0,14.13,Medium
+Shimla,Royal Delicious,Nov,Cardboard Carton,Truck,Good,Cold Store,362.0,12.3,47.0,78.0,12.4,Medium
+Kullu,Red Delicious,Nov,Wooden Box,Truck,Average,Ambient,324.0,3.4,10.0,51.0,17.03,Medium
+Shimla,Red Delicious,Sep,Cardboard Carton,Pickup,Poor,Cold Store,226.0,3.1,6.0,28.0,9.82,Low
+Kinnaur,Royal Delicious,Nov,Wooden Box,Pickup,Average,Cold Store,285.0,5.7,29.0,49.0,12.9,Medium
+Sirmaur,Red Delicious,Nov,Cardboard Carton,Tempo,Average,Cold Store,301.0,4.2,50.0,122.0,16.64,Medium
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,332.0,7.4,23.0,79.0,10.47,Low
+Kinnaur,Red Delicious,Sep,Plastic Crate,Truck,Good,Ambient,375.0,5.8,24.0,8.0,9.72,Low
+Kullu,Red Delicious,Aug,Gunny/Loose,Truck,Poor,CA Store,178.0,2.3,44.0,104.0,13.52,Medium
+Sirmaur,Red Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,89.0,12.6,38.0,24.0,10.84,Low
+Kullu,Gala,Oct,Wooden Box,Truck,Average,Ambient,291.0,7.5,31.0,90.0,18.97,Medium
+Shimla,Royal Delicious,Sep,Cardboard Carton,Pickup,Average,CA Store,53.0,10.1,16.0,82.0,5.99,Low
+Kullu,Fuji,Sep,Cardboard Carton,Pickup,Average,Cold Store,238.0,2.4,32.0,85.0,12.03,Medium
+Shimla,Gala,Oct,Plastic Crate,Pickup,Good,Ambient,214.0,7.3,5.0,134.0,17.18,Medium
+Shimla,Fuji,Aug,Cardboard Carton,Truck,Poor,Ambient,344.0,8.8,16.0,27.0,17.83,Medium
+Shimla,Gala,Nov,Cardboard Carton,Truck,Average,Ambient,538.0,5.6,46.0,84.0,21.74,High
+Kullu,Royal Delicious,Sep,Wooden Box,Pickup,Good,Ambient,30.0,1.9,45.0,110.0,11.38,Low
+Kinnaur,Red Delicious,Aug,Cardboard Carton,Truck,Average,Cold Store,576.0,5.2,32.0,34.0,14.12,Medium
+Shimla,Royal Delicious,Aug,Cardboard Carton,Tempo,Poor,Cold Store,250.0,8.2,1.0,30.0,15.33,Medium
+Kullu,Gala,Nov,Cardboard Carton,Truck,Average,Ambient,325.0,10.6,7.0,49.0,19.72,Medium
+Sirmaur,Red Delicious,Nov,Gunny/Loose,Pickup,Average,Ambient,96.0,1.2,15.0,73.0,18.22,Medium
+Mandi,Royal Delicious,Aug,Wooden Box,Tempo,Average,Ambient,410.0,5.5,22.0,4.0,20.05,High
+Kullu,Fuji,Sep,Cardboard Carton,Pickup,Poor,Cold Store,285.0,1.5,6.0,82.0,7.41,Low
+Shimla,Royal Delicious,Sep,Cardboard Carton,Pickup,Average,Cold Store,272.0,8.3,21.0,4.0,11.27,Low
+Chamba,Red Delicious,Sep,Wooden Box,Pickup,Poor,CA Store,30.0,9.8,52.0,112.0,12.22,Medium
+Shimla,Golden Delicious,Oct,Cardboard Carton,Truck,Good,Ambient,290.0,2.2,31.0,81.0,17.48,Medium
+Shimla,Royal Delicious,Aug,Wooden Box,Pickup,Poor,Ambient,390.0,1.8,28.0,137.0,23.71,High
+Sirmaur,Red Delicious,Oct,Plastic Crate,Tempo,Poor,Cold Store,249.0,3.0,10.0,87.0,11.68,Low
+Kullu,Gala,Sep,Cardboard Carton,Tempo,Average,Cold Store,433.0,4.3,1.0,48.0,13.62,Medium
+Mandi,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,427.0,2.7,7.0,28.0,10.48,Low
+Kinnaur,Red Delicious,Sep,Cardboard Carton,Truck,Good,CA Store,197.0,8.8,1.0,70.0,8.2,Low
+Kinnaur,Royal Delicious,Sep,Cardboard Carton,Pickup,Average,Ambient,487.0,10.6,26.0,59.0,17.18,Medium
+Shimla,Golden Delicious,Sep,Cardboard Carton,Pickup,Good,Ambient,286.0,5.3,31.0,107.0,13.06,Medium
+Shimla,Royal Delicious,Aug,Gunny/Loose,Truck,Good,Cold Store,286.0,2.7,11.0,23.0,11.96,Low
+Shimla,Fuji,Aug,Cardboard Carton,Truck,Poor,Ambient,293.0,4.2,27.0,141.0,12.59,Medium
+Shimla,Gala,Nov,Wooden Box,Truck,Good,Ambient,289.0,5.3,47.0,111.0,18.71,Medium
+Chamba,Royal Delicious,Sep,Plastic Crate,Truck,Average,CA Store,30.0,4.1,54.0,52.0,9.02,Low
+Shimla,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,256.0,4.6,37.0,132.0,14.64,Medium
+Kullu,Red Delicious,Aug,Cardboard Carton,Truck,Average,Cold Store,103.0,10.0,22.0,29.0,7.67,Low
+Mandi,Golden Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,491.0,2.6,36.0,68.0,14.78,Medium
+Mandi,Red Delicious,Nov,Plastic Crate,Tempo,Average,Cold Store,486.0,17.2,45.0,9.0,20.89,High
+Kullu,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,391.0,5.5,1.0,134.0,14.5,Medium
+Kullu,Royal Delicious,Oct,Plastic Crate,Truck,Poor,Cold Store,249.0,3.9,47.0,0.0,14.33,Medium
+Sirmaur,Fuji,Oct,Gunny/Loose,Truck,Average,Cold Store,149.0,2.5,17.0,2.0,11.1,Low
+Kinnaur,Red Delicious,Sep,Plastic Crate,Truck,Poor,Ambient,195.0,2.7,17.0,35.0,13.42,Medium
+Mandi,Gala,Nov,Gunny/Loose,Tempo,Average,Cold Store,533.0,5.0,20.0,113.0,22.69,High
+Sirmaur,Red Delicious,Oct,Plastic Crate,Tempo,Average,Ambient,190.0,5.4,30.0,98.0,17.15,Medium
+Mandi,Fuji,Aug,Gunny/Loose,Truck,Good,Ambient,30.0,3.8,8.0,65.0,14.95,Medium
+Shimla,Royal Delicious,Sep,Plastic Crate,Truck,Good,Ambient,414.0,1.5,21.0,101.0,14.64,Medium
+Kullu,Royal Delicious,Sep,Plastic Crate,Truck,Poor,Ambient,475.0,5.0,33.0,55.0,20.95,High
+Shimla,Fuji,Aug,Plastic Crate,Truck,Average,Ambient,496.0,2.8,28.0,77.0,15.93,Medium
+Kinnaur,Fuji,Oct,Gunny/Loose,Truck,Average,Ambient,415.0,0.9,31.0,126.0,18.99,Medium
+Sirmaur,Royal Delicious,Aug,Wooden Box,Truck,Poor,Cold Store,436.0,7.6,20.0,50.0,16.74,Medium
+Kullu,Red Delicious,Oct,Wooden Box,Truck,Average,Cold Store,287.0,1.1,35.0,29.0,8.37,Low
+Kullu,Red Delicious,Nov,Wooden Box,Pickup,Poor,Cold Store,30.0,3.7,41.0,79.0,13.89,Medium
+Shimla,Red Delicious,Sep,Gunny/Loose,Truck,Average,Cold Store,284.0,4.5,40.0,90.0,17.47,Medium
+Sirmaur,Royal Delicious,Sep,Cardboard Carton,Truck,Poor,CA Store,361.0,11.6,31.0,64.0,13.19,Medium
+Shimla,Gala,Oct,Plastic Crate,Truck,Good,Cold Store,262.0,1.0,39.0,100.0,11.17,Low
+Shimla,Royal Delicious,Oct,Plastic Crate,Truck,Good,Cold Store,256.0,8.2,38.0,52.0,9.64,Low
+Shimla,Golden Delicious,Sep,Gunny/Loose,Truck,Average,CA Store,155.0,9.1,65.0,65.0,14.39,Medium
+Shimla,Royal Delicious,Sep,Cardboard Carton,Truck,Good,Cold Store,150.0,13.9,43.0,75.0,10.62,Low
+Kullu,Royal Delicious,Oct,Plastic Crate,Truck,Poor,Ambient,519.0,10.3,24.0,71.0,22.65,High
+Kullu,Golden Delicious,Nov,Plastic Crate,Truck,Average,Ambient,524.0,4.6,11.0,125.0,21.79,High
+Shimla,Royal Delicious,Sep,Gunny/Loose,Tempo,Good,Ambient,280.0,8.5,21.0,75.0,22.18,High
+Shimla,Golden Delicious,Sep,Gunny/Loose,Tempo,Good,Cold Store,317.0,11.9,20.0,48.0,21.74,High
+Shimla,Royal Delicious,Nov,Wooden Box,Truck,Poor,Ambient,152.0,0.7,33.0,81.0,14.38,Medium
+Kullu,Fuji,Sep,Wooden Box,Truck,Average,Ambient,364.0,1.5,14.0,100.0,14.84,Medium
+Shimla,Golden Delicious,Aug,Cardboard Carton,Pickup,Poor,CA Store,509.0,5.8,43.0,91.0,21.4,High
+Kinnaur,Gala,Oct,Gunny/Loose,Pickup,Good,Ambient,81.0,9.1,4.0,89.0,15.27,Medium
+Shimla,Royal Delicious,Aug,Cardboard Carton,Truck,Poor,CA Store,340.0,7.4,1.0,0.0,9.32,Low
+Shimla,Royal Delicious,Sep,Plastic Crate,Truck,Average,Ambient,350.0,6.2,23.0,0.0,13.68,Medium
+Kullu,Red Delicious,Oct,Plastic Crate,Truck,Average,Ambient,349.0,13.8,12.0,111.0,19.25,Medium
+Kullu,Red Delicious,Oct,Cardboard Carton,Pickup,Average,Cold Store,494.0,3.8,6.0,78.0,11.75,Low
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Good,Ambient,545.0,2.7,15.0,59.0,16.62,Medium
+Shimla,Royal Delicious,Sep,Cardboard Carton,Truck,Poor,Cold Store,250.0,3.2,14.0,88.0,12.09,Medium
+Chamba,Red Delicious,Oct,Gunny/Loose,Truck,Poor,CA Store,368.0,5.9,25.0,137.0,15.86,Medium
+Shimla,Royal Delicious,Oct,Wooden Box,Truck,Average,CA Store,291.0,4.5,16.0,117.0,10.03,Low
+Kullu,Red Delicious,Oct,Cardboard Carton,Truck,Poor,CA Store,198.0,9.4,17.0,98.0,11.48,Low
+Kullu,Royal Delicious,Oct,Plastic Crate,Pickup,Good,CA Store,315.0,2.8,25.0,25.0,9.79,Low
+Shimla,Royal Delicious,Oct,Cardboard Carton,Pickup,Good,Ambient,367.0,6.5,40.0,30.0,21.14,High
+Kullu,Golden Delicious,Nov,Gunny/Loose,Truck,Good,Cold Store,308.0,8.5,47.0,0.0,18.43,Medium
+Mandi,Red Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,165.0,11.9,27.0,85.0,9.67,Low
+Chamba,Royal Delicious,Aug,Cardboard Carton,Tempo,Good,Ambient,220.0,1.8,28.0,104.0,14.56,Medium
+Shimla,Red Delicious,Nov,Cardboard Carton,Truck,Average,CA Store,221.0,3.2,22.0,108.0,8.39,Low
+Shimla,Gala,Nov,Wooden Box,Truck,Good,Cold Store,170.0,4.3,32.0,87.0,9.85,Low
+Shimla,Red Delicious,Sep,Wooden Box,Truck,Average,Ambient,321.0,1.3,31.0,54.0,16.38,Medium
+Kullu,Red Delicious,Aug,Plastic Crate,Tempo,Poor,Ambient,334.0,6.2,45.0,37.0,16.43,Medium
+Kinnaur,Fuji,Oct,Wooden Box,Pickup,Average,Cold Store,407.0,6.1,1.0,27.0,13.22,Medium
+Shimla,Red Delicious,Sep,Cardboard Carton,Tempo,Good,CA Store,169.0,5.7,21.0,53.0,6.68,Low
+Shimla,Fuji,Oct,Cardboard Carton,Pickup,Poor,Ambient,205.0,4.1,30.0,21.0,15.1,Medium
+Sirmaur,Gala,Oct,Cardboard Carton,Truck,Good,Ambient,482.0,11.1,25.0,130.0,23.45,High
+Shimla,Royal Delicious,Aug,Gunny/Loose,Truck,Poor,Cold Store,259.0,3.2,11.0,8.0,12.41,Medium
+Kullu,Red Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,284.0,10.4,6.0,52.0,11.43,Low
+Kinnaur,Golden Delicious,Nov,Gunny/Loose,Pickup,Average,CA Store,257.0,3.2,37.0,0.0,16.64,Medium
+Shimla,Fuji,Aug,Cardboard Carton,Pickup,Good,Ambient,427.0,1.7,14.0,72.0,14.2,Medium
+Shimla,Red Delicious,Oct,Cardboard Carton,Truck,Poor,Ambient,432.0,4.7,1.0,60.0,13.85,Medium
+Shimla,Royal Delicious,Sep,Cardboard Carton,Tempo,Poor,Ambient,425.0,5.3,38.0,46.0,23.98,High
+Sirmaur,Red Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,283.0,6.6,32.0,23.0,9.84,Low
+Shimla,Royal Delicious,Oct,Plastic Crate,Truck,Poor,Ambient,167.0,0.5,23.0,60.0,13.77,Medium
+Shimla,Gala,Sep,Wooden Box,Truck,Poor,Ambient,530.0,3.7,11.0,38.0,20.34,High
+Shimla,Red Delicious,Oct,Cardboard Carton,Tempo,Good,Cold Store,391.0,16.4,23.0,55.0,14.92,Medium
+Shimla,Golden Delicious,Oct,Plastic Crate,Tempo,Average,Ambient,221.0,3.0,43.0,138.0,18.03,Medium
+Kinnaur,Gala,Aug,Wooden Box,Truck,Average,Cold Store,465.0,9.1,1.0,67.0,15.98,Medium
+Shimla,Golden Delicious,Sep,Gunny/Loose,Tempo,Average,Cold Store,210.0,27.4,2.0,81.0,24.14,High
+Kullu,Golden Delicious,Oct,Gunny/Loose,Tempo,Good,Ambient,463.0,18.4,16.0,41.0,29.46,High
+Kinnaur,Gala,Oct,Plastic Crate,Tempo,Poor,Cold Store,472.0,2.0,25.0,29.0,18.03,Medium
+Chamba,Gala,Oct,Plastic Crate,Tempo,Average,Ambient,160.0,8.6,18.0,59.0,21.56,High
+Shimla,Gala,Oct,Plastic Crate,Truck,Good,Cold Store,356.0,9.0,35.0,160.0,15.25,Medium
+Chamba,Royal Delicious,Aug,Wooden Box,Pickup,Average,Cold Store,382.0,7.7,41.0,49.0,14.2,Medium
+Kinnaur,Red Delicious,Aug,Plastic Crate,Pickup,Average,Cold Store,620.0,1.7,29.0,74.0,12.33,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Pickup,Average,Cold Store,184.0,5.7,33.0,27.0,14.78,Medium
+Mandi,Gala,Oct,Plastic Crate,Truck,Poor,Cold Store,466.0,5.7,29.0,0.0,17.16,Medium
+Chamba,Golden Delicious,Oct,Gunny/Loose,Pickup,Average,Ambient,282.0,1.5,25.0,28.0,19.33,Medium
+Shimla,Red Delicious,Sep,Cardboard Carton,Tempo,Average,Cold Store,119.0,3.9,6.0,155.0,14.08,Medium
+Sirmaur,Royal Delicious,Oct,Plastic Crate,Truck,Average,Cold Store,264.0,5.9,10.0,84.0,13.93,Medium
+Kullu,Royal Delicious,Oct,Gunny/Loose,Tempo,Average,Ambient,280.0,4.6,5.0,126.0,19.54,Medium
+Kinnaur,Golden Delicious,Sep,Cardboard Carton,Truck,Average,CA Store,142.0,8.1,23.0,46.0,8.1,Low
+Sirmaur,Royal Delicious,Oct,Wooden Box,Truck,Good,Ambient,321.0,3.8,28.0,0.0,13.82,Medium
+Kullu,Royal Delicious,Oct,Gunny/Loose,Truck,Good,Cold Store,405.0,5.3,3.0,16.0,11.54,Low
+Mandi,Gala,Sep,Gunny/Loose,Pickup,Average,Cold Store,311.0,9.6,26.0,76.0,19.72,Medium
+Shimla,Gala,Sep,Cardboard Carton,Pickup,Poor,Ambient,210.0,15.1,12.0,70.0,22.73,High
+Mandi,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,261.0,1.7,9.0,60.0,10.13,Low
+Kinnaur,Royal Delicious,Nov,Plastic Crate,Pickup,Good,Ambient,279.0,7.9,16.0,39.0,16.08,Medium
+Shimla,Fuji,Sep,Cardboard Carton,Truck,Average,Cold Store,308.0,3.3,8.0,98.0,11.55,Low
+Kullu,Golden Delicious,Aug,Cardboard Carton,Truck,Poor,Cold Store,424.0,6.6,34.0,40.0,17.2,Medium
+Shimla,Golden Delicious,Aug,Cardboard Carton,Tempo,Average,Ambient,315.0,1.5,22.0,72.0,17.69,Medium
+Shimla,Royal Delicious,Aug,Cardboard Carton,Pickup,Good,Ambient,98.0,11.2,37.0,68.0,13.97,Medium
+Shimla,Royal Delicious,Sep,Wooden Box,Pickup,Average,Ambient,207.0,2.5,18.0,45.0,16.82,Medium
+Shimla,Royal Delicious,Oct,Plastic Crate,Pickup,Average,Ambient,302.0,9.7,19.0,25.0,15.42,Medium
+Shimla,Golden Delicious,Aug,Wooden Box,Tempo,Average,Ambient,426.0,1.7,53.0,43.0,22.2,High
+Shimla,Royal Delicious,Sep,Plastic Crate,Truck,Good,Cold Store,449.0,1.2,1.0,135.0,10.91,Low
+Mandi,Royal Delicious,Aug,Cardboard Carton,Truck,Good,Ambient,511.0,4.1,44.0,104.0,20.1,High
+Kinnaur,Golden Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,297.0,5.8,50.0,101.0,13.45,Medium
+Mandi,Fuji,Aug,Cardboard Carton,Pickup,Average,Cold Store,379.0,19.5,36.0,29.0,15.76,Medium
+Shimla,Gala,Oct,Cardboard Carton,Pickup,Average,Ambient,91.0,5.7,20.0,2.0,11.14,Low
+Chamba,Red Delicious,Oct,Cardboard Carton,Pickup,Good,Cold Store,336.0,2.0,46.0,104.0,11.99,Low
+Kinnaur,Red Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,140.0,8.6,20.0,96.0,9.26,Low
+Shimla,Red Delicious,Sep,Cardboard Carton,Truck,Poor,Ambient,272.0,12.5,14.0,65.0,16.91,Medium
+Shimla,Royal Delicious,Nov,Cardboard Carton,Pickup,Good,Ambient,674.0,2.4,19.0,45.0,16.24,Medium
+Kinnaur,Red Delicious,Oct,Plastic Crate,Tempo,Average,Cold Store,319.0,9.4,16.0,1.0,14.31,Medium
+Shimla,Red Delicious,Aug,Wooden Box,Truck,Average,Ambient,168.0,11.5,11.0,95.0,14.79,Medium
+Kullu,Red Delicious,Sep,Gunny/Loose,Truck,Average,Cold Store,333.0,8.8,42.0,107.0,16.79,Medium
+Sirmaur,Gala,Oct,Plastic Crate,Truck,Poor,Ambient,213.0,2.9,13.0,33.0,17.97,Medium
+Shimla,Fuji,Sep,Wooden Box,Truck,Poor,Cold Store,155.0,5.8,25.0,29.0,10.89,Low
+Shimla,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,553.0,6.6,3.0,110.0,16.21,Medium
+Sirmaur,Red Delicious,Oct,Wooden Box,Truck,Good,Cold Store,419.0,11.0,25.0,34.0,12.59,Medium
+Kinnaur,Royal Delicious,Aug,Cardboard Carton,Pickup,Average,CA Store,325.0,3.0,8.0,131.0,10.47,Low
+Shimla,Red Delicious,Nov,Cardboard Carton,Truck,Good,Cold Store,229.0,9.6,7.0,56.0,8.89,Low
+Chamba,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,240.0,4.4,23.0,45.0,12.24,Medium
+Chamba,Royal Delicious,Aug,Cardboard Carton,Truck,Poor,Ambient,481.0,3.7,41.0,62.0,22.47,High
+Kullu,Gala,Aug,Cardboard Carton,Tempo,Poor,Cold Store,320.0,5.1,32.0,45.0,18.43,Medium
+Kinnaur,Red Delicious,Sep,Plastic Crate,Truck,Average,CA Store,30.0,0.4,33.0,105.0,4.79,Low
+Shimla,Fuji,Nov,Plastic Crate,Truck,Average,Ambient,595.0,0.6,23.0,95.0,15.73,Medium
+Shimla,Royal Delicious,Oct,Plastic Crate,Truck,Good,Ambient,304.0,0.8,20.0,104.0,15.33,Medium
+Kinnaur,Royal Delicious,Nov,Wooden Box,Pickup,Average,Ambient,325.0,6.8,37.0,67.0,22.22,High
+Shimla,Red Delicious,Oct,Wooden Box,Tempo,Good,Cold Store,421.0,4.1,17.0,42.0,15.0,Medium
+Kinnaur,Royal Delicious,Sep,Cardboard Carton,Truck,Poor,CA Store,341.0,2.9,38.0,60.0,11.73,Low
+Chamba,Royal Delicious,Sep,Plastic Crate,Truck,Poor,Ambient,377.0,4.8,44.0,43.0,21.02,High
+Shimla,Fuji,Aug,Wooden Box,Truck,Good,Ambient,225.0,9.7,12.0,119.0,17.07,Medium
+Kinnaur,Royal Delicious,Nov,Cardboard Carton,Pickup,Average,CA Store,120.0,4.6,15.0,100.0,8.6,Low
+Shimla,Royal Delicious,Sep,Cardboard Carton,Tempo,Average,Ambient,316.0,1.9,17.0,56.0,16.31,Medium
+Chamba,Red Delicious,Sep,Gunny/Loose,Truck,Poor,Ambient,466.0,21.6,3.0,23.0,27.96,High
+Shimla,Red Delicious,Oct,Wooden Box,Truck,Average,Ambient,196.0,5.0,18.0,122.0,14.37,Medium
+Kinnaur,Red Delicious,Oct,Wooden Box,Pickup,Good,Cold Store,185.0,11.5,45.0,65.0,11.92,Low
+Kullu,Red Delicious,Sep,Wooden Box,Pickup,Average,Ambient,439.0,8.8,9.0,55.0,18.0,Medium
+Kullu,Gala,Oct,Cardboard Carton,Truck,Good,Cold Store,221.0,3.5,45.0,122.0,7.87,Low
+Kinnaur,Royal Delicious,Oct,Wooden Box,Truck,Average,Ambient,227.0,15.0,18.0,40.0,18.96,Medium
+Mandi,Red Delicious,Oct,Cardboard Carton,Truck,Good,Cold Store,231.0,3.1,57.0,47.0,8.57,Low
+Kullu,Golden Delicious,Aug,Cardboard Carton,Pickup,Average,Cold Store,272.0,6.8,15.0,51.0,14.44,Medium
+Mandi,Gala,Sep,Plastic Crate,Pickup,Poor,CA Store,75.0,6.1,23.0,7.0,13.15,Medium
+Sirmaur,Red Delicious,Sep,Cardboard Carton,Pickup,Good,Ambient,210.0,6.5,11.0,73.0,15.95,Medium
+Kullu,Red Delicious,Nov,Plastic Crate,Tempo,Average,Ambient,310.0,13.3,15.0,30.0,22.36,High
+Kullu,Royal Delicious,Nov,Cardboard Carton,Truck,Average,Ambient,309.0,5.1,45.0,37.0,14.47,Medium
+Shimla,Royal Delicious,Oct,Plastic Crate,Truck,Good,Ambient,431.0,5.8,32.0,32.0,13.38,Medium
+Mandi,Royal Delicious,Sep,Wooden Box,Truck,Average,Ambient,519.0,6.1,40.0,37.0,21.96,High
+Kullu,Golden Delicious,Sep,Plastic Crate,Tempo,Average,Ambient,477.0,18.9,5.0,26.0,27.67,High
+Kullu,Royal Delicious,Oct,Wooden Box,Pickup,Average,Cold Store,399.0,10.9,35.0,70.0,20.36,High
+Shimla,Golden Delicious,Sep,Gunny/Loose,Truck,Poor,Ambient,261.0,1.2,10.0,54.0,22.1,High
+Chamba,Royal Delicious,Oct,Wooden Box,Truck,Average,CA Store,199.0,3.2,5.0,62.0,4.0,Low
+Kullu,Gala,Oct,Plastic Crate,Pickup,Average,Cold Store,282.0,5.4,29.0,154.0,16.34,Medium
+Kinnaur,Gala,Sep,Plastic Crate,Pickup,Good,Cold Store,356.0,13.1,28.0,54.0,16.75,Medium
+Shimla,Royal Delicious,Sep,Cardboard Carton,Pickup,Good,Cold Store,387.0,14.0,26.0,84.0,17.53,Medium
+Sirmaur,Royal Delicious,Aug,Cardboard Carton,Truck,Good,Ambient,361.0,4.9,36.0,89.0,18.49,Medium
+Shimla,Royal Delicious,Sep,Cardboard Carton,Tempo,Poor,Ambient,264.0,3.1,38.0,57.0,20.61,High
+Shimla,Gala,Oct,Cardboard Carton,Pickup,Poor,Cold Store,382.0,4.3,47.0,71.0,15.68,Medium
+Chamba,Royal Delicious,Sep,Cardboard Carton,Pickup,Poor,Ambient,444.0,5.5,7.0,61.0,17.26,Medium
+Sirmaur,Red Delicious,Sep,Cardboard Carton,Pickup,Good,Cold Store,394.0,4.1,48.0,68.0,12.99,Medium
+Shimla,Red Delicious,Aug,Wooden Box,Tempo,Average,CA Store,276.0,11.7,53.0,37.0,13.71,Medium
+Kullu,Gala,Aug,Cardboard Carton,Tempo,Poor,Cold Store,172.0,3.8,20.0,40.0,16.14,Medium
+Mandi,Red Delicious,Oct,Plastic Crate,Pickup,Average,Cold Store,169.0,2.4,1.0,61.0,5.03,Low
+Chamba,Red Delicious,Oct,Cardboard Carton,Truck,Good,Cold Store,191.0,4.3,4.0,0.0,6.13,Low
+Kullu,Fuji,Oct,Plastic Crate,Truck,Poor,Cold Store,313.0,6.3,18.0,120.0,14.7,Medium
+Kullu,Royal Delicious,Oct,Cardboard Carton,Tempo,Good,CA Store,348.0,11.9,55.0,146.0,15.6,Medium
+Mandi,Gala,Sep,Wooden Box,Pickup,Good,Cold Store,96.0,2.3,25.0,67.0,7.7,Low
+Mandi,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,Ambient,214.0,6.4,16.0,87.0,12.72,Medium
+Mandi,Red Delicious,Aug,Plastic Crate,Truck,Average,CA Store,312.0,6.5,15.0,103.0,9.57,Low
+Kullu,Gala,Nov,Cardboard Carton,Tempo,Average,Cold Store,163.0,7.4,5.0,7.0,9.91,Low
+Shimla,Golden Delicious,Aug,Gunny/Loose,Tempo,Average,Cold Store,336.0,3.8,38.0,97.0,22.93,High
+Sirmaur,Golden Delicious,Sep,Cardboard Carton,Tempo,Poor,Cold Store,240.0,7.3,24.0,43.0,14.43,Medium
+Chamba,Royal Delicious,Aug,Wooden Box,Truck,Good,Cold Store,186.0,8.7,56.0,152.0,15.02,Medium
+Mandi,Red Delicious,Oct,Cardboard Carton,Pickup,Poor,CA Store,287.0,3.8,34.0,52.0,8.93,Low
+Shimla,Red Delicious,Sep,Wooden Box,Tempo,Average,Ambient,331.0,5.8,37.0,96.0,21.23,High
+Shimla,Red Delicious,Nov,Wooden Box,Truck,Good,Ambient,170.0,4.5,21.0,53.0,8.25,Low
+Mandi,Red Delicious,Aug,Cardboard Carton,Truck,Average,Ambient,248.0,2.7,9.0,148.0,18.52,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Tempo,Average,Ambient,341.0,1.6,12.0,40.0,15.27,Medium
+Sirmaur,Royal Delicious,Oct,Cardboard Carton,Truck,Good,Cold Store,181.0,3.1,4.0,107.0,1.51,Low
+Kullu,Royal Delicious,Sep,Cardboard Carton,Pickup,Average,Cold Store,64.0,3.3,39.0,85.0,8.14,Low
+Kinnaur,Red Delicious,Sep,Gunny/Loose,Pickup,Average,Cold Store,80.0,1.6,19.0,76.0,10.74,Low
+Chamba,Royal Delicious,Sep,Cardboard Carton,Pickup,Average,Cold Store,226.0,7.0,39.0,69.0,11.18,Low
+Kullu,Gala,Oct,Cardboard Carton,Truck,Average,CA Store,109.0,9.1,27.0,33.0,8.27,Low
+Shimla,Golden Delicious,Nov,Gunny/Loose,Pickup,Poor,Cold Store,235.0,4.4,21.0,0.0,16.58,Medium
+Kinnaur,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,496.0,4.9,7.0,103.0,15.94,Medium
+Kinnaur,Golden Delicious,Sep,Cardboard Carton,Tempo,Average,CA Store,101.0,3.4,30.0,40.0,7.38,Low
+Kullu,Gala,Sep,Plastic Crate,Truck,Average,CA Store,243.0,4.7,22.0,107.0,12.74,Medium
+Kinnaur,Royal Delicious,Aug,Gunny/Loose,Pickup,Average,Ambient,557.0,7.4,39.0,74.0,28.61,High
+Sirmaur,Royal Delicious,Oct,Plastic Crate,Pickup,Good,Cold Store,333.0,6.4,14.0,108.0,11.89,Low
+Kullu,Royal Delicious,Sep,Wooden Box,Truck,Average,Ambient,232.0,4.7,34.0,92.0,16.93,Medium
+Shimla,Royal Delicious,Sep,Gunny/Loose,Truck,Good,Ambient,260.0,3.3,50.0,0.0,15.52,Medium
+Kullu,Gala,Nov,Cardboard Carton,Pickup,Average,Ambient,336.0,8.6,29.0,85.0,19.83,Medium
+Kullu,Fuji,Oct,Gunny/Loose,Truck,Poor,Cold Store,500.0,3.5,37.0,46.0,19.45,Medium
+Shimla,Royal Delicious,Oct,Plastic Crate,Truck,Average,Cold Store,211.0,1.7,34.0,107.0,10.33,Low
+Shimla,Golden Delicious,Aug,Gunny/Loose,Truck,Average,Ambient,182.0,5.6,53.0,84.0,23.27,High
+Kinnaur,Royal Delicious,Nov,Cardboard Carton,Tempo,Average,Ambient,101.0,1.0,31.0,84.0,14.91,Medium
+Shimla,Red Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,293.0,6.2,35.0,49.0,14.31,Medium
+Sirmaur,Gala,Oct,Plastic Crate,Truck,Average,Cold Store,97.0,6.5,24.0,23.0,12.29,Medium
+Shimla,Red Delicious,Aug,Wooden Box,Tempo,Average,CA Store,220.0,3.0,13.0,43.0,9.28,Low
+Shimla,Royal Delicious,Nov,Wooden Box,Truck,Average,Cold Store,162.0,3.4,7.0,0.0,11.34,Low
+Mandi,Red Delicious,Oct,Gunny/Loose,Truck,Good,Cold Store,420.0,9.4,44.0,36.0,18.09,Medium
+Chamba,Fuji,Oct,Wooden Box,Truck,Average,CA Store,214.0,17.8,10.0,1.0,15.26,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,332.0,5.1,36.0,2.0,17.46,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,CA Store,71.0,3.1,31.0,65.0,8.74,Low
+Shimla,Royal Delicious,Oct,Cardboard Carton,Pickup,Poor,Ambient,297.0,6.6,39.0,81.0,18.5,Medium
+Kullu,Red Delicious,Nov,Cardboard Carton,Truck,Poor,Ambient,124.0,4.5,17.0,59.0,12.69,Medium
+Kullu,Red Delicious,Sep,Cardboard Carton,Pickup,Average,Cold Store,225.0,6.3,13.0,40.0,10.92,Low
+Shimla,Gala,Sep,Plastic Crate,Truck,Good,Cold Store,567.0,5.6,31.0,22.0,14.34,Medium
+Shimla,Gala,Oct,Plastic Crate,Truck,Average,Ambient,401.0,5.7,21.0,47.0,16.92,Medium
+Kullu,Gala,Oct,Wooden Box,Truck,Poor,Cold Store,263.0,0.7,7.0,27.0,13.46,Medium
+Sirmaur,Gala,Oct,Cardboard Carton,Pickup,Poor,Cold Store,696.0,3.4,54.0,57.0,20.46,High
+Kinnaur,Royal Delicious,Oct,Plastic Crate,Pickup,Poor,Ambient,161.0,3.1,13.0,0.0,16.65,Medium
+Kullu,Red Delicious,Oct,Plastic Crate,Truck,Good,Ambient,431.0,3.1,10.0,88.0,12.87,Medium
+Shimla,Royal Delicious,Oct,Gunny/Loose,Truck,Average,Ambient,81.0,7.8,21.0,37.0,19.99,Medium
+Shimla,Royal Delicious,Sep,Wooden Box,Truck,Poor,Ambient,248.0,1.8,44.0,75.0,19.31,Medium
+Shimla,Fuji,Nov,Plastic Crate,Tempo,Average,Cold Store,105.0,0.7,1.0,95.0,10.65,Low
+Mandi,Golden Delicious,Aug,Wooden Box,Truck,Average,Ambient,313.0,3.0,43.0,73.0,20.87,High
+Chamba,Fuji,Oct,Wooden Box,Pickup,Average,Ambient,287.0,2.5,11.0,92.0,15.54,Medium
+Sirmaur,Red Delicious,Nov,Gunny/Loose,Truck,Average,Ambient,240.0,5.1,29.0,0.0,17.78,Medium
+Sirmaur,Red Delicious,Sep,Cardboard Carton,Truck,Good,Ambient,422.0,2.5,15.0,40.0,16.56,Medium
+Sirmaur,Red Delicious,Sep,Cardboard Carton,Pickup,Good,Ambient,206.0,4.0,55.0,104.0,14.62,Medium
+Sirmaur,Royal Delicious,Sep,Cardboard Carton,Truck,Poor,Ambient,322.0,3.6,27.0,80.0,19.07,Medium
+Shimla,Royal Delicious,Oct,Wooden Box,Truck,Poor,Cold Store,387.0,11.5,14.0,134.0,17.79,Medium
+Shimla,Red Delicious,Sep,Wooden Box,Tempo,Poor,Ambient,87.0,2.6,20.0,128.0,14.29,Medium
+Shimla,Royal Delicious,Aug,Plastic Crate,Truck,Average,Cold Store,183.0,7.4,26.0,72.0,8.87,Low
+Kullu,Fuji,Nov,Cardboard Carton,Truck,Good,Ambient,287.0,4.7,28.0,50.0,13.3,Medium
+Shimla,Royal Delicious,Sep,Cardboard Carton,Truck,Good,Ambient,362.0,9.6,32.0,22.0,17.15,Medium
+Chamba,Royal Delicious,Oct,Gunny/Loose,Truck,Poor,Ambient,465.0,13.8,25.0,41.0,27.8,High
+Kinnaur,Gala,Oct,Cardboard Carton,Pickup,Average,Cold Store,252.0,4.6,4.0,44.0,13.01,Medium
+Kullu,Royal Delicious,Aug,Gunny/Loose,Truck,Poor,Cold Store,239.0,1.0,20.0,36.0,15.72,Medium
+Shimla,Fuji,Aug,Cardboard Carton,Tempo,Average,Cold Store,167.0,1.8,34.0,23.0,7.24,Low
+Shimla,Golden Delicious,Nov,Wooden Box,Pickup,Average,Cold Store,323.0,1.4,15.0,76.0,14.82,Medium
+Shimla,Royal Delicious,Oct,Wooden Box,Tempo,Poor,Cold Store,241.0,3.4,35.0,128.0,17.23,Medium
+Chamba,Golden Delicious,Aug,Plastic Crate,Tempo,Good,Ambient,244.0,3.0,25.0,97.0,16.32,Medium
+Kinnaur,Golden Delicious,Oct,Cardboard Carton,Tempo,Poor,Cold Store,268.0,5.8,22.0,47.0,16.73,Medium
+Mandi,Gala,Oct,Gunny/Loose,Pickup,Average,Ambient,352.0,9.1,43.0,101.0,26.24,High
+Shimla,Gala,Aug,Wooden Box,Truck,Good,Cold Store,207.0,0.9,1.0,74.0,7.12,Low
+Kullu,Golden Delicious,Oct,Wooden Box,Truck,Good,Ambient,180.0,4.9,15.0,58.0,14.43,Medium
+Kullu,Red Delicious,Sep,Wooden Box,Pickup,Poor,Ambient,336.0,2.7,43.0,56.0,22.57,High
+Mandi,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,30.0,5.1,52.0,52.0,16.05,Medium
+Mandi,Golden Delicious,Nov,Wooden Box,Pickup,Poor,Ambient,202.0,3.4,59.0,86.0,22.16,High
+Shimla,Fuji,Sep,Cardboard Carton,Truck,Poor,Ambient,130.0,8.0,26.0,66.0,15.59,Medium
+Sirmaur,Red Delicious,Sep,Cardboard Carton,Tempo,Average,Ambient,436.0,2.0,32.0,31.0,14.29,Medium
+Shimla,Golden Delicious,Sep,Wooden Box,Truck,Poor,Ambient,223.0,2.8,37.0,29.0,22.02,High
+Chamba,Red Delicious,Oct,Wooden Box,Tempo,Poor,CA Store,207.0,4.4,44.0,72.0,16.24,Medium
+Shimla,Gala,Oct,Cardboard Carton,Truck,Good,Cold Store,274.0,3.7,30.0,77.0,11.63,Low
+Shimla,Fuji,Nov,Cardboard Carton,Truck,Poor,Ambient,203.0,4.3,39.0,47.0,10.78,Low
+Chamba,Royal Delicious,Sep,Cardboard Carton,Tempo,Average,Cold Store,228.0,1.1,32.0,15.0,10.1,Low
+Shimla,Royal Delicious,Oct,Cardboard Carton,Tempo,Average,Cold Store,293.0,12.5,33.0,110.0,16.49,Medium
+Kullu,Red Delicious,Oct,Wooden Box,Pickup,Average,Ambient,225.0,3.2,11.0,102.0,17.28,Medium
+Kullu,Red Delicious,Sep,Cardboard Carton,Tempo,Poor,Cold Store,224.0,2.1,20.0,0.0,10.02,Low
+Shimla,Red Delicious,Aug,Gunny/Loose,Truck,Good,Ambient,149.0,4.4,17.0,114.0,16.49,Medium
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Tempo,Average,Ambient,130.0,5.0,7.0,52.0,15.44,Medium
+Chamba,Red Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,288.0,16.2,1.0,68.0,15.99,Medium
+Chamba,Red Delicious,Oct,Gunny/Loose,Pickup,Good,Ambient,320.0,10.1,19.0,106.0,20.8,High
+Shimla,Red Delicious,Oct,Cardboard Carton,Truck,Poor,Ambient,94.0,3.7,21.0,126.0,15.38,Medium
+Kullu,Golden Delicious,Aug,Cardboard Carton,Truck,Poor,Ambient,379.0,14.3,27.0,100.0,26.58,High
+Shimla,Golden Delicious,Nov,Gunny/Loose,Pickup,Good,Ambient,379.0,12.5,33.0,70.0,27.09,High
+Shimla,Golden Delicious,Oct,Gunny/Loose,Pickup,Good,CA Store,407.0,2.1,28.0,5.0,16.77,Medium
+Shimla,Gala,Sep,Plastic Crate,Truck,Poor,Ambient,319.0,18.6,21.0,0.0,22.81,High
+Sirmaur,Golden Delicious,Oct,Cardboard Carton,Tempo,Good,Ambient,363.0,3.3,11.0,95.0,20.45,High
+Chamba,Red Delicious,Sep,Wooden Box,Pickup,Good,Cold Store,564.0,5.4,38.0,114.0,12.86,Medium
+Mandi,Golden Delicious,Oct,Gunny/Loose,Truck,Poor,Cold Store,241.0,11.2,23.0,27.0,24.05,High
+Kullu,Royal Delicious,Aug,Gunny/Loose,Pickup,Poor,Ambient,144.0,0.9,18.0,49.0,23.73,High
+Kullu,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,81.0,4.3,22.0,38.0,8.25,Low
+Kullu,Red Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,508.0,6.0,14.0,37.0,18.3,Medium
+Kullu,Gala,Sep,Cardboard Carton,Pickup,Poor,Cold Store,510.0,9.8,17.0,103.0,19.38,Medium
+Kullu,Golden Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,160.0,4.8,17.0,69.0,9.91,Low
+Shimla,Royal Delicious,Aug,Plastic Crate,Truck,Average,Ambient,185.0,0.9,21.0,51.0,11.68,Low
+Shimla,Red Delicious,Nov,Cardboard Carton,Pickup,Poor,Cold Store,238.0,16.1,35.0,166.0,18.96,Medium
+Sirmaur,Royal Delicious,Aug,Cardboard Carton,Truck,Average,CA Store,439.0,4.9,31.0,3.0,11.2,Low
+Kullu,Golden Delicious,Aug,Cardboard Carton,Tempo,Average,Ambient,113.0,6.2,48.0,82.0,19.41,Medium
+Sirmaur,Gala,Sep,Wooden Box,Pickup,Average,Cold Store,30.0,1.3,43.0,18.0,13.8,Medium
+Shimla,Red Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,562.0,12.1,54.0,54.0,17.46,Medium
+Kullu,Red Delicious,Sep,Cardboard Carton,Pickup,Average,Ambient,321.0,3.3,33.0,66.0,13.0,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,339.0,2.7,33.0,94.0,19.33,Medium
+Shimla,Red Delicious,Oct,Gunny/Loose,Pickup,Average,Ambient,253.0,10.4,18.0,50.0,19.13,Medium
+Shimla,Gala,Aug,Cardboard Carton,Truck,Poor,Cold Store,341.0,1.4,37.0,45.0,12.21,Medium
+Shimla,Golden Delicious,Nov,Wooden Box,Tempo,Average,Cold Store,83.0,6.3,15.0,49.0,13.47,Medium
+Sirmaur,Red Delicious,Sep,Cardboard Carton,Truck,Good,Ambient,171.0,2.6,3.0,17.0,9.79,Low
+Shimla,Red Delicious,Oct,Cardboard Carton,Pickup,Good,Ambient,294.0,6.8,48.0,85.0,13.62,Medium
+Kinnaur,Royal Delicious,Aug,Cardboard Carton,Truck,Good,CA Store,30.0,8.1,6.0,71.0,3.42,Low
+Kullu,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,Ambient,241.0,3.2,32.0,77.0,13.69,Medium
+Kullu,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,233.0,11.7,12.0,57.0,12.87,Medium
+Kullu,Red Delicious,Aug,Wooden Box,Pickup,Good,Ambient,241.0,4.9,42.0,52.0,18.11,Medium
+Shimla,Fuji,Aug,Plastic Crate,Tempo,Poor,Ambient,208.0,16.2,44.0,107.0,21.36,High
+Sirmaur,Red Delicious,Sep,Cardboard Carton,Truck,Good,Ambient,151.0,10.4,33.0,101.0,16.61,Medium
+Mandi,Royal Delicious,Aug,Cardboard Carton,Truck,Good,Ambient,43.0,5.3,44.0,117.0,14.77,Medium
+Mandi,Royal Delicious,Nov,Wooden Box,Truck,Poor,Cold Store,299.0,5.3,25.0,75.0,13.37,Medium
+Kullu,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,241.0,1.6,59.0,114.0,12.22,Medium
+Shimla,Gala,Oct,Cardboard Carton,Tempo,Poor,Cold Store,101.0,10.3,36.0,43.0,13.33,Medium
+Sirmaur,Red Delicious,Nov,Cardboard Carton,Tempo,Poor,Ambient,288.0,3.0,11.0,52.0,15.91,Medium
+Shimla,Gala,Oct,Cardboard Carton,Tempo,Poor,Ambient,242.0,5.8,26.0,108.0,23.98,High
+Shimla,Gala,Oct,Wooden Box,Truck,Good,CA Store,220.0,16.1,23.0,94.0,13.57,Medium
+Shimla,Royal Delicious,Sep,Gunny/Loose,Truck,Poor,CA Store,30.0,11.5,21.0,48.0,12.88,Medium
+Mandi,Golden Delicious,Sep,Gunny/Loose,Pickup,Average,CA Store,369.0,2.2,1.0,18.0,14.9,Medium
+Kinnaur,Fuji,Sep,Gunny/Loose,Truck,Good,CA Store,120.0,4.9,31.0,52.0,7.15,Low
+Mandi,Red Delicious,Sep,Cardboard Carton,Pickup,Poor,Cold Store,288.0,6.2,4.0,33.0,13.01,Medium
+Mandi,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,175.0,12.5,1.0,129.0,14.65,Medium
+Shimla,Fuji,Aug,Cardboard Carton,Truck,Poor,Cold Store,229.0,11.2,20.0,90.0,11.8,Low
+Sirmaur,Gala,Sep,Cardboard Carton,Tempo,Average,Ambient,430.0,7.4,14.0,29.0,20.28,High
+Kullu,Red Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,349.0,6.9,12.0,18.0,18.06,Medium
+Kinnaur,Red Delicious,Sep,Cardboard Carton,Tempo,Good,Ambient,427.0,4.9,1.0,29.0,19.36,Medium
+Shimla,Royal Delicious,Sep,Wooden Box,Truck,Poor,Cold Store,323.0,6.1,12.0,38.0,11.79,Low
+Sirmaur,Gala,Sep,Cardboard Carton,Truck,Average,Ambient,331.0,4.0,22.0,53.0,14.84,Medium
+Shimla,Red Delicious,Sep,Cardboard Carton,Truck,Good,Ambient,48.0,8.7,15.0,105.0,13.0,Medium
+Shimla,Royal Delicious,Oct,Plastic Crate,Truck,Good,Ambient,239.0,7.2,31.0,21.0,16.5,Medium
+Kullu,Golden Delicious,Oct,Cardboard Carton,Pickup,Poor,Ambient,251.0,10.1,46.0,152.0,19.56,Medium
+Shimla,Fuji,Sep,Gunny/Loose,Truck,Good,Ambient,439.0,9.9,33.0,22.0,21.0,High
+Shimla,Gala,Aug,Cardboard Carton,Pickup,Average,Cold Store,214.0,2.9,40.0,4.0,9.69,Low
+Kinnaur,Royal Delicious,Sep,Wooden Box,Tempo,Average,Ambient,314.0,0.5,42.0,128.0,15.75,Medium
+Kullu,Royal Delicious,Sep,Cardboard Carton,Truck,Good,Cold Store,309.0,2.8,10.0,113.0,6.27,Low
+Sirmaur,Fuji,Sep,Wooden Box,Truck,Average,Ambient,430.0,6.0,32.0,53.0,16.78,Medium
+Shimla,Fuji,Nov,Cardboard Carton,Truck,Good,CA Store,263.0,4.0,40.0,75.0,7.17,Low
+Mandi,Red Delicious,Sep,Cardboard Carton,Pickup,Poor,CA Store,388.0,3.9,18.0,76.0,14.46,Medium
+Kullu,Golden Delicious,Sep,Wooden Box,Pickup,Poor,Cold Store,58.0,2.6,13.0,65.0,13.26,Medium
+Kinnaur,Red Delicious,Oct,Cardboard Carton,Truck,Good,CA Store,70.0,6.7,33.0,8.0,6.39,Low
+Kinnaur,Red Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,30.0,0.9,3.0,0.0,8.88,Low
+Kullu,Royal Delicious,Aug,Gunny/Loose,Truck,Average,CA Store,382.0,7.4,9.0,26.0,13.23,Medium
+Sirmaur,Royal Delicious,Sep,Cardboard Carton,Truck,Poor,Ambient,368.0,7.5,15.0,133.0,19.58,Medium
+Shimla,Royal Delicious,Nov,Wooden Box,Truck,Average,Cold Store,397.0,9.9,32.0,134.0,18.4,Medium
+Shimla,Gala,Aug,Wooden Box,Tempo,Average,Ambient,192.0,29.2,28.0,50.0,28.99,High
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,Cold Store,207.0,0.4,40.0,22.0,9.77,Low
+Chamba,Royal Delicious,Oct,Wooden Box,Truck,Good,CA Store,264.0,7.2,11.0,71.0,7.3,Low
+Shimla,Red Delicious,Sep,Cardboard Carton,Truck,Average,CA Store,468.0,8.2,10.0,78.0,12.22,Medium
+Kullu,Royal Delicious,Oct,Plastic Crate,Pickup,Good,Ambient,500.0,2.8,33.0,84.0,19.07,Medium
+Chamba,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,383.0,4.3,13.0,0.0,16.72,Medium
+Mandi,Red Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,323.0,3.3,16.0,186.0,15.19,Medium
+Sirmaur,Red Delicious,Sep,Cardboard Carton,Truck,Poor,Cold Store,454.0,7.5,1.0,105.0,13.39,Medium
+Kullu,Golden Delicious,Nov,Gunny/Loose,Pickup,Average,Cold Store,247.0,10.7,29.0,52.0,21.21,High
+Kinnaur,Fuji,Sep,Plastic Crate,Truck,Good,CA Store,229.0,1.8,48.0,31.0,5.38,Low
+Shimla,Royal Delicious,Aug,Gunny/Loose,Tempo,Poor,Cold Store,263.0,6.7,10.0,99.0,19.08,Medium
+Sirmaur,Fuji,Nov,Plastic Crate,Truck,Poor,Ambient,153.0,12.2,40.0,80.0,21.51,High
+Kullu,Fuji,Sep,Plastic Crate,Truck,Average,Cold Store,257.0,2.9,24.0,64.0,6.64,Low
+Mandi,Gala,Nov,Wooden Box,Tempo,Average,Ambient,135.0,2.4,1.0,78.0,20.18,High
+Kullu,Golden Delicious,Oct,Gunny/Loose,Tempo,Good,Ambient,413.0,2.1,12.0,55.0,20.67,High
+Kullu,Golden Delicious,Oct,Wooden Box,Truck,Average,CA Store,351.0,2.5,11.0,76.0,13.39,Medium
+Kinnaur,Golden Delicious,Oct,Cardboard Carton,Tempo,Good,Cold Store,466.0,16.0,20.0,89.0,18.75,Medium
+Kullu,Golden Delicious,Oct,Wooden Box,Pickup,Good,Cold Store,68.0,18.4,31.0,74.0,16.33,Medium
+Sirmaur,Royal Delicious,Aug,Wooden Box,Truck,Poor,CA Store,527.0,13.3,53.0,72.0,19.54,Medium
+Kullu,Fuji,Nov,Cardboard Carton,Tempo,Average,Cold Store,76.0,4.0,4.0,116.0,10.55,Low
+Kinnaur,Red Delicious,Nov,Cardboard Carton,Pickup,Good,Ambient,124.0,13.6,18.0,0.0,12.95,Medium
+Shimla,Gala,Nov,Cardboard Carton,Truck,Good,CA Store,199.0,2.0,12.0,28.0,4.1,Low
+Kullu,Red Delicious,Oct,Plastic Crate,Pickup,Poor,Ambient,450.0,8.8,6.0,61.0,24.43,High
+Kullu,Royal Delicious,Oct,Cardboard Carton,Truck,Good,Ambient,309.0,3.2,26.0,31.0,12.81,Medium
+Shimla,Red Delicious,Oct,Plastic Crate,Truck,Good,Ambient,248.0,1.8,25.0,44.0,10.68,Low
+Shimla,Red Delicious,Aug,Cardboard Carton,Tempo,Good,Ambient,177.0,6.6,1.0,112.0,11.24,Low
+Kinnaur,Red Delicious,Sep,Plastic Crate,Pickup,Good,Cold Store,101.0,6.7,25.0,54.0,12.42,Medium
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Pickup,Average,CA Store,427.0,7.2,7.0,0.0,9.39,Low
+Kinnaur,Royal Delicious,Oct,Gunny/Loose,Pickup,Poor,Cold Store,384.0,7.8,25.0,43.0,24.57,High
+Shimla,Red Delicious,Sep,Wooden Box,Pickup,Average,Ambient,456.0,6.3,44.0,62.0,21.41,High
+Shimla,Red Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,332.0,4.6,32.0,62.0,15.72,Medium
+Shimla,Fuji,Oct,Cardboard Carton,Tempo,Average,Cold Store,30.0,5.3,28.0,82.0,9.59,Low
+Mandi,Royal Delicious,Sep,Cardboard Carton,Pickup,Average,Cold Store,118.0,8.9,17.0,79.0,15.39,Medium
+Chamba,Royal Delicious,Nov,Cardboard Carton,Pickup,Average,Cold Store,340.0,6.2,26.0,54.0,8.25,Low
+Shimla,Royal Delicious,Oct,Plastic Crate,Truck,Average,Cold Store,232.0,3.5,33.0,12.0,10.13,Low
+Kinnaur,Red Delicious,Aug,Gunny/Loose,Truck,Average,Ambient,207.0,2.7,32.0,42.0,17.34,Medium
+Shimla,Red Delicious,Aug,Plastic Crate,Truck,Average,Cold Store,137.0,5.2,24.0,35.0,8.24,Low
+Shimla,Golden Delicious,Oct,Wooden Box,Truck,Poor,Cold Store,403.0,12.2,28.0,49.0,19.78,Medium
+Shimla,Fuji,Sep,Cardboard Carton,Truck,Average,Cold Store,339.0,7.9,5.0,88.0,10.31,Low
+Shimla,Royal Delicious,Oct,Plastic Crate,Pickup,Poor,CA Store,345.0,12.6,14.0,76.0,16.45,Medium
+Kinnaur,Golden Delicious,Sep,Plastic Crate,Tempo,Good,Cold Store,198.0,3.9,36.0,93.0,13.15,Medium
+Sirmaur,Royal Delicious,Aug,Cardboard Carton,Truck,Average,Ambient,303.0,5.8,38.0,45.0,13.34,Medium
+Shimla,Royal Delicious,Sep,Gunny/Loose,Truck,Average,CA Store,106.0,6.5,26.0,120.0,14.51,Medium
+Kullu,Red Delicious,Oct,Cardboard Carton,Pickup,Good,Ambient,263.0,9.2,47.0,87.0,18.4,Medium
+Kinnaur,Royal Delicious,Nov,Plastic Crate,Truck,Poor,Cold Store,30.0,3.9,33.0,64.0,9.37,Low
+Sirmaur,Golden Delicious,Nov,Gunny/Loose,Tempo,Average,Cold Store,76.0,7.8,22.0,84.0,21.66,High
+Kinnaur,Golden Delicious,Sep,Plastic Crate,Truck,Good,CA Store,238.0,11.7,7.0,33.0,12.93,Medium
+Shimla,Golden Delicious,Oct,Cardboard Carton,Truck,Poor,Cold Store,589.0,4.8,47.0,0.0,19.29,Medium
+Kinnaur,Red Delicious,Aug,Wooden Box,Truck,Good,CA Store,46.0,2.4,37.0,36.0,6.63,Low
+Shimla,Golden Delicious,Oct,Cardboard Carton,Tempo,Average,Cold Store,118.0,12.0,52.0,90.0,16.58,Medium
+Sirmaur,Red Delicious,Nov,Plastic Crate,Truck,Average,Ambient,308.0,8.4,58.0,63.0,20.88,High
+Kullu,Royal Delicious,Sep,Cardboard Carton,Pickup,Poor,Ambient,510.0,1.4,6.0,55.0,21.65,High
+Kinnaur,Royal Delicious,Nov,Plastic Crate,Truck,Average,Ambient,306.0,4.9,6.0,26.0,16.12,Medium
+Shimla,Golden Delicious,Sep,Gunny/Loose,Truck,Average,Cold Store,371.0,16.6,1.0,0.0,18.67,Medium
+Kullu,Fuji,Aug,Cardboard Carton,Tempo,Poor,Ambient,236.0,7.4,39.0,117.0,20.13,High
+Chamba,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,214.0,5.2,35.0,52.0,15.83,Medium
+Kinnaur,Red Delicious,Nov,Wooden Box,Truck,Poor,Cold Store,291.0,2.2,26.0,43.0,14.1,Medium
+Kullu,Gala,Sep,Cardboard Carton,Pickup,Poor,Cold Store,194.0,2.2,7.0,33.0,10.95,Low
+Sirmaur,Gala,Oct,Cardboard Carton,Tempo,Average,Cold Store,374.0,8.8,24.0,110.0,15.83,Medium
+Chamba,Red Delicious,Sep,Cardboard Carton,Truck,Poor,Ambient,71.0,2.3,28.0,95.0,17.13,Medium
+Shimla,Golden Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,396.0,6.5,37.0,21.0,11.65,Low
+Kullu,Golden Delicious,Oct,Wooden Box,Tempo,Good,Cold Store,285.0,4.8,29.0,107.0,13.31,Medium
+Kullu,Gala,Sep,Wooden Box,Pickup,Good,Ambient,252.0,6.3,35.0,54.0,14.9,Medium
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Tempo,Average,CA Store,66.0,4.5,23.0,36.0,5.85,Low
+Shimla,Fuji,Oct,Wooden Box,Pickup,Good,Ambient,153.0,7.2,43.0,48.0,17.46,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,436.0,9.9,34.0,29.0,22.04,High
+Sirmaur,Gala,Sep,Cardboard Carton,Truck,Average,Ambient,253.0,4.5,7.0,7.0,13.45,Medium
+Sirmaur,Royal Delicious,Aug,Plastic Crate,Truck,Average,Ambient,316.0,9.3,46.0,91.0,20.46,High
+Chamba,Royal Delicious,Nov,Cardboard Carton,Pickup,Good,Cold Store,166.0,13.0,43.0,51.0,12.19,Medium
+Sirmaur,Royal Delicious,Oct,Wooden Box,Pickup,Poor,Ambient,276.0,6.5,32.0,85.0,18.5,Medium
+Mandi,Red Delicious,Oct,Gunny/Loose,Tempo,Average,Ambient,102.0,8.6,29.0,71.0,25.54,High
+Mandi,Royal Delicious,Oct,Wooden Box,Pickup,Good,Ambient,293.0,1.8,50.0,82.0,19.54,Medium
+Mandi,Royal Delicious,Oct,Wooden Box,Truck,Average,Cold Store,328.0,4.6,1.0,0.0,10.8,Low
+Kullu,Red Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,322.0,1.2,44.0,25.0,7.77,Low
+Kullu,Red Delicious,Sep,Cardboard Carton,Pickup,Average,Cold Store,163.0,3.4,18.0,83.0,8.76,Low
+Shimla,Gala,Oct,Cardboard Carton,Truck,Average,Cold Store,236.0,4.6,41.0,9.0,9.29,Low
+Kinnaur,Gala,Aug,Plastic Crate,Pickup,Good,Ambient,350.0,17.6,27.0,75.0,22.21,High
+Shimla,Golden Delicious,Aug,Plastic Crate,Pickup,Poor,Ambient,253.0,2.8,6.0,4.0,17.82,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,243.0,5.0,18.0,61.0,13.6,Medium
+Kinnaur,Royal Delicious,Nov,Cardboard Carton,Pickup,Good,Ambient,527.0,2.4,40.0,124.0,15.74,Medium
+Kullu,Fuji,Oct,Cardboard Carton,Pickup,Poor,Cold Store,156.0,4.3,22.0,91.0,15.56,Medium
+Shimla,Royal Delicious,Aug,Wooden Box,Tempo,Average,Cold Store,420.0,7.3,16.0,0.0,15.37,Medium
+Mandi,Red Delicious,Nov,Wooden Box,Truck,Average,Cold Store,130.0,8.1,16.0,94.0,11.99,Low
+Chamba,Fuji,Aug,Plastic Crate,Pickup,Average,Cold Store,365.0,3.9,35.0,133.0,13.11,Medium
+Shimla,Fuji,Sep,Gunny/Loose,Truck,Average,CA Store,372.0,3.1,51.0,172.0,13.91,Medium
+Shimla,Red Delicious,Nov,Cardboard Carton,Pickup,Average,Cold Store,214.0,14.1,1.0,79.0,12.47,Medium
+Shimla,Golden Delicious,Oct,Plastic Crate,Truck,Good,Cold Store,122.0,3.7,67.0,5.0,9.36,Low
+Mandi,Red Delicious,Nov,Wooden Box,Tempo,Good,Ambient,30.0,0.6,28.0,77.0,13.93,Medium
+Chamba,Gala,Oct,Cardboard Carton,Tempo,Poor,CA Store,200.0,11.8,34.0,124.0,19.02,Medium
+Shimla,Royal Delicious,Oct,Gunny/Loose,Pickup,Average,Cold Store,348.0,0.8,18.0,53.0,16.95,Medium
+Mandi,Royal Delicious,Sep,Cardboard Carton,Pickup,Average,CA Store,140.0,11.8,25.0,102.0,13.58,Medium
+Shimla,Golden Delicious,Sep,Plastic Crate,Truck,Good,Ambient,293.0,1.3,28.0,26.0,17.8,Medium
+Kullu,Royal Delicious,Nov,Plastic Crate,Pickup,Average,Ambient,88.0,1.5,9.0,75.0,13.61,Medium
+Sirmaur,Golden Delicious,Nov,Gunny/Loose,Truck,Good,Cold Store,250.0,2.0,13.0,0.0,14.55,Medium
+Shimla,Red Delicious,Sep,Wooden Box,Pickup,Good,CA Store,131.0,3.4,43.0,22.0,8.34,Low
+Shimla,Gala,Sep,Cardboard Carton,Truck,Good,Ambient,270.0,11.8,2.0,60.0,11.87,Low
+Kullu,Gala,Sep,Plastic Crate,Pickup,Average,Ambient,215.0,2.0,32.0,45.0,15.77,Medium
+Kinnaur,Red Delicious,Sep,Plastic Crate,Truck,Average,Ambient,125.0,7.2,19.0,8.0,11.19,Low
+Sirmaur,Gala,Nov,Wooden Box,Pickup,Good,Cold Store,194.0,6.1,11.0,40.0,11.28,Low
+Sirmaur,Royal Delicious,Aug,Plastic Crate,Pickup,Good,Ambient,159.0,5.4,55.0,73.0,14.23,Medium
+Shimla,Red Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,109.0,10.4,11.0,57.0,14.85,Medium
+Shimla,Royal Delicious,Nov,Wooden Box,Truck,Average,Cold Store,421.0,5.7,8.0,62.0,15.15,Medium
+Mandi,Gala,Oct,Gunny/Loose,Tempo,Average,Ambient,233.0,6.1,22.0,89.0,25.72,High
+Shimla,Gala,Sep,Cardboard Carton,Pickup,Good,Cold Store,30.0,8.6,13.0,46.0,11.68,Low
+Chamba,Fuji,Sep,Wooden Box,Truck,Average,Ambient,199.0,3.5,25.0,114.0,11.79,Low
+Kinnaur,Gala,Aug,Gunny/Loose,Truck,Poor,Cold Store,399.0,5.1,27.0,20.0,16.92,Medium
+Shimla,Fuji,Sep,Plastic Crate,Truck,Average,CA Store,181.0,6.5,29.0,137.0,15.79,Medium
+Chamba,Royal Delicious,Aug,Gunny/Loose,Pickup,Good,Ambient,475.0,9.7,23.0,105.0,26.36,High
+Shimla,Fuji,Aug,Cardboard Carton,Pickup,Average,Ambient,169.0,4.6,14.0,46.0,13.21,Medium
+Kullu,Red Delicious,Sep,Gunny/Loose,Truck,Average,Cold Store,345.0,5.0,35.0,48.0,16.16,Medium
+Kullu,Red Delicious,Sep,Cardboard Carton,Pickup,Good,Ambient,415.0,7.1,23.0,68.0,16.36,Medium
+Kullu,Red Delicious,Aug,Wooden Box,Pickup,Average,Cold Store,339.0,4.7,18.0,84.0,9.43,Low
+Kinnaur,Royal Delicious,Nov,Wooden Box,Pickup,Poor,Cold Store,101.0,2.8,47.0,104.0,12.58,Medium
+Kinnaur,Royal Delicious,Aug,Plastic Crate,Truck,Average,Ambient,157.0,8.6,23.0,6.0,14.24,Medium
+Sirmaur,Royal Delicious,Sep,Gunny/Loose,Truck,Poor,Cold Store,432.0,5.8,41.0,77.0,19.37,Medium
+Sirmaur,Royal Delicious,Nov,Plastic Crate,Truck,Average,Cold Store,175.0,3.8,43.0,0.0,8.21,Low
+Kullu,Red Delicious,Aug,Wooden Box,Truck,Average,Ambient,407.0,2.0,44.0,53.0,22.46,High
+Shimla,Gala,Sep,Cardboard Carton,Truck,Good,CA Store,224.0,0.8,35.0,118.0,7.57,Low
+Mandi,Golden Delicious,Oct,Wooden Box,Truck,Average,Cold Store,298.0,7.4,25.0,3.0,14.03,Medium
+Sirmaur,Red Delicious,Oct,Wooden Box,Truck,Good,Cold Store,100.0,2.8,24.0,0.0,6.37,Low
+Shimla,Red Delicious,Sep,Cardboard Carton,Pickup,Average,Ambient,201.0,1.2,21.0,69.0,14.44,Medium
+Kullu,Red Delicious,Oct,Wooden Box,Truck,Good,CA Store,166.0,2.5,1.0,115.0,5.26,Low
+Kullu,Royal Delicious,Oct,Gunny/Loose,Pickup,Average,Cold Store,309.0,6.5,36.0,73.0,20.74,High
+Shimla,Gala,Sep,Plastic Crate,Truck,Average,Ambient,292.0,2.7,29.0,0.0,16.09,Medium
+Kinnaur,Royal Delicious,Aug,Plastic Crate,Pickup,Good,Cold Store,340.0,6.6,37.0,0.0,8.97,Low
+Kullu,Golden Delicious,Aug,Cardboard Carton,Truck,Good,Cold Store,216.0,3.3,23.0,64.0,8.96,Low
+Mandi,Gala,Oct,Wooden Box,Pickup,Poor,Ambient,159.0,5.0,35.0,13.0,18.32,Medium
+Chamba,Red Delicious,Sep,Cardboard Carton,Pickup,Good,Ambient,304.0,5.4,4.0,65.0,13.1,Medium
+Chamba,Gala,Aug,Cardboard Carton,Truck,Average,CA Store,146.0,8.3,7.0,68.0,9.89,Low
+Kullu,Royal Delicious,Oct,Wooden Box,Pickup,Average,Ambient,420.0,8.4,1.0,40.0,20.1,High
+Shimla,Gala,Nov,Cardboard Carton,Truck,Average,Ambient,265.0,5.2,23.0,133.0,18.34,Medium
+Mandi,Golden Delicious,Aug,Cardboard Carton,Pickup,Average,Cold Store,238.0,2.3,13.0,84.0,12.17,Medium
+Mandi,Gala,Aug,Plastic Crate,Truck,Good,Ambient,340.0,11.2,11.0,108.0,18.68,Medium
+Kullu,Golden Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,270.0,3.7,30.0,97.0,12.67,Medium
+Chamba,Gala,Oct,Cardboard Carton,Truck,Average,Ambient,64.0,0.4,19.0,54.0,12.99,Medium
+Shimla,Fuji,Sep,Cardboard Carton,Tempo,Average,Ambient,142.0,6.3,4.0,52.0,14.63,Medium
+Chamba,Red Delicious,Nov,Wooden Box,Truck,Poor,Ambient,418.0,6.5,63.0,48.0,19.93,Medium
+Shimla,Gala,Aug,Cardboard Carton,Pickup,Poor,Ambient,291.0,3.8,24.0,87.0,19.82,Medium
+Shimla,Golden Delicious,Sep,Wooden Box,Truck,Good,Ambient,61.0,1.3,9.0,34.0,12.61,Medium
+Kullu,Red Delicious,Sep,Wooden Box,Truck,Average,Ambient,326.0,1.0,15.0,129.0,18.43,Medium
+Shimla,Fuji,Sep,Cardboard Carton,Truck,Good,Ambient,207.0,4.1,22.0,30.0,11.64,Low
+Shimla,Red Delicious,Sep,Gunny/Loose,Tempo,Good,Ambient,166.0,2.1,22.0,69.0,18.35,Medium
+Shimla,Red Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,131.0,9.7,45.0,51.0,18.13,Medium
+Kullu,Royal Delicious,Sep,Wooden Box,Truck,Average,Cold Store,410.0,3.9,24.0,42.0,12.21,Medium
+Mandi,Royal Delicious,Oct,Cardboard Carton,Pickup,Average,Cold Store,30.0,3.6,53.0,147.0,12.03,Medium
+Shimla,Gala,Aug,Wooden Box,Truck,Good,Ambient,171.0,16.4,19.0,42.0,16.84,Medium
+Kinnaur,Red Delicious,Oct,Cardboard Carton,Truck,Good,Cold Store,296.0,0.4,31.0,48.0,9.42,Low
+Chamba,Red Delicious,Sep,Gunny/Loose,Pickup,Poor,Ambient,485.0,5.0,40.0,33.0,22.01,High
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,Ambient,352.0,0.9,43.0,62.0,19.06,Medium
+Shimla,Red Delicious,Aug,Wooden Box,Truck,Good,Ambient,170.0,12.0,45.0,56.0,16.65,Medium
+Chamba,Gala,Nov,Cardboard Carton,Pickup,Average,Cold Store,479.0,1.2,21.0,15.0,14.45,Medium
+Chamba,Gala,Nov,Cardboard Carton,Truck,Average,Ambient,104.0,6.7,25.0,43.0,12.64,Medium
+Kullu,Royal Delicious,Oct,Cardboard Carton,Tempo,Average,Cold Store,314.0,6.0,1.0,84.0,12.78,Medium
+Mandi,Red Delicious,Nov,Wooden Box,Pickup,Average,Cold Store,343.0,0.8,22.0,101.0,12.64,Medium
+Shimla,Red Delicious,Aug,Wooden Box,Tempo,Poor,CA Store,165.0,6.7,41.0,61.0,14.96,Medium
+Kullu,Golden Delicious,Oct,Gunny/Loose,Pickup,Good,Cold Store,371.0,3.2,38.0,62.0,15.62,Medium
+Mandi,Red Delicious,Sep,Plastic Crate,Tempo,Average,Cold Store,213.0,7.7,24.0,46.0,13.94,Medium
+Shimla,Red Delicious,Nov,Gunny/Loose,Truck,Poor,Ambient,370.0,3.1,50.0,40.0,19.13,Medium
+Mandi,Red Delicious,Sep,Cardboard Carton,Pickup,Good,Ambient,41.0,6.7,19.0,23.0,9.41,Low
+Kullu,Red Delicious,Sep,Plastic Crate,Pickup,Good,Cold Store,324.0,4.6,14.0,0.0,5.87,Low
+Mandi,Red Delicious,Oct,Wooden Box,Tempo,Average,CA Store,226.0,6.7,18.0,32.0,12.75,Medium
+Kullu,Red Delicious,Aug,Wooden Box,Truck,Poor,CA Store,429.0,7.6,8.0,96.0,15.43,Medium
+Kullu,Gala,Oct,Gunny/Loose,Pickup,Average,Ambient,274.0,4.3,34.0,43.0,22.77,High
+Shimla,Golden Delicious,Sep,Plastic Crate,Pickup,Poor,Ambient,442.0,3.7,29.0,46.0,24.72,High
+Shimla,Royal Delicious,Oct,Gunny/Loose,Truck,Average,Cold Store,346.0,7.4,34.0,45.0,16.71,Medium
+Mandi,Gala,Nov,Plastic Crate,Tempo,Good,Cold Store,263.0,3.3,19.0,110.0,13.98,Medium
+Shimla,Gala,Oct,Cardboard Carton,Truck,Average,Cold Store,382.0,4.3,24.0,23.0,11.88,Low
+Shimla,Royal Delicious,Sep,Plastic Crate,Truck,Poor,Ambient,383.0,13.5,1.0,71.0,20.92,High
+Shimla,Red Delicious,Aug,Wooden Box,Pickup,Poor,Cold Store,341.0,5.1,31.0,57.0,18.18,Medium
+Shimla,Royal Delicious,Aug,Gunny/Loose,Truck,Good,CA Store,30.0,8.4,26.0,63.0,15.02,Medium
+Chamba,Golden Delicious,Aug,Plastic Crate,Truck,Good,Cold Store,152.0,2.9,8.0,70.0,7.58,Low
+Kullu,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,Cold Store,460.0,6.7,23.0,62.0,16.92,Medium
+Sirmaur,Golden Delicious,Sep,Cardboard Carton,Truck,Good,Cold Store,117.0,4.4,21.0,92.0,9.47,Low
+Shimla,Royal Delicious,Sep,Cardboard Carton,Pickup,Good,Cold Store,395.0,3.8,51.0,59.0,12.96,Medium
+Kinnaur,Red Delicious,Sep,Wooden Box,Tempo,Poor,Ambient,372.0,0.8,9.0,130.0,20.79,High
+Kullu,Fuji,Nov,Cardboard Carton,Pickup,Average,Cold Store,186.0,2.1,30.0,62.0,8.04,Low
+Kullu,Red Delicious,Aug,Plastic Crate,Truck,Average,Cold Store,30.0,17.1,9.0,0.0,2.93,Low
+Chamba,Gala,Sep,Wooden Box,Pickup,Good,Ambient,206.0,4.6,17.0,86.0,19.22,Medium
+Sirmaur,Fuji,Sep,Plastic Crate,Tempo,Good,Cold Store,550.0,5.1,29.0,76.0,13.27,Medium
+Chamba,Gala,Aug,Cardboard Carton,Pickup,Poor,Ambient,168.0,9.5,22.0,61.0,18.68,Medium
+Shimla,Royal Delicious,Nov,Wooden Box,Truck,Average,Ambient,177.0,6.2,25.0,50.0,15.1,Medium
+Shimla,Gala,Aug,Cardboard Carton,Truck,Good,CA Store,150.0,3.8,30.0,0.0,4.06,Low
+Kinnaur,Royal Delicious,Oct,Gunny/Loose,Tempo,Average,Ambient,438.0,3.8,18.0,0.0,22.47,High
+Shimla,Red Delicious,Oct,Cardboard Carton,Tempo,Good,Ambient,248.0,1.9,38.0,126.0,15.47,Medium
+Mandi,Gala,Oct,Cardboard Carton,Truck,Good,Ambient,199.0,7.1,20.0,37.0,12.18,Medium
+Kullu,Golden Delicious,Oct,Cardboard Carton,Tempo,Good,Cold Store,464.0,7.2,24.0,99.0,16.57,Medium
+Kullu,Red Delicious,Oct,Plastic Crate,Truck,Average,Cold Store,355.0,5.1,30.0,0.0,10.78,Low
+Chamba,Red Delicious,Sep,Cardboard Carton,Truck,Good,CA Store,160.0,4.5,28.0,18.0,6.61,Low
+Kinnaur,Gala,Sep,Wooden Box,Pickup,Average,Ambient,121.0,7.3,35.0,87.0,15.82,Medium
+Shimla,Golden Delicious,Oct,Plastic Crate,Pickup,Average,Ambient,431.0,1.9,30.0,56.0,17.65,Medium
+Shimla,Red Delicious,Oct,Plastic Crate,Truck,Average,Cold Store,282.0,6.5,32.0,82.0,13.65,Medium
+Kinnaur,Gala,Oct,Cardboard Carton,Tempo,Good,Cold Store,79.0,14.0,20.0,59.0,11.25,Low
+Kullu,Royal Delicious,Sep,Cardboard Carton,Tempo,Good,CA Store,48.0,2.9,9.0,52.0,3.27,Low
+Shimla,Royal Delicious,Sep,Cardboard Carton,Truck,Good,Cold Store,135.0,4.2,4.0,33.0,4.27,Low
+Kullu,Golden Delicious,Sep,Cardboard Carton,Pickup,Average,Ambient,119.0,11.6,1.0,12.0,15.58,Medium
+Mandi,Fuji,Aug,Plastic Crate,Pickup,Average,Cold Store,30.0,5.1,51.0,116.0,10.62,Low
+Chamba,Royal Delicious,Sep,Cardboard Carton,Pickup,Good,Ambient,137.0,8.9,1.0,123.0,13.85,Medium
+Kullu,Royal Delicious,Aug,Cardboard Carton,Tempo,Poor,Ambient,161.0,6.7,43.0,18.0,16.23,Medium
+Kullu,Royal Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,220.0,7.1,13.0,16.0,16.14,Medium
+Shimla,Gala,Oct,Wooden Box,Truck,Good,Ambient,500.0,2.8,43.0,46.0,21.2,High
+Kullu,Royal Delicious,Oct,Cardboard Carton,Truck,Good,CA Store,245.0,2.7,1.0,74.0,1.59,Low
+Shimla,Red Delicious,Oct,Plastic Crate,Tempo,Good,Ambient,258.0,8.1,21.0,53.0,13.23,Medium
+Kullu,Fuji,Aug,Cardboard Carton,Tempo,Good,Ambient,346.0,1.4,47.0,80.0,17.6,Medium
+Kinnaur,Royal Delicious,Aug,Gunny/Loose,Truck,Average,Cold Store,249.0,4.3,36.0,58.0,18.59,Medium
+Shimla,Red Delicious,Oct,Plastic Crate,Truck,Good,Cold Store,332.0,7.3,20.0,55.0,6.18,Low
+Shimla,Red Delicious,Oct,Cardboard Carton,Pickup,Poor,Cold Store,316.0,4.2,1.0,157.0,15.58,Medium
+Shimla,Gala,Oct,Cardboard Carton,Truck,Average,Cold Store,296.0,4.5,5.0,39.0,13.43,Medium
+Chamba,Red Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,640.0,9.2,46.0,126.0,16.5,Medium
+Kinnaur,Red Delicious,Oct,Cardboard Carton,Tempo,Poor,CA Store,398.0,12.6,20.0,118.0,20.71,High
+Shimla,Royal Delicious,Oct,Cardboard Carton,Tempo,Average,Ambient,139.0,21.6,24.0,80.0,21.17,High
+Chamba,Golden Delicious,Oct,Gunny/Loose,Tempo,Poor,CA Store,328.0,11.8,29.0,0.0,22.15,High
+Kullu,Gala,Oct,Wooden Box,Pickup,Poor,CA Store,177.0,3.5,5.0,61.0,10.38,Low
+Kullu,Royal Delicious,Aug,Cardboard Carton,Truck,Average,Cold Store,338.0,2.4,31.0,39.0,12.23,Medium
+Sirmaur,Red Delicious,Aug,Wooden Box,Tempo,Good,Cold Store,101.0,3.5,19.0,61.0,10.78,Low
+Shimla,Gala,Sep,Cardboard Carton,Truck,Average,Ambient,136.0,7.4,29.0,17.0,17.96,Medium
+Shimla,Royal Delicious,Oct,Gunny/Loose,Truck,Good,Cold Store,325.0,3.8,16.0,90.0,17.21,Medium
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Tempo,Average,Cold Store,410.0,2.9,1.0,99.0,12.95,Medium
+Shimla,Red Delicious,Sep,Plastic Crate,Pickup,Average,Cold Store,345.0,13.6,19.0,107.0,22.51,High
+Kinnaur,Royal Delicious,Sep,Plastic Crate,Tempo,Average,Cold Store,391.0,3.7,35.0,45.0,17.14,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,Ambient,329.0,7.0,31.0,18.0,18.89,Medium
+Shimla,Red Delicious,Sep,Cardboard Carton,Tempo,Good,Ambient,302.0,6.8,25.0,74.0,14.24,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Pickup,Average,Cold Store,215.0,0.8,38.0,130.0,8.3,Low
+Kullu,Red Delicious,Sep,Gunny/Loose,Pickup,Average,Ambient,386.0,13.1,22.0,63.0,21.69,High
+Shimla,Golden Delicious,Sep,Wooden Box,Tempo,Poor,Cold Store,413.0,1.8,26.0,78.0,16.58,Medium
+Shimla,Red Delicious,Sep,Plastic Crate,Truck,Average,Ambient,272.0,1.3,18.0,51.0,16.19,Medium
+Chamba,Royal Delicious,Sep,Plastic Crate,Pickup,Good,Ambient,265.0,3.4,39.0,40.0,15.89,Medium
+Shimla,Gala,Aug,Plastic Crate,Pickup,Average,Cold Store,487.0,2.4,29.0,86.0,14.43,Medium
+Kullu,Royal Delicious,Sep,Wooden Box,Pickup,Good,Ambient,277.0,11.7,17.0,56.0,17.62,Medium
+Shimla,Gala,Sep,Wooden Box,Tempo,Average,Ambient,290.0,6.1,3.0,76.0,18.77,Medium
+Kullu,Red Delicious,Sep,Plastic Crate,Pickup,Average,Cold Store,343.0,3.1,42.0,80.0,14.8,Medium
+Shimla,Gala,Oct,Cardboard Carton,Truck,Average,Ambient,267.0,1.2,14.0,74.0,12.55,Medium
+Kinnaur,Royal Delicious,Aug,Gunny/Loose,Truck,Average,Ambient,173.0,6.7,26.0,82.0,20.56,High
+Shimla,Royal Delicious,Sep,Cardboard Carton,Tempo,Poor,Cold Store,329.0,4.0,60.0,26.0,16.47,Medium
+Chamba,Red Delicious,Aug,Cardboard Carton,Tempo,Poor,Ambient,275.0,7.3,37.0,23.0,17.47,Medium
+Sirmaur,Royal Delicious,Nov,Plastic Crate,Tempo,Average,Ambient,519.0,6.2,49.0,58.0,25.48,High
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Cold Store,382.0,2.5,17.0,59.0,9.9,Low
+Shimla,Golden Delicious,Nov,Cardboard Carton,Truck,Average,Cold Store,203.0,8.0,41.0,39.0,10.58,Low
+Shimla,Gala,Nov,Cardboard Carton,Pickup,Poor,Ambient,375.0,1.6,25.0,70.0,20.92,High
+Kinnaur,Royal Delicious,Sep,Wooden Box,Pickup,Poor,Ambient,320.0,3.9,30.0,96.0,20.73,High
+Shimla,Gala,Oct,Plastic Crate,Truck,Good,Cold Store,450.0,4.3,55.0,108.0,15.93,Medium
+Chamba,Gala,Sep,Cardboard Carton,Pickup,Good,CA Store,212.0,4.8,21.0,116.0,7.22,Low
+Mandi,Gala,Nov,Cardboard Carton,Truck,Good,Cold Store,305.0,1.5,25.0,7.0,9.7,Low
+Mandi,Golden Delicious,Sep,Wooden Box,Truck,Good,Ambient,267.0,11.3,11.0,13.0,21.31,High
+Kullu,Golden Delicious,Sep,Gunny/Loose,Truck,Average,Ambient,288.0,2.5,38.0,48.0,18.67,Medium
+Sirmaur,Red Delicious,Nov,Cardboard Carton,Truck,Good,CA Store,165.0,0.9,17.0,63.0,4.61,Low
+Shimla,Golden Delicious,Oct,Gunny/Loose,Truck,Average,Ambient,355.0,6.3,40.0,50.0,21.89,High
+Kullu,Fuji,Nov,Gunny/Loose,Tempo,Good,Ambient,334.0,16.9,1.0,38.0,28.11,High
+Shimla,Royal Delicious,Aug,Cardboard Carton,Pickup,Good,Cold Store,447.0,0.8,33.0,48.0,13.23,Medium
+Sirmaur,Royal Delicious,Sep,Plastic Crate,Tempo,Average,CA Store,279.0,9.3,15.0,79.0,13.8,Medium
+Kinnaur,Royal Delicious,Sep,Plastic Crate,Truck,Average,Ambient,226.0,5.0,36.0,7.0,12.25,Medium
+Mandi,Fuji,Sep,Wooden Box,Truck,Average,CA Store,383.0,1.6,25.0,154.0,9.51,Low
+Shimla,Red Delicious,Sep,Cardboard Carton,Truck,Poor,Cold Store,177.0,4.3,17.0,61.0,11.69,Low
+Sirmaur,Golden Delicious,Sep,Plastic Crate,Pickup,Poor,Ambient,421.0,14.2,19.0,102.0,23.09,High
+Kullu,Gala,Oct,Plastic Crate,Truck,Average,Ambient,421.0,12.1,12.0,37.0,17.26,Medium
+Kullu,Fuji,Sep,Plastic Crate,Pickup,Good,Cold Store,443.0,24.3,38.0,83.0,19.7,Medium
+Sirmaur,Royal Delicious,Oct,Gunny/Loose,Tempo,Good,Ambient,329.0,8.3,9.0,64.0,21.85,High
+Kullu,Gala,Nov,Wooden Box,Tempo,Poor,Ambient,217.0,3.3,21.0,94.0,21.45,High
+Kullu,Gala,Oct,Plastic Crate,Truck,Average,CA Store,294.0,9.2,30.0,52.0,11.71,Low
+Kinnaur,Royal Delicious,Sep,Gunny/Loose,Pickup,Poor,Cold Store,329.0,2.7,49.0,122.0,22.62,High
+Shimla,Gala,Sep,Cardboard Carton,Truck,Average,Ambient,207.0,4.6,25.0,0.0,12.12,Medium
+Shimla,Red Delicious,Aug,Cardboard Carton,Truck,Good,Ambient,453.0,2.8,21.0,98.0,16.18,Medium
+Shimla,Golden Delicious,Oct,Cardboard Carton,Pickup,Average,Cold Store,355.0,8.2,29.0,65.0,15.81,Medium
+Shimla,Red Delicious,Sep,Gunny/Loose,Pickup,Poor,Ambient,164.0,7.7,1.0,19.0,21.29,High
+Chamba,Royal Delicious,Aug,Cardboard Carton,Pickup,Poor,Ambient,525.0,3.0,7.0,138.0,23.32,High
+Kinnaur,Royal Delicious,Nov,Plastic Crate,Truck,Good,Ambient,293.0,10.7,19.0,134.0,16.78,Medium
+Kullu,Royal Delicious,Oct,Cardboard Carton,Tempo,Average,Ambient,138.0,13.0,14.0,0.0,15.08,Medium
+Kullu,Royal Delicious,Oct,Cardboard Carton,Tempo,Good,CA Store,172.0,3.3,1.0,67.0,3.23,Low
+Kullu,Golden Delicious,Sep,Wooden Box,Truck,Poor,Cold Store,473.0,6.8,38.0,88.0,15.68,Medium
+Kinnaur,Red Delicious,Nov,Cardboard Carton,Tempo,Good,CA Store,517.0,13.6,29.0,78.0,15.12,Medium
+Sirmaur,Royal Delicious,Sep,Gunny/Loose,Truck,Average,Ambient,411.0,6.3,27.0,121.0,23.19,High
+Sirmaur,Golden Delicious,Sep,Cardboard Carton,Pickup,Good,Ambient,452.0,3.9,15.0,112.0,16.11,Medium
+Kullu,Golden Delicious,Nov,Gunny/Loose,Tempo,Average,Ambient,438.0,4.7,26.0,71.0,23.88,High
+Shimla,Red Delicious,Nov,Cardboard Carton,Tempo,Average,CA Store,352.0,3.3,33.0,151.0,16.1,Medium
+Kullu,Fuji,Sep,Gunny/Loose,Tempo,Average,Ambient,323.0,10.9,21.0,97.0,25.93,High
+Kullu,Red Delicious,Aug,Wooden Box,Truck,Poor,Cold Store,350.0,10.0,32.0,46.0,13.7,Medium
+Kullu,Gala,Sep,Cardboard Carton,Tempo,Poor,Cold Store,376.0,2.7,13.0,38.0,13.98,Medium
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Pickup,Poor,Cold Store,184.0,3.1,26.0,110.0,13.61,Medium
+Kullu,Golden Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,375.0,1.3,42.0,28.0,15.36,Medium
+Shimla,Fuji,Sep,Wooden Box,Truck,Average,CA Store,470.0,7.4,43.0,44.0,11.64,Low
+Shimla,Gala,Aug,Plastic Crate,Pickup,Average,Ambient,253.0,1.8,45.0,50.0,16.54,Medium
+Kullu,Red Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,239.0,18.4,29.0,74.0,22.42,High
+Shimla,Golden Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,342.0,2.4,25.0,52.0,19.6,Medium
+Shimla,Red Delicious,Sep,Wooden Box,Tempo,Average,CA Store,196.0,0.7,18.0,7.0,6.67,Low
+Mandi,Golden Delicious,Oct,Wooden Box,Pickup,Good,Ambient,109.0,1.8,1.0,106.0,15.03,Medium
+Kullu,Gala,Nov,Plastic Crate,Truck,Average,Ambient,429.0,6.2,5.0,44.0,17.74,Medium
+Shimla,Fuji,Sep,Wooden Box,Truck,Good,Cold Store,221.0,4.7,22.0,141.0,8.2,Low
+Kullu,Red Delicious,Oct,Plastic Crate,Pickup,Good,Ambient,282.0,2.4,23.0,72.0,13.52,Medium
+Mandi,Royal Delicious,Oct,Gunny/Loose,Pickup,Good,Ambient,201.0,4.5,46.0,111.0,17.98,Medium
+Shimla,Red Delicious,Oct,Cardboard Carton,Pickup,Good,Cold Store,446.0,3.0,45.0,85.0,14.68,Medium
+Chamba,Royal Delicious,Nov,Cardboard Carton,Pickup,Poor,Cold Store,391.0,7.3,15.0,113.0,19.36,Medium
+Sirmaur,Royal Delicious,Oct,Cardboard Carton,Pickup,Average,Cold Store,249.0,1.9,37.0,83.0,10.34,Low
+Kinnaur,Royal Delicious,Oct,Wooden Box,Pickup,Good,CA Store,127.0,5.5,18.0,69.0,6.93,Low
+Kinnaur,Golden Delicious,Aug,Cardboard Carton,Tempo,Poor,Ambient,235.0,5.7,35.0,104.0,23.75,High
+Shimla,Royal Delicious,Oct,Gunny/Loose,Truck,Poor,CA Store,354.0,4.8,37.0,159.0,21.89,High
+Sirmaur,Royal Delicious,Aug,Wooden Box,Pickup,Poor,Cold Store,305.0,6.7,44.0,49.0,14.46,Medium
+Kullu,Royal Delicious,Aug,Wooden Box,Pickup,Poor,Cold Store,294.0,4.4,18.0,92.0,15.01,Medium
+Sirmaur,Gala,Sep,Plastic Crate,Truck,Poor,Cold Store,308.0,8.2,40.0,60.0,16.45,Medium
+Kinnaur,Golden Delicious,Oct,Cardboard Carton,Pickup,Average,Cold Store,379.0,4.8,1.0,80.0,11.84,Low
+Shimla,Royal Delicious,Nov,Plastic Crate,Pickup,Poor,Ambient,275.0,11.2,44.0,62.0,22.73,High
+Shimla,Royal Delicious,Oct,Cardboard Carton,Pickup,Poor,Cold Store,339.0,5.5,25.0,0.0,11.84,Low
+Kinnaur,Red Delicious,Oct,Wooden Box,Pickup,Average,Cold Store,152.0,10.8,25.0,52.0,11.81,Low
+Kullu,Royal Delicious,Sep,Gunny/Loose,Truck,Poor,Ambient,612.0,3.1,1.0,100.0,24.78,High
+Shimla,Red Delicious,Oct,Plastic Crate,Truck,Poor,Ambient,243.0,2.1,19.0,29.0,12.0,Low
+Mandi,Red Delicious,Nov,Gunny/Loose,Truck,Poor,Cold Store,306.0,8.1,45.0,97.0,16.08,Medium
+Chamba,Fuji,Sep,Cardboard Carton,Truck,Poor,Cold Store,354.0,4.8,19.0,67.0,14.05,Medium
+Kullu,Royal Delicious,Oct,Plastic Crate,Pickup,Average,CA Store,227.0,0.5,36.0,52.0,7.56,Low
+Kullu,Golden Delicious,Oct,Wooden Box,Tempo,Average,CA Store,281.0,2.6,26.0,96.0,18.27,Medium
+Shimla,Royal Delicious,Sep,Wooden Box,Pickup,Average,Cold Store,279.0,6.2,41.0,87.0,18.75,Medium
+Mandi,Fuji,Oct,Cardboard Carton,Truck,Average,Ambient,161.0,4.5,28.0,77.0,11.93,Low
+Shimla,Fuji,Sep,Cardboard Carton,Truck,Poor,Ambient,337.0,2.5,11.0,101.0,20.67,High
+Chamba,Golden Delicious,Aug,Wooden Box,Truck,Poor,Cold Store,66.0,4.8,26.0,68.0,15.01,Medium
+Kullu,Red Delicious,Sep,Cardboard Carton,Pickup,Average,Ambient,508.0,5.4,49.0,0.0,17.15,Medium
+Kullu,Royal Delicious,Sep,Plastic Crate,Truck,Poor,Cold Store,383.0,0.9,32.0,45.0,8.05,Low
+Shimla,Gala,Sep,Plastic Crate,Pickup,Good,Cold Store,363.0,10.6,23.0,0.0,14.89,Medium
+Shimla,Golden Delicious,Nov,Gunny/Loose,Pickup,Poor,Cold Store,54.0,12.2,59.0,86.0,22.15,High
+Mandi,Royal Delicious,Sep,Cardboard Carton,Pickup,Good,Cold Store,177.0,2.6,42.0,96.0,10.42,Low
+Kullu,Red Delicious,Oct,Gunny/Loose,Truck,Average,Ambient,461.0,16.5,37.0,98.0,26.66,High
+Kullu,Red Delicious,Oct,Cardboard Carton,Truck,Good,Cold Store,700.0,4.6,30.0,80.0,11.82,Low
+Sirmaur,Gala,Aug,Wooden Box,Pickup,Average,Ambient,435.0,2.9,36.0,99.0,20.16,High
+Sirmaur,Golden Delicious,Sep,Plastic Crate,Pickup,Average,Cold Store,415.0,2.8,36.0,0.0,15.47,Medium
+Chamba,Golden Delicious,Nov,Cardboard Carton,Truck,Good,Ambient,348.0,15.8,1.0,56.0,17.67,Medium
+Shimla,Golden Delicious,Oct,Cardboard Carton,Tempo,Average,Ambient,170.0,1.9,31.0,3.0,14.59,Medium
+Kinnaur,Royal Delicious,Nov,Cardboard Carton,Pickup,Average,Cold Store,409.0,5.5,23.0,46.0,9.86,Low
+Chamba,Red Delicious,Sep,Wooden Box,Truck,Good,CA Store,137.0,6.0,18.0,125.0,8.33,Low
+Kullu,Royal Delicious,Oct,Plastic Crate,Truck,Average,Ambient,123.0,8.2,22.0,104.0,13.6,Medium
+Shimla,Gala,Oct,Cardboard Carton,Truck,Good,Cold Store,114.0,5.2,2.0,86.0,9.35,Low
+Mandi,Red Delicious,Nov,Cardboard Carton,Truck,Good,Cold Store,407.0,15.0,1.0,53.0,10.78,Low
+Kullu,Red Delicious,Aug,Wooden Box,Truck,Good,Ambient,273.0,17.0,44.0,20.0,18.23,Medium
+Kullu,Royal Delicious,Nov,Cardboard Carton,Pickup,Average,CA Store,293.0,12.8,32.0,67.0,17.76,Medium
+Sirmaur,Royal Delicious,Sep,Plastic Crate,Truck,Poor,Cold Store,278.0,6.5,1.0,104.0,12.93,Medium
+Kinnaur,Red Delicious,Oct,Gunny/Loose,Tempo,Average,Cold Store,134.0,9.4,16.0,76.0,15.84,Medium
+Kullu,Royal Delicious,Oct,Plastic Crate,Tempo,Poor,Cold Store,193.0,3.8,38.0,0.0,14.52,Medium
+Kullu,Royal Delicious,Oct,Gunny/Loose,Truck,Average,Cold Store,199.0,10.8,21.0,64.0,12.93,Medium
+Kullu,Gala,Sep,Wooden Box,Truck,Poor,Cold Store,97.0,3.0,44.0,0.0,14.42,Medium
+Shimla,Red Delicious,Oct,Plastic Crate,Pickup,Poor,CA Store,214.0,2.3,41.0,92.0,14.05,Medium
+Mandi,Red Delicious,Sep,Cardboard Carton,Tempo,Average,CA Store,139.0,2.2,5.0,32.0,7.38,Low
+Chamba,Red Delicious,Sep,Cardboard Carton,Tempo,Good,Cold Store,355.0,7.4,23.0,11.0,4.47,Low
+Shimla,Gala,Oct,Plastic Crate,Truck,Good,Ambient,366.0,13.8,18.0,93.0,19.26,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,112.0,14.6,4.0,82.0,13.25,Medium
+Chamba,Gala,Sep,Gunny/Loose,Truck,Average,Cold Store,241.0,0.5,3.0,69.0,15.85,Medium
+Shimla,Fuji,Oct,Plastic Crate,Tempo,Good,Cold Store,521.0,9.8,13.0,148.0,18.7,Medium
+Kullu,Golden Delicious,Sep,Gunny/Loose,Pickup,Poor,Ambient,153.0,2.1,15.0,85.0,22.8,High
+Kullu,Red Delicious,Oct,Cardboard Carton,Pickup,Poor,CA Store,335.0,21.4,29.0,34.0,15.23,Medium
+Kinnaur,Golden Delicious,Oct,Wooden Box,Pickup,Good,Cold Store,294.0,1.5,41.0,81.0,16.21,Medium
+Shimla,Red Delicious,Oct,Plastic Crate,Truck,Good,Ambient,422.0,1.0,33.0,49.0,13.82,Medium
+Kinnaur,Red Delicious,Oct,Cardboard Carton,Pickup,Good,Cold Store,318.0,9.9,36.0,111.0,16.91,Medium
+Kullu,Red Delicious,Oct,Wooden Box,Truck,Average,Ambient,224.0,3.6,21.0,71.0,15.45,Medium
+Kinnaur,Royal Delicious,Sep,Plastic Crate,Pickup,Poor,Ambient,289.0,3.5,34.0,75.0,20.21,High
+Shimla,Royal Delicious,Oct,Gunny/Loose,Pickup,Average,Ambient,291.0,2.6,23.0,2.0,18.17,Medium
+Kullu,Red Delicious,Aug,Plastic Crate,Pickup,Good,Cold Store,268.0,3.0,18.0,62.0,12.02,Medium
+Kullu,Royal Delicious,Sep,Cardboard Carton,Truck,Average,CA Store,109.0,10.2,53.0,58.0,11.4,Low
+Shimla,Red Delicious,Oct,Wooden Box,Tempo,Good,Cold Store,442.0,2.2,1.0,19.0,13.89,Medium
+Shimla,Red Delicious,Sep,Wooden Box,Pickup,Average,Ambient,419.0,4.4,1.0,51.0,17.49,Medium
+Shimla,Fuji,Sep,Cardboard Carton,Truck,Average,Ambient,144.0,2.0,31.0,77.0,11.92,Low
+Shimla,Royal Delicious,Nov,Cardboard Carton,Truck,Average,Ambient,241.0,5.4,21.0,60.0,15.72,Medium
+Shimla,Golden Delicious,Sep,Cardboard Carton,Pickup,Average,Cold Store,251.0,3.4,3.0,4.0,12.82,Medium
+Sirmaur,Red Delicious,Aug,Cardboard Carton,Truck,Poor,Ambient,130.0,7.0,9.0,49.0,16.47,Medium
+Kullu,Royal Delicious,Aug,Wooden Box,Truck,Good,Cold Store,37.0,7.6,11.0,41.0,7.75,Low
+Mandi,Royal Delicious,Sep,Cardboard Carton,Truck,Poor,Ambient,193.0,14.0,38.0,68.0,16.26,Medium
+Sirmaur,Royal Delicious,Oct,Wooden Box,Truck,Good,Cold Store,234.0,20.5,43.0,63.0,18.01,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Average,CA Store,93.0,2.8,50.0,44.0,4.1,Low
+Kinnaur,Royal Delicious,Oct,Plastic Crate,Pickup,Poor,CA Store,303.0,8.3,1.0,42.0,12.8,Medium
+Chamba,Red Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,431.0,3.4,4.0,63.0,14.59,Medium
+Kinnaur,Red Delicious,Oct,Gunny/Loose,Pickup,Good,Cold Store,389.0,7.5,3.0,99.0,13.59,Medium
+Kullu,Royal Delicious,Aug,Cardboard Carton,Truck,Average,Cold Store,264.0,7.3,44.0,71.0,13.09,Medium
+Kullu,Royal Delicious,Oct,Wooden Box,Truck,Average,Cold Store,41.0,7.1,31.0,117.0,15.68,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,Cold Store,373.0,8.7,26.0,105.0,15.3,Medium
+Kullu,Red Delicious,Aug,Cardboard Carton,Pickup,Average,Ambient,299.0,5.6,28.0,120.0,18.88,Medium
+Sirmaur,Royal Delicious,Oct,Wooden Box,Tempo,Good,CA Store,335.0,3.7,24.0,115.0,17.03,Medium
+Sirmaur,Red Delicious,Oct,Plastic Crate,Truck,Average,CA Store,532.0,5.4,8.0,123.0,14.66,Medium
+Shimla,Royal Delicious,Sep,Gunny/Loose,Truck,Good,Ambient,173.0,19.5,33.0,14.0,20.54,High
+Kinnaur,Royal Delicious,Oct,Cardboard Carton,Truck,Good,Cold Store,30.0,3.1,22.0,86.0,6.24,Low
+Shimla,Fuji,Oct,Cardboard Carton,Truck,Average,CA Store,143.0,3.9,7.0,109.0,7.07,Low
+Sirmaur,Royal Delicious,Aug,Plastic Crate,Tempo,Poor,CA Store,343.0,2.6,34.0,116.0,18.21,Medium
+Shimla,Royal Delicious,Sep,Wooden Box,Truck,Good,Cold Store,284.0,0.8,19.0,29.0,10.65,Low
+Sirmaur,Royal Delicious,Oct,Cardboard Carton,Tempo,Poor,Cold Store,122.0,4.7,28.0,86.0,7.69,Low
+Chamba,Fuji,Nov,Plastic Crate,Pickup,Average,CA Store,95.0,7.9,23.0,63.0,6.9,Low
+Shimla,Golden Delicious,Oct,Wooden Box,Pickup,Poor,Cold Store,234.0,2.3,38.0,134.0,17.05,Medium
+Shimla,Golden Delicious,Oct,Plastic Crate,Tempo,Good,Ambient,118.0,12.6,28.0,5.0,15.6,Medium
+Chamba,Fuji,Oct,Cardboard Carton,Truck,Average,Ambient,348.0,6.8,12.0,29.0,6.84,Low
+Shimla,Royal Delicious,Sep,Cardboard Carton,Pickup,Good,Ambient,227.0,10.3,30.0,0.0,13.38,Medium
+Kullu,Fuji,Aug,Cardboard Carton,Truck,Good,Cold Store,198.0,6.4,30.0,66.0,7.93,Low
+Sirmaur,Royal Delicious,Sep,Plastic Crate,Tempo,Average,Cold Store,181.0,4.4,33.0,151.0,13.13,Medium
+Kullu,Golden Delicious,Nov,Cardboard Carton,Pickup,Average,Ambient,314.0,3.7,41.0,58.0,16.28,Medium
+Kullu,Red Delicious,Oct,Plastic Crate,Truck,Good,Ambient,286.0,6.2,16.0,64.0,14.06,Medium
+Kullu,Red Delicious,Nov,Plastic Crate,Tempo,Good,Cold Store,306.0,6.6,35.0,82.0,13.86,Medium
+Shimla,Fuji,Sep,Plastic Crate,Truck,Poor,Cold Store,303.0,3.3,1.0,55.0,9.8,Low
+Sirmaur,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,Cold Store,271.0,4.3,23.0,75.0,15.15,Medium
+Shimla,Fuji,Oct,Cardboard Carton,Pickup,Average,Cold Store,146.0,17.0,21.0,76.0,13.39,Medium
+Shimla,Red Delicious,Sep,Wooden Box,Truck,Poor,Cold Store,185.0,5.5,47.0,26.0,11.27,Low
+Shimla,Golden Delicious,Sep,Wooden Box,Tempo,Good,CA Store,229.0,5.9,23.0,56.0,9.83,Low
+Sirmaur,Fuji,Oct,Gunny/Loose,Pickup,Average,Ambient,548.0,14.3,34.0,90.0,27.16,High
+Shimla,Royal Delicious,Oct,Cardboard Carton,Pickup,Poor,Ambient,105.0,6.6,1.0,97.0,18.29,Medium
+Chamba,Fuji,Oct,Gunny/Loose,Truck,Average,Ambient,226.0,5.0,20.0,112.0,17.55,Medium
+Kinnaur,Red Delicious,Sep,Cardboard Carton,Truck,Good,Cold Store,293.0,10.1,12.0,73.0,11.3,Low
+Chamba,Golden Delicious,Oct,Cardboard Carton,Tempo,Average,Ambient,241.0,8.6,62.0,74.0,21.67,High
+Sirmaur,Royal Delicious,Aug,Cardboard Carton,Truck,Average,Ambient,420.0,6.0,15.0,90.0,21.18,High
+Chamba,Red Delicious,Aug,Plastic Crate,Pickup,Average,CA Store,240.0,6.4,26.0,36.0,10.72,Low
+Sirmaur,Golden Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,250.0,4.0,27.0,35.0,14.05,Medium
+Shimla,Red Delicious,Sep,Cardboard Carton,Truck,Average,Ambient,386.0,1.9,1.0,55.0,14.92,Medium
+Mandi,Royal Delicious,Nov,Plastic Crate,Pickup,Good,Ambient,515.0,7.7,17.0,9.0,19.25,Medium
+Kullu,Royal Delicious,Sep,Wooden Box,Pickup,Average,Cold Store,463.0,1.2,31.0,76.0,13.75,Medium
+Kullu,Gala,Aug,Cardboard Carton,Pickup,Good,Ambient,262.0,1.9,26.0,102.0,12.82,Medium
+Chamba,Royal Delicious,Aug,Cardboard Carton,Tempo,Poor,Cold Store,274.0,4.3,1.0,32.0,13.56,Medium
+Sirmaur,Golden Delicious,Oct,Wooden Box,Truck,Average,CA Store,286.0,3.9,16.0,77.0,11.76,Low
+Kinnaur,Fuji,Sep,Cardboard Carton,Truck,Average,CA Store,299.0,8.3,40.0,35.0,6.66,Low
+Kullu,Royal Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,170.0,9.9,34.0,19.0,11.09,Low
+Kullu,Royal Delicious,Sep,Wooden Box,Pickup,Good,Cold Store,402.0,18.6,43.0,142.0,19.05,Medium
+Kullu,Golden Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,307.0,1.0,10.0,20.0,6.4,Low
+Kullu,Royal Delicious,Oct,Wooden Box,Pickup,Average,Ambient,274.0,7.1,44.0,9.0,17.45,Medium
+Kullu,Red Delicious,Sep,Cardboard Carton,Truck,Average,Cold Store,115.0,6.9,24.0,69.0,11.44,Low
+Shimla,Golden Delicious,Aug,Cardboard Carton,Tempo,Average,Ambient,288.0,6.3,49.0,71.0,22.95,High
+Shimla,Red Delicious,Oct,Cardboard Carton,Tempo,Poor,Cold Store,34.0,7.7,25.0,87.0,14.49,Medium
+Mandi,Red Delicious,Sep,Cardboard Carton,Tempo,Average,Ambient,204.0,8.9,1.0,140.0,17.95,Medium
+Kullu,Golden Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,207.0,12.8,38.0,29.0,19.64,Medium
+Sirmaur,Red Delicious,Aug,Cardboard Carton,Tempo,Average,Ambient,317.0,6.4,18.0,37.0,16.88,Medium
+Kinnaur,Royal Delicious,Oct,Gunny/Loose,Truck,Good,Ambient,524.0,15.5,19.0,124.0,23.93,High
+Shimla,Red Delicious,Sep,Plastic Crate,Truck,Good,Ambient,354.0,6.4,3.0,98.0,13.09,Medium
+Shimla,Gala,Sep,Cardboard Carton,Truck,Poor,CA Store,468.0,3.5,49.0,92.0,14.42,Medium
+Shimla,Golden Delicious,Sep,Wooden Box,Truck,Poor,CA Store,364.0,6.0,17.0,36.0,17.34,Medium
+Sirmaur,Red Delicious,Nov,Wooden Box,Pickup,Poor,Cold Store,426.0,2.5,49.0,105.0,19.69,Medium
+Shimla,Royal Delicious,Sep,Plastic Crate,Truck,Good,CA Store,521.0,2.6,19.0,92.0,8.59,Low
+Kullu,Royal Delicious,Nov,Cardboard Carton,Truck,Good,Cold Store,185.0,4.6,11.0,68.0,7.35,Low
+Sirmaur,Royal Delicious,Nov,Cardboard Carton,Pickup,Average,Cold Store,176.0,4.1,45.0,37.0,9.73,Low
+Sirmaur,Royal Delicious,Sep,Cardboard Carton,Tempo,Poor,Ambient,367.0,12.6,24.0,64.0,22.48,High
+Shimla,Fuji,Sep,Cardboard Carton,Pickup,Good,Ambient,280.0,4.5,24.0,126.0,13.58,Medium
+Shimla,Royal Delicious,Sep,Cardboard Carton,Pickup,Good,Ambient,309.0,2.2,6.0,16.0,14.91,Medium
+Shimla,Gala,Nov,Gunny/Loose,Truck,Good,Ambient,248.0,5.2,18.0,28.0,18.22,Medium
+Shimla,Royal Delicious,Oct,Gunny/Loose,Tempo,Poor,Cold Store,202.0,6.4,31.0,35.0,19.35,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Poor,CA Store,491.0,5.6,6.0,44.0,12.98,Medium
+Kullu,Red Delicious,Aug,Wooden Box,Truck,Average,Ambient,137.0,2.1,17.0,59.0,10.85,Low
+Sirmaur,Royal Delicious,Oct,Cardboard Carton,Truck,Good,Ambient,369.0,13.5,19.0,98.0,18.28,Medium
+Kullu,Gala,Aug,Wooden Box,Pickup,Average,Cold Store,348.0,0.9,26.0,78.0,15.98,Medium
+Kinnaur,Fuji,Aug,Wooden Box,Truck,Average,Cold Store,75.0,5.6,47.0,62.0,12.9,Medium
+Shimla,Gala,Sep,Cardboard Carton,Pickup,Good,Cold Store,172.0,2.0,21.0,71.0,6.44,Low
+Mandi,Royal Delicious,Sep,Plastic Crate,Truck,Good,Cold Store,194.0,10.5,15.0,85.0,7.72,Low
+Kinnaur,Gala,Nov,Gunny/Loose,Truck,Average,Cold Store,353.0,7.1,66.0,0.0,19.15,Medium
+Chamba,Royal Delicious,Oct,Plastic Crate,Truck,Average,Cold Store,232.0,6.4,19.0,103.0,14.05,Medium
+Sirmaur,Fuji,Sep,Plastic Crate,Truck,Poor,Ambient,269.0,4.2,22.0,27.0,16.36,Medium
+Shimla,Red Delicious,Sep,Wooden Box,Truck,Average,Ambient,91.0,12.7,20.0,42.0,17.24,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Pickup,Average,Cold Store,582.0,4.2,21.0,74.0,12.26,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Pickup,Average,Ambient,289.0,16.4,26.0,57.0,19.0,Medium
+Kullu,Royal Delicious,Sep,Wooden Box,Truck,Average,Ambient,345.0,2.5,39.0,79.0,13.15,Medium
+Sirmaur,Royal Delicious,Sep,Cardboard Carton,Pickup,Good,CA Store,210.0,5.2,31.0,66.0,7.93,Low
+Kullu,Fuji,Oct,Plastic Crate,Truck,Average,Ambient,195.0,8.7,41.0,48.0,11.37,Low
+Mandi,Gala,Nov,Cardboard Carton,Truck,Good,Cold Store,529.0,7.4,41.0,121.0,18.57,Medium
+Kullu,Fuji,Oct,Cardboard Carton,Truck,Average,Ambient,31.0,4.9,28.0,88.0,14.86,Medium
+Shimla,Royal Delicious,Aug,Cardboard Carton,Truck,Average,CA Store,316.0,1.0,31.0,72.0,8.91,Low
+Shimla,Red Delicious,Oct,Gunny/Loose,Truck,Average,Ambient,123.0,5.9,42.0,88.0,16.38,Medium
+Kinnaur,Royal Delicious,Sep,Cardboard Carton,Pickup,Average,Ambient,227.0,3.8,8.0,32.0,14.35,Medium
+Kinnaur,Red Delicious,Nov,Cardboard Carton,Truck,Good,CA Store,197.0,3.1,62.0,147.0,12.71,Medium
+Kullu,Royal Delicious,Sep,Cardboard Carton,Pickup,Average,Cold Store,152.0,9.1,17.0,16.0,11.13,Low
+Shimla,Royal Delicious,Sep,Plastic Crate,Truck,Average,Cold Store,285.0,0.8,20.0,65.0,12.17,Medium
+Mandi,Red Delicious,Sep,Gunny/Loose,Pickup,Poor,Ambient,30.0,5.1,7.0,49.0,17.5,Medium
+Shimla,Royal Delicious,Sep,Cardboard Carton,Pickup,Average,Ambient,239.0,0.2,7.0,47.0,10.99,Low
+Sirmaur,Red Delicious,Sep,Gunny/Loose,Truck,Poor,Cold Store,268.0,7.5,40.0,42.0,18.04,Medium
+Shimla,Golden Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,103.0,9.1,59.0,29.0,13.1,Medium
+Shimla,Royal Delicious,Oct,Wooden Box,Pickup,Poor,Cold Store,477.0,5.8,16.0,108.0,22.74,High
+Kullu,Fuji,Oct,Cardboard Carton,Tempo,Good,Cold Store,203.0,3.6,30.0,12.0,8.22,Low
+Kullu,Red Delicious,Sep,Wooden Box,Tempo,Good,Cold Store,249.0,12.6,28.0,99.0,17.01,Medium
+Kullu,Gala,Aug,Plastic Crate,Truck,Good,Cold Store,203.0,13.2,40.0,86.0,13.15,Medium
+Kullu,Golden Delicious,Sep,Wooden Box,Pickup,Good,Cold Store,269.0,6.6,58.0,45.0,11.75,Low
+Sirmaur,Golden Delicious,Sep,Cardboard Carton,Truck,Poor,Cold Store,450.0,14.5,48.0,81.0,23.85,High
+Kullu,Golden Delicious,Sep,Plastic Crate,Truck,Average,Cold Store,601.0,2.5,21.0,54.0,13.27,Medium
+Kullu,Gala,Nov,Gunny/Loose,Pickup,Average,Ambient,377.0,4.7,33.0,16.0,23.34,High
+Kullu,Golden Delicious,Nov,Wooden Box,Pickup,Average,Cold Store,421.0,0.4,34.0,16.0,15.1,Medium
+Shimla,Royal Delicious,Aug,Wooden Box,Pickup,Average,Ambient,503.0,1.9,25.0,86.0,19.82,Medium
+Kinnaur,Royal Delicious,Oct,Plastic Crate,Tempo,Average,Ambient,312.0,1.7,9.0,84.0,15.2,Medium
+Shimla,Golden Delicious,Oct,Cardboard Carton,Truck,Poor,Ambient,484.0,7.5,13.0,70.0,21.18,High
+Kinnaur,Royal Delicious,Sep,Gunny/Loose,Pickup,Average,Cold Store,383.0,2.0,42.0,44.0,15.38,Medium
+Shimla,Royal Delicious,Oct,Cardboard Carton,Truck,Average,Ambient,299.0,2.9,44.0,52.0,16.96,Medium
+Sirmaur,Royal Delicious,Aug,Plastic Crate,Truck,Good,Cold Store,326.0,3.3,22.0,47.0,10.55,Low
+Kullu,Red Delicious,Aug,Cardboard Carton,Truck,Poor,CA Store,43.0,1.5,29.0,0.0,5.45,Low
+Chamba,Royal Delicious,Nov,Cardboard Carton,Tempo,Good,Cold Store,318.0,5.5,43.0,62.0,11.49,Low
+Kullu,Golden Delicious,Oct,Wooden Box,Truck,Average,CA Store,79.0,6.2,1.0,81.0,13.5,Medium
+Shimla,Gala,Sep,Wooden Box,Truck,Poor,Ambient,69.0,1.2,18.0,63.0,12.8,Medium
+Chamba,Gala,Sep,Gunny/Loose,Pickup,Good,Ambient,305.0,8.3,55.0,131.0,21.85,High
+Kinnaur,Royal Delicious,Nov,Gunny/Loose,Tempo,Good,Ambient,135.0,2.4,29.0,20.0,17.15,Medium
+Mandi,Red Delicious,Sep,Cardboard Carton,Tempo,Average,CA Store,279.0,3.2,8.0,34.0,8.03,Low
+Kullu,Red Delicious,Nov,Cardboard Carton,Pickup,Average,Ambient,298.0,7.1,27.0,65.0,18.91,Medium
+Kinnaur,Red Delicious,Nov,Cardboard Carton,Truck,Poor,Ambient,304.0,3.2,40.0,70.0,18.46,Medium
+Chamba,Golden Delicious,Sep,Wooden Box,Pickup,Poor,Cold Store,162.0,1.9,1.0,0.0,11.72,Low
+Kinnaur,Royal Delicious,Oct,Wooden Box,Tempo,Average,Cold Store,397.0,5.2,28.0,84.0,17.16,Medium
+Shimla,Fuji,Oct,Gunny/Loose,Tempo,Poor,Ambient,268.0,10.6,19.0,70.0,25.74,High
+Kinnaur,Royal Delicious,Oct,Plastic Crate,Tempo,Average,CA Store,337.0,9.7,1.0,0.0,16.0,Medium
